@@ -1,0 +1,1751 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-03-17T18:52:51Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/26980112",
+        "attraction": "animal",
+        "barrier": "fence",
+        "name": "Wolf",
+        "name:cs": "Vlk",
+        "species:wikidata": "Q18498",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.2433289,
+              49.0590797
+            ],
+            [
+              13.243857,
+              49.0590638
+            ],
+            [
+              13.2444117,
+              49.0594386
+            ],
+            [
+              13.2447976,
+              49.059839
+            ],
+            [
+              13.245488,
+              49.060461
+            ],
+            [
+              13.2448522,
+              49.0616472
+            ],
+            [
+              13.2438195,
+              49.0613927
+            ],
+            [
+              13.2440623,
+              49.0607663
+            ],
+            [
+              13.2439083,
+              49.0601203
+            ],
+            [
+              13.2433118,
+              49.0598458
+            ],
+            [
+              13.2427324,
+              49.0597472
+            ],
+            [
+              13.2426479,
+              49.0597809
+            ],
+            [
+              13.2425916,
+              49.0597897
+            ],
+            [
+              13.2425272,
+              49.0597704
+            ],
+            [
+              13.2422161,
+              49.0595331
+            ],
+            [
+              13.241917,
+              49.0596999
+            ],
+            [
+              13.241315,
+              49.0595253
+            ],
+            [
+              13.2410091,
+              49.0592642
+            ],
+            [
+              13.2412451,
+              49.0588691
+            ],
+            [
+              13.2413713,
+              49.0586576
+            ],
+            [
+              13.2419774,
+              49.058577
+            ],
+            [
+              13.2424065,
+              49.058809
+            ],
+            [
+              13.2433289,
+              49.0590797
+            ]
+          ]
+        ]
+      },
+      "id": "way/26980112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/26980113",
+        "attraction": "animal",
+        "barrier": "fence",
+        "name": "Luchs",
+        "name:cs": "rys",
+        "species:wikidata": "Q43375",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.2422149,
+              49.0601693
+            ],
+            [
+              13.241534,
+              49.0607704
+            ],
+            [
+              13.2412764,
+              49.060958
+            ],
+            [
+              13.2411615,
+              49.0606643
+            ],
+            [
+              13.2407688,
+              49.0600609
+            ],
+            [
+              13.2408445,
+              49.0598772
+            ],
+            [
+              13.2411753,
+              49.0597561
+            ],
+            [
+              13.2422356,
+              49.0599741
+            ],
+            [
+              13.2422149,
+              49.0601693
+            ]
+          ]
+        ]
+      },
+      "id": "way/26980113"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/62048363",
+        "addr:city": "Bayerisch Eisenstein",
+        "addr:country": "DE",
+        "addr:housenumber": "1+2",
+        "addr:postcode": "94252",
+        "addr:street": "Waldschmidtstraße",
+        "building": "yes",
+        "fax": "+49 9925 903688",
+        "name": "Maier Pension",
+        "phone": "+49 9925 9032912",
+        "tourism": "guest_house",
+        "website": "https://www.maier-ferienwohnungen.com/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.1946311,
+              49.1186261
+            ],
+            [
+              13.1943889,
+              49.1185498
+            ],
+            [
+              13.194467,
+              49.1184437
+            ],
+            [
+              13.1947092,
+              49.1185199
+            ],
+            [
+              13.1946311,
+              49.1186261
+            ]
+          ]
+        ]
+      },
+      "id": "way/62048363"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/109293152",
+        "building": "residential",
+        "building:flats": "1",
+        "building:levels": "1",
+        "building:ruian:type": "3",
+        "name": "Belveder",
+        "phone": "+420 376 397 016",
+        "ref:ruian:building": "11987286",
+        "source": "cuzk:ruian",
+        "source:name": "survey",
+        "tourism": "hotel",
+        "website": "http://www.hotelbelveder.cz"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.2393657,
+              49.1432772
+            ],
+            [
+              13.2392967,
+              49.143193
+            ],
+            [
+              13.2392774,
+              49.1431994
+            ],
+            [
+              13.2392357,
+              49.1431489
+            ],
+            [
+              13.2394208,
+              49.1430842
+            ],
+            [
+              13.2393875,
+              49.143044
+            ],
+            [
+              13.2396012,
+              49.1429692
+            ],
+            [
+              13.2397441,
+              49.1431447
+            ],
+            [
+              13.2396872,
+              49.1431646
+            ],
+            [
+              13.2393657,
+              49.1432772
+            ]
+          ]
+        ]
+      },
+      "id": "way/109293152"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/113858298",
+        "building": "yes",
+        "fee": "no",
+        "name": "Haus zur Wildnis",
+        "opening_hours": "May-Nov: Mo-Su 09:00-18:00; Jan-Apr: Mo-Su,PH 09:00-17:00",
+        "tourism": "museum",
+        "website": "https://www.bayerischer-wald.de/Media/Attraktionen/Besucherzentrum-Haus-zur-Wildnis",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.2430445,
+              49.0608271
+            ],
+            [
+              13.2431937,
+              49.0604632
+            ],
+            [
+              13.2432005,
+              49.0604374
+            ],
+            [
+              13.2432654,
+              49.0604338
+            ],
+            [
+              13.2432193,
+              49.0602458
+            ],
+            [
+              13.2432447,
+              49.0602404
+            ],
+            [
+              13.2431542,
+              49.060023
+            ],
+            [
+              13.2432469,
+              49.0599695
+            ],
+            [
+              13.2434653,
+              49.0601307
+            ],
+            [
+              13.2435134,
+              49.0601791
+            ],
+            [
+              13.2435425,
+              49.0601694
+            ],
+            [
+              13.2435706,
+              49.0601931
+            ],
+            [
+              13.2436028,
+              49.0601834
+            ],
+            [
+              13.2436296,
+              49.0602142
+            ],
+            [
+              13.2436874,
+              49.0602268
+            ],
+            [
+              13.2436739,
+              49.0603463
+            ],
+            [
+              13.2438028,
+              49.060479
+            ],
+            [
+              13.2438345,
+              49.0606606
+            ],
+            [
+              13.2436712,
+              49.0606694
+            ],
+            [
+              13.2436699,
+              49.0606527
+            ],
+            [
+              13.2434912,
+              49.0606672
+            ],
+            [
+              13.2434617,
+              49.0609368
+            ],
+            [
+              13.2430445,
+              49.0608271
+            ]
+          ]
+        ]
+      },
+      "id": "way/113858298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/126131145",
+        "building": "yes",
+        "name": "Hotel Schachten",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.2449741,
+              49.0964741
+            ],
+            [
+              13.2447254,
+              49.0964218
+            ],
+            [
+              13.2447171,
+              49.0962968
+            ],
+            [
+              13.2448079,
+              49.0963112
+            ],
+            [
+              13.2449799,
+              49.0959601
+            ],
+            [
+              13.245132,
+              49.095992
+            ],
+            [
+              13.2450566,
+              49.0961461
+            ],
+            [
+              13.2449903,
+              49.0962815
+            ],
+            [
+              13.2450903,
+              49.0963025
+            ],
+            [
+              13.2450492,
+              49.0963865
+            ],
+            [
+              13.2450199,
+              49.0963804
+            ],
+            [
+              13.2449741,
+              49.0964741
+            ]
+          ]
+        ]
+      },
+      "id": "way/126131145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/181321424",
+        "addr:city": "Bayerisch Eisenstein",
+        "addr:country": "DE",
+        "addr:housenumber": "23",
+        "addr:postcode": "94252",
+        "addr:street": "Brennesstraße",
+        "building": "yes",
+        "contact:facebook": "https://fb.com/100083106883326",
+        "contact:website": "https://maiers-hotel.de/",
+        "name": "Maiers Hotel-Resort",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.1890297,
+              49.1258562
+            ],
+            [
+              13.1890487,
+              49.1259083
+            ],
+            [
+              13.188699,
+              49.1259629
+            ],
+            [
+              13.1886833,
+              49.1259199
+            ],
+            [
+              13.1884684,
+              49.1259534
+            ],
+            [
+              13.1884204,
+              49.1258221
+            ],
+            [
+              13.1886866,
+              49.1257805
+            ],
+            [
+              13.1887082,
+              49.12584
+            ],
+            [
+              13.1889537,
+              49.1258016
+            ],
+            [
+              13.1890068,
+              49.1257933
+            ],
+            [
+              13.1890297,
+              49.1258562
+            ]
+          ]
+        ]
+      },
+      "id": "way/181321424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/204584300",
+        "addr:city": "Bayerisch Eisenstein",
+        "addr:country": "DE",
+        "addr:housenumber": "16",
+        "addr:postcode": "94252",
+        "addr:street": "Hafenbrädlallee",
+        "building": "yes",
+        "name": "Sportel",
+        "operator": "Familie Bruckdorfer",
+        "phone": "+49 9925 625",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.1929402,
+              49.1261739
+            ],
+            [
+              13.1931342,
+              49.126109
+            ],
+            [
+              13.1931447,
+              49.1261224
+            ],
+            [
+              13.1932281,
+              49.1260945
+            ],
+            [
+              13.1933328,
+              49.1262286
+            ],
+            [
+              13.193166,
+              49.1262844
+            ],
+            [
+              13.1931958,
+              49.1263226
+            ],
+            [
+              13.1931168,
+              49.126349
+            ],
+            [
+              13.1930858,
+              49.1263092
+            ],
+            [
+              13.1930541,
+              49.1263198
+            ],
+            [
+              13.1929402,
+              49.1261739
+            ]
+          ]
+        ]
+      },
+      "id": "way/204584300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/204584382",
+        "addr:city": "Bayerisch Eisenstein",
+        "addr:country": "DE",
+        "addr:housenumber": "11",
+        "addr:postcode": "94252",
+        "addr:street": "Hafenbrädlallee",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "regional",
+        "diet:vegetarian": "yes",
+        "name": "Gasthof Pension Bayerisch Häusl",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.195384,
+              49.1257957
+            ],
+            [
+              13.1953574,
+              49.1256672
+            ],
+            [
+              13.195706,
+              49.1256362
+            ],
+            [
+              13.1957327,
+              49.1257648
+            ],
+            [
+              13.195384,
+              49.1257957
+            ]
+          ]
+        ]
+      },
+      "id": "way/204584382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/204584409",
+        "building": "yes",
+        "name": "Pension Bergblick",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.1937626,
+              49.1246244
+            ],
+            [
+              13.1939596,
+              49.1245859
+            ],
+            [
+              13.1940351,
+              49.1247513
+            ],
+            [
+              13.1939522,
+              49.1247675
+            ],
+            [
+              13.1939359,
+              49.1247319
+            ],
+            [
+              13.1938218,
+              49.1247542
+            ],
+            [
+              13.1937626,
+              49.1246244
+            ]
+          ]
+        ]
+      },
+      "id": "way/204584409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/204584415",
+        "addr:city": "Bayerisch Eisenstein",
+        "addr:country": "DE",
+        "addr:housenumber": "15",
+        "addr:postcode": "94252",
+        "addr:street": "Hafenbrädlallee",
+        "building": "yes",
+        "name": "Pension Regina",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.1940087,
+              49.1263033
+            ],
+            [
+              13.1939449,
+              49.1261838
+            ],
+            [
+              13.1942698,
+              49.1261096
+            ],
+            [
+              13.1943222,
+              49.1262078
+            ],
+            [
+              13.1941274,
+              49.1262524
+            ],
+            [
+              13.1941387,
+              49.1262736
+            ],
+            [
+              13.1940087,
+              49.1263033
+            ]
+          ]
+        ]
+      },
+      "id": "way/204584415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/204584427",
+        "building": "yes",
+        "name": "Gästehaus Erika",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.1935817,
+              49.124358
+            ],
+            [
+              13.1935652,
+              49.1243178
+            ],
+            [
+              13.193454,
+              49.1243373
+            ],
+            [
+              13.1934122,
+              49.1242358
+            ],
+            [
+              13.1936499,
+              49.124194
+            ],
+            [
+              13.1936757,
+              49.1242567
+            ],
+            [
+              13.1937755,
+              49.1242392
+            ],
+            [
+              13.193808,
+              49.1243181
+            ],
+            [
+              13.1935817,
+              49.124358
+            ]
+          ]
+        ]
+      },
+      "id": "way/204584427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/223248750",
+        "addr:city": "Bayerisch Eisenstein",
+        "addr:country": "DE",
+        "addr:housenumber": "5",
+        "addr:postcode": "94252",
+        "addr:street": "Bayerwaldstraße",
+        "building": "yes",
+        "name": "Gästehaus Am Berg",
+        "tourism": "guest_house",
+        "wikidata": "Q111124312"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.1973499,
+              49.1230102
+            ],
+            [
+              13.1974015,
+              49.1232022
+            ],
+            [
+              13.1972073,
+              49.1232245
+            ],
+            [
+              13.1971557,
+              49.1230325
+            ],
+            [
+              13.1973499,
+              49.1230102
+            ]
+          ]
+        ]
+      },
+      "id": "way/223248750"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/295159460",
+        "addr:city": "Bayerisch Eisenstein",
+        "addr:country": "DE",
+        "addr:housenumber": "5",
+        "addr:postcode": "94252",
+        "addr:street": "Hauptstraße",
+        "building": "yes",
+        "name": "Gasthof Neuwaldhaus",
+        "tourism": "hotel",
+        "url": "http://www.hotel-neuwaldhaus.de/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.1961198,
+              49.1195251
+            ],
+            [
+              13.1961749,
+              49.1194202
+            ],
+            [
+              13.1959991,
+              49.1193819
+            ],
+            [
+              13.1960718,
+              49.1192393
+            ],
+            [
+              13.1962496,
+              49.1192781
+            ],
+            [
+              13.1962504,
+              49.1192765
+            ],
+            [
+              13.1964723,
+              49.1193264
+            ],
+            [
+              13.1963416,
+              49.119575
+            ],
+            [
+              13.1961198,
+              49.1195251
+            ]
+          ]
+        ]
+      },
+      "id": "way/295159460"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/295171386",
+        "addr:city": "Bayerisch Eisenstein",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "94252",
+        "addr:street": "Sonnenhof",
+        "building": "yes",
+        "name": "Pension Šumaváček",
+        "tourism": "hotel",
+        "website": "http://www.penzionsumavacek.cz/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.1885323,
+              49.1188401
+            ],
+            [
+              13.1886963,
+              49.1187435
+            ],
+            [
+              13.1888506,
+              49.1188553
+            ],
+            [
+              13.1887854,
+              49.1188889
+            ],
+            [
+              13.188675,
+              49.1189448
+            ],
+            [
+              13.1885323,
+              49.1188401
+            ]
+          ]
+        ]
+      },
+      "id": "way/295171386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/173866241",
+        "name": "Steinbachfälle",
+        "tourism": "attraction",
+        "waterway": "waterfall",
+        "wikidata": "Q57268198"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2708653,
+          49.0939707
+        ]
+      },
+      "id": "node/173866241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/290221880",
+        "name": "Hans-Watzlik-Hain",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2299624,
+          49.0989379
+        ]
+      },
+      "id": "node/290221880"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/342866263",
+        "addr:city": "Bayerisch Eisenstein",
+        "addr:country": "DE",
+        "addr:housenumber": "44",
+        "addr:postcode": "94252",
+        "addr:street": "Bahnhofstraße",
+        "contact:email": "localbahnmuseum@t-online.de",
+        "contact:fax": "+49 9925 903210",
+        "contact:phone": "+49 9925 1376",
+        "contact:website": "http://www.blv-online.eu/",
+        "entrance": "main",
+        "fee": "yes",
+        "fee:icom_member": "unknown",
+        "museum": "railway",
+        "name": "Localbahnmuseum Bayerisch Eisenstein",
+        "railway": "museum",
+        "tourism": "museum",
+        "wikidata": "Q76627183"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2042646,
+          49.1196801
+        ]
+      },
+      "id": "node/342866263"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/512562419",
+        "name": "Windwurf-Erlebnisweg",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.283754,
+          49.0930594
+        ]
+      },
+      "id": "node/512562419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/759855635",
+        "addr:city": "Bayerisch Eisenstein",
+        "addr:country": "DE",
+        "addr:housenumber": "12",
+        "addr:postcode": "94252",
+        "addr:street": "Anton-Pech-Weg",
+        "name": "Arberresidenz Aparthotel",
+        "stars": "3",
+        "tourism": "hotel",
+        "website": "https://www.arberresidenz.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2017483,
+          49.1202709
+        ]
+      },
+      "id": "node/759855635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/759855648",
+        "addr:city": "Bayerisch Eisenstein",
+        "addr:country": "DE",
+        "addr:housenumber": "4",
+        "addr:postcode": "94252",
+        "addr:street": "Hauptstraße",
+        "check_date": "2024-06-07",
+        "name": "Das Waldkönig",
+        "phone": "+49 9925 94100",
+        "tourism": "hotel",
+        "website": "http://www.daswaldkönig.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1969939,
+          49.1192334
+        ]
+      },
+      "id": "node/759855648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/975858026",
+        "addr:city": "Bayerisch Eisenstein",
+        "addr:country": "DE",
+        "addr:housenumber": "4",
+        "addr:postcode": "94252",
+        "addr:street": "Hohenzollernstraße",
+        "name": "Hotel Grenzwald",
+        "tourism": "hotel",
+        "website": "http://www.hotel-grenzwald.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2025935,
+          49.1211198
+        ]
+      },
+      "id": "node/975858026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1453434259",
+        "name": "Pension Bellevue",
+        "phone": "+49 9925 903690",
+        "tourism": "guest_house",
+        "website": "https://www.pensionbellevue.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2011092,
+          49.1226325
+        ]
+      },
+      "id": "node/1453434259"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1459775619",
+        "name": "Am Brunnenhof",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1935873,
+          49.1245143
+        ]
+      },
+      "id": "node/1459775619"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1459775623",
+        "name": "Pension Sonneneck",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1943705,
+          49.1245213
+        ]
+      },
+      "id": "node/1459775623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1574700410",
+        "denotation": "natural_monument",
+        "description": "1000 Jährige Eibe",
+        "leaf_cycle": "evergreen",
+        "leaf_type": "needleleaved",
+        "name": "1000 Jährige Eibe",
+        "natural": "tree",
+        "note": "ca. 2,5m Umfang gemessen",
+        "species:de": "Eibe",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2696741,
+          49.0946586
+        ]
+      },
+      "id": "node/1574700410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1636913243",
+        "addr:city": "Bayerisch Eisenstein",
+        "addr:country": "DE",
+        "addr:housenumber": "6",
+        "addr:postcode": "94252",
+        "addr:street": "Hohenzollernstraße",
+        "name": "Villa Kunterbunt",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2027304,
+          49.1209218
+        ]
+      },
+      "id": "node/1636913243"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1835626445",
+        "amenity": "restaurant",
+        "name": "Waldhotel",
+        "phone": "+4999251000",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1956881,
+          49.0911657
+        ]
+      },
+      "id": "node/1835626445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1919279657",
+        "addr:city": "Železná Ruda",
+        "addr:housenumber": "1",
+        "addr:postcode": "34004",
+        "addr:street": "Klostermannovo náměstí",
+        "check_date": "2025-08-04",
+        "fee:icom_member": "unknown",
+        "museum": "history",
+        "name": "Muzeum historických motocyklů",
+        "payment:cards": "no",
+        "payment:cash": "yes",
+        "payment:credit_cards": "no",
+        "payment:debit_cards": "no",
+        "tourism": "museum",
+        "website": "https://www.historickemoto.cz/zelezna-ruda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2343091,
+          49.1376235
+        ]
+      },
+      "id": "node/1919279657"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1990341559",
+        "addr:city": "Bayerisch Eisenstein",
+        "addr:country": "DE",
+        "addr:housenumber": "15",
+        "addr:postcode": "94252",
+        "addr:street": "Am Buchenacker",
+        "name": "Pension Waldblick",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1946249,
+          49.1252541
+        ]
+      },
+      "id": "node/1990341559"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2145802205",
+        "name": "Elan",
+        "phone": "+49 9925 1829139",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1941109,
+          49.1248655
+        ]
+      },
+      "id": "node/2145802205"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2145802472",
+        "addr:city": "Bayerisch Eisenstein",
+        "addr:country": "DE",
+        "addr:housenumber": "13",
+        "addr:postcode": "94252",
+        "addr:street": "Am Buchenacker",
+        "email": "info@pension-eichhorn.com",
+        "guest_house": "bed_and_breakfast",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Pension Eichhorn",
+        "operator": "Rene & Melanie Eichhorn",
+        "phone": "+49 9925 438",
+        "tourism": "guest_house",
+        "website": "https://www.pension-eichhorn.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1943876,
+          49.1250305
+        ]
+      },
+      "id": "node/2145802472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2201127355",
+        "addr:city": "Lindberg",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:place": "Zwieslerwaldhaus",
+        "addr:postcode": "94227",
+        "addr:suburb": "Zwieslerwaldhaus",
+        "name": "Hotel Scharnagl",
+        "tourism": "hotel",
+        "url": "http://www.hotel-scharnagl.eu/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2477314,
+          49.0881928
+        ]
+      },
+      "id": "node/2201127355"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2425149799",
+        "name": "Nationalparkzentrum Falkenstein",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2364728,
+          49.0605639
+        ]
+      },
+      "id": "node/2425149799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2517746764",
+        "addr:city": "Železná Ruda",
+        "addr:conscriptionnumber": "127",
+        "addr:country": "CZ",
+        "addr:housenumber": "127",
+        "addr:postcode": "34004",
+        "addr:street": "1. máje",
+        "amenity": "restaurant",
+        "cuisine": "burger",
+        "diet:vegetarian": "yes",
+        "name": "Hotel Ostrý",
+        "outdoor_seating": "yes",
+        "payment:credit_cards": "yes",
+        "ref:ruian:addr": "12054631",
+        "source:addr": "cuzk:ruian",
+        "toilets": "yes",
+        "toilets:wheelchair": "yes",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2320829,
+          49.1375352
+        ]
+      },
+      "id": "node/2517746764"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2517760525",
+        "addr:city": "Železná Ruda",
+        "addr:conscriptionnumber": "18",
+        "addr:country": "CZ",
+        "addr:housenumber": "18",
+        "addr:postcode": "340 04",
+        "addr:street": "1. máje",
+        "email": "info@hotelzeleznaruda.cz",
+        "internet_access": "wlan",
+        "name": "Hotel Šumava",
+        "phone": "+420 778 542 237",
+        "rooms": "10",
+        "tourism": "hotel",
+        "website": "https://www.hotelzeleznaruda.cz/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2320712,
+          49.1379086
+        ]
+      },
+      "id": "node/2517760525"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2517782096",
+        "addr:city": "Železná Ruda",
+        "addr:conscriptionnumber": "299",
+        "addr:country": "CZ",
+        "addr:housenumber": "299",
+        "addr:place": "Železná Ruda",
+        "addr:postcode": "34004",
+        "internet_access": "wlan",
+        "name": "Hotel Gradl",
+        "ref:ruian:addr": "12056049",
+        "source:addr": "cuzk:ruian",
+        "tourism": "hotel",
+        "website": "http://www.hotelgradl.cz/gradl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2469491,
+          49.1372581
+        ]
+      },
+      "id": "node/2517782096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2517834290",
+        "addr:city": "Železná Ruda",
+        "addr:country": "CZ",
+        "addr:housenumber": "ev.35",
+        "addr:place": "Železná Ruda",
+        "addr:postcode": "34004",
+        "addr:provisionalnumber": "35",
+        "email": "orovsky@seznam.cz",
+        "name": "Chata Ořovský",
+        "note": "Until 2017 was this Hotel Engadin",
+        "phone": "+420 724 377 978",
+        "ref:ruian:addr": "12057223",
+        "source:addr": "cuzk:ruian",
+        "tourism": "hotel",
+        "website": "http://www.orovsky.cz/kontakt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2455992,
+          49.1453328
+        ]
+      },
+      "id": "node/2517834290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3003446093",
+        "email": "info@eisensteiner-hof.de",
+        "fax": "+49 9925 1822943",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Eisensteiner Hof",
+        "operator": "Petr Podracký",
+        "phone": "+49 9925 1822942",
+        "tourism": "hotel",
+        "website": "http://www.eisensteiner-hof.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2024041,
+          49.119842
+        ]
+      },
+      "id": "node/3003446093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3412989291",
+        "name": "Kemp Keramika",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2329653,
+          49.1378519
+        ]
+      },
+      "id": "node/3412989291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3412991096",
+        "addr:city": "Železná Ruda",
+        "addr:housenumber": "129",
+        "addr:postcode": "34004",
+        "addr:street": "Klatovská",
+        "email": "info@magnetithotel.cz",
+        "internet_access": "wlan",
+        "name": "Hotel Magnetit",
+        "phone": "+420 608 717 502",
+        "rooms": "34",
+        "toilets:wheelchair": "yes",
+        "tourism": "hotel",
+        "website": "https://www.magnetithotel.cz/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2351726,
+          49.1375927
+        ]
+      },
+      "id": "node/3412991096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3412991101",
+        "addr:city": "Železná Ruda",
+        "addr:housenumber": "154",
+        "addr:postcode": "34004",
+        "addr:street": "Javorská",
+        "fee": "yes",
+        "name": "Muzeum Železná Ruda",
+        "operator": "Muzeum Šumavy Sušice, příspěvková organizace",
+        "phone": "+420 376 397 319",
+        "tourism": "museum",
+        "website": "http://muzeum.sumava.net/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2302616,
+          49.1377519
+        ]
+      },
+      "id": "node/3412991101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4349898741",
+        "name": "Bohmerwald",
+        "phone": "+420 603218860",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2335404,
+          49.1359675
+        ]
+      },
+      "id": "node/4349898741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4421245908",
+        "name": "Steinhauffen",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2465563,
+          49.096679
+        ]
+      },
+      "id": "node/4421245908"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4935015523",
+        "addr:city": "Bayerisch Eisenstein",
+        "addr:country": "DE",
+        "addr:housenumber": "10",
+        "addr:postcode": "94252",
+        "addr:street": "Brennesstraße",
+        "name": "Pension Arbersonne",
+        "opening_hours": "Mo-Su 14:00-00:00",
+        "phone": "+49 9925 7289960",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1941599,
+          49.1257937
+        ]
+      },
+      "id": "node/4935015523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5310559642",
+        "name": "U Jelena",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2307953,
+          49.1378087
+        ]
+      },
+      "id": "node/5310559642"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6071116669",
+        "inscription": "Gravur eines Wachturms- CS",
+        "name": "CS",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1916575,
+          49.1362548
+        ]
+      },
+      "id": "node/6071116669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7126937137",
+        "name": "U Larvů",
+        "tourism": "guest_house",
+        "website": "http://ularvu.cz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2177607,
+          49.12846
+        ]
+      },
+      "id": "node/7126937137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7126947746",
+        "email": "diana.penzion@post.cz",
+        "guest_house": "pension",
+        "internet_access": "wlan",
+        "name": "Diana",
+        "phone": "+420 602 318 063;+420 602 318 063",
+        "tourism": "guest_house",
+        "website": "https://www.dianasumava.cz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.233202,
+          49.1412441
+        ]
+      },
+      "id": "node/7126947746"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7908318383",
+        "name": "Penzion Sport",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2393073,
+          49.1389519
+        ]
+      },
+      "id": "node/7908318383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7908318384",
+        "check_date": "2025-08-04",
+        "name": "Penzion Bobešova bouda",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2375149,
+          49.1385272
+        ]
+      },
+      "id": "node/7908318384"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7908402760",
+        "check_date": "2025-07-25",
+        "name": "Penzion St. Moritz",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2389002,
+          49.1393914
+        ]
+      },
+      "id": "node/7908402760"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9163899203",
+        "name": "Casino & Hotel ADMIRAL Alžbětín",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2123609,
+          49.1260489
+        ]
+      },
+      "id": "node/9163899203"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11193482678",
+        "fee": "yes",
+        "name": "Kunsträume Grenzenlos",
+        "toilets": "yes",
+        "tourism": "gallery",
+        "website": "https://kunstraeume-grenzenlos.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2070739,
+          49.1211443
+        ]
+      },
+      "id": "node/11193482678"
+    }
+  ]
+}

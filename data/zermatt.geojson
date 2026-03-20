@@ -1,0 +1,6888 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-03-17T18:40:36Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30952475",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "55",
+        "addr:postcode": "3920",
+        "addr:street": "Bahnhofstrasse",
+        "building": "yes",
+        "check_date": "2024-03-29",
+        "name": "Grand hotel Zermatterhof",
+        "stars": "4",
+        "tourism": "hotel",
+        "website": "https://zermatterhof.ch/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.746875,
+              46.0202875
+            ],
+            [
+              7.7468501,
+              46.0202262
+            ],
+            [
+              7.7467093,
+              46.0202468
+            ],
+            [
+              7.7466003,
+              46.0199509
+            ],
+            [
+              7.7465685,
+              46.0198601
+            ],
+            [
+              7.7466722,
+              46.0198411
+            ],
+            [
+              7.7467316,
+              46.0198302
+            ],
+            [
+              7.7469347,
+              46.0197939
+            ],
+            [
+              7.7469792,
+              46.0199279
+            ],
+            [
+              7.7470738,
+              46.020213
+            ],
+            [
+              7.747085,
+              46.0202468
+            ],
+            [
+              7.746875,
+              46.0202875
+            ]
+          ]
+        ]
+      },
+      "id": "way/30952475"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30952476",
+        "building": "yes",
+        "name": "Schweizerhof",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.7481857,
+              46.023076
+            ],
+            [
+              7.7481479,
+              46.0230286
+            ],
+            [
+              7.7481048,
+              46.0229747
+            ],
+            [
+              7.7483383,
+              46.0228848
+            ],
+            [
+              7.7484275,
+              46.0228505
+            ],
+            [
+              7.7485084,
+              46.0229519
+            ],
+            [
+              7.7481857,
+              46.023076
+            ]
+          ]
+        ]
+      },
+      "id": "way/30952476"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/208043983",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "9",
+        "addr:postcode": "3920",
+        "addr:street": "Staldenweg",
+        "building": "yes",
+        "check_date": "2024-08-16",
+        "name": "Artist Apartments & Hotel Garni",
+        "phone": "+41 27 966 29 00",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.748782,
+              46.0158166
+            ],
+            [
+              7.7487342,
+              46.0156822
+            ],
+            [
+              7.7489884,
+              46.0156385
+            ],
+            [
+              7.7490363,
+              46.015773
+            ],
+            [
+              7.748782,
+              46.0158166
+            ]
+          ]
+        ]
+      },
+      "id": "way/208043983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/239782736",
+        "addr:housenumber": "2",
+        "addr:street": "Riedstrasse",
+        "building": "yes",
+        "name": "Julen",
+        "source": "bing",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.7487271,
+              46.0184905
+            ],
+            [
+              7.7486192,
+              46.018402
+            ],
+            [
+              7.748644,
+              46.0183871
+            ],
+            [
+              7.7485632,
+              46.0183194
+            ],
+            [
+              7.7487029,
+              46.0182292
+            ],
+            [
+              7.7489164,
+              46.0183815
+            ],
+            [
+              7.7487271,
+              46.0184905
+            ]
+          ]
+        ]
+      },
+      "id": "way/239782736"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/239782737",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Matthiol",
+        "source": "bing",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.7444084,
+              46.0104808
+            ],
+            [
+              7.7445218,
+              46.0102926
+            ],
+            [
+              7.7444234,
+              46.0102634
+            ],
+            [
+              7.7445041,
+              46.0101409
+            ],
+            [
+              7.7447376,
+              46.0102095
+            ],
+            [
+              7.7446622,
+              46.0103193
+            ],
+            [
+              7.7446951,
+              46.0103278
+            ],
+            [
+              7.7446675,
+              46.0103717
+            ],
+            [
+              7.7447424,
+              46.0103952
+            ],
+            [
+              7.7446373,
+              46.0105501
+            ],
+            [
+              7.7444084,
+              46.0104808
+            ]
+          ]
+        ]
+      },
+      "id": "way/239782737"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/239782739",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "71",
+        "addr:postcode": "3920",
+        "addr:street": "Steinmattstrasse",
+        "building": "yes",
+        "check_date": "2024-08-16",
+        "name": "Rhodania",
+        "phone": "+41 27 966 34 10",
+        "source": "bing",
+        "tourism": "hotel",
+        "website": "https://www.rhodania-northwall.ch/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.7482931,
+              46.0177771
+            ],
+            [
+              7.7482977,
+              46.0174877
+            ],
+            [
+              7.7483958,
+              46.0174813
+            ],
+            [
+              7.7484685,
+              46.0177611
+            ],
+            [
+              7.7482931,
+              46.0177771
+            ]
+          ]
+        ]
+      },
+      "id": "way/239782739"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/239782740",
+        "addr:housenumber": "265",
+        "addr:postcode": "3920",
+        "addr:street": "Furi",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "regional",
+        "email": "info@hotelsilvana.ch",
+        "fax": "+41 27 966 28 05",
+        "name": "Silvana Mountain Hotel",
+        "name:en": "Silvana Mountain Hotel",
+        "opening_hours:reception": "08:00-22:00",
+        "phone": "+41 27 966 28 00",
+        "source": "bing",
+        "tourism": "hotel",
+        "website": "https://www.hotelsilvana.ch/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.7282387,
+              46.0034769
+            ],
+            [
+              7.7281964,
+              46.0034104
+            ],
+            [
+              7.7282232,
+              46.003402
+            ],
+            [
+              7.7281331,
+              46.0032734
+            ],
+            [
+              7.7283425,
+              46.0032058
+            ],
+            [
+              7.7284313,
+              46.0033478
+            ],
+            [
+              7.7284074,
+              46.0033561
+            ],
+            [
+              7.7284435,
+              46.0034183
+            ],
+            [
+              7.7282387,
+              46.0034769
+            ]
+          ]
+        ]
+      },
+      "id": "way/239782740"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/249622443",
+        "addr:housenumber": "7",
+        "addr:street": "Steinmattweg",
+        "building": "yes",
+        "name": "Aristella",
+        "source": "Bing",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.7494809,
+              46.0196121
+            ],
+            [
+              7.7497667,
+              46.0194727
+            ],
+            [
+              7.7498605,
+              46.0195655
+            ],
+            [
+              7.7496971,
+              46.0196452
+            ],
+            [
+              7.7496729,
+              46.0196212
+            ],
+            [
+              7.7495505,
+              46.0196809
+            ],
+            [
+              7.7494809,
+              46.0196121
+            ]
+          ]
+        ]
+      },
+      "id": "way/249622443"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/249622444",
+        "addr:housenumber": "39",
+        "addr:street": "Steinmattstrasse",
+        "building": "yes",
+        "check_date": "2024-08-16",
+        "name": "Hotel Daniela",
+        "source": "Bing",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.7493969,
+              46.019456
+            ],
+            [
+              7.7493311,
+              46.0193127
+            ],
+            [
+              7.7496186,
+              46.0192393
+            ],
+            [
+              7.7496697,
+              46.0193765
+            ],
+            [
+              7.7495272,
+              46.0194082
+            ],
+            [
+              7.749535,
+              46.0194239
+            ],
+            [
+              7.7493969,
+              46.019456
+            ]
+          ]
+        ]
+      },
+      "id": "way/249622444"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/249627878",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "23, 25",
+        "addr:postcode": "3920",
+        "addr:street": "Matterstrasse",
+        "building": "yes",
+        "check_date": "2024-04-18",
+        "name": "Mama",
+        "source": "Bing",
+        "tourism": "hotel",
+        "website": "www. hotel-admiral.ch"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.7511218,
+              46.021908
+            ],
+            [
+              7.7512804,
+              46.0219063
+            ],
+            [
+              7.7512825,
+              46.0219372
+            ],
+            [
+              7.7513164,
+              46.0219374
+            ],
+            [
+              7.7513188,
+              46.0220433
+            ],
+            [
+              7.7511249,
+              46.0220455
+            ],
+            [
+              7.7511218,
+              46.021908
+            ]
+          ]
+        ]
+      },
+      "id": "way/249627878"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/294872698",
+        "addr:city": "Zermatt",
+        "addr:country": "CH",
+        "addr:housenumber": "52",
+        "addr:postcode": "3920",
+        "addr:street": "Spissstrasse",
+        "building": "yes",
+        "email": "info@alpenresort.com",
+        "fax": "+41279663055",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Alpen Resort Hotel",
+        "operator": "Best Western",
+        "phone": "+41279663000",
+        "stars": "4",
+        "toilets:wheelchair": "no",
+        "tourism": "hotel",
+        "website": "https://alpenresort.com/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.7517336,
+              46.0263002
+            ],
+            [
+              7.7516362,
+              46.0261636
+            ],
+            [
+              7.7518214,
+              46.0260999
+            ],
+            [
+              7.7518736,
+              46.026082
+            ],
+            [
+              7.7519036,
+              46.0260717
+            ],
+            [
+              7.752001,
+              46.0262084
+            ],
+            [
+              7.7517336,
+              46.0263002
+            ]
+          ]
+        ]
+      },
+      "id": "way/294872698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/295840124",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "10",
+        "addr:postcode": "3920",
+        "addr:street": "Vispastrasse",
+        "building": "yes",
+        "name": "Hotel Perren",
+        "stars": "3",
+        "tourism": "hotel",
+        "website": "https://hotel-perren.ch/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.7501412,
+              46.0212875
+            ],
+            [
+              7.7503079,
+              46.0211075
+            ],
+            [
+              7.7504199,
+              46.0211573
+            ],
+            [
+              7.7505034,
+              46.0211949
+            ],
+            [
+              7.7503367,
+              46.0213748
+            ],
+            [
+              7.7501412,
+              46.0212875
+            ]
+          ]
+        ]
+      },
+      "id": "way/295840124"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/295840319",
+        "addr:city": "zermatt",
+        "addr:housenumber": "32",
+        "addr:street": "Schluhmattstrasse",
+        "building": "yes",
+        "name": "The Matterhorn",
+        "tourism": "hostel",
+        "website": "https://www.booking.com/hotel/ch/matterhorn-hostel.zh-cn.html?aid=304142;sid=b8ba1698de4076f4225de85f72fa9318;dcid=4;checkin=2015-09-17;checkout=2015-09-18;ucfs=1;srfid=5b19557972bb705a0159513c213ec6fdf5d869e2X3;highlight_room=6908002"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.7451165,
+              46.017116
+            ],
+            [
+              7.7452079,
+              46.0170083
+            ],
+            [
+              7.7453344,
+              46.0170602
+            ],
+            [
+              7.745243,
+              46.0171678
+            ],
+            [
+              7.7451165,
+              46.017116
+            ]
+          ]
+        ]
+      },
+      "id": "way/295840319"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/295840387",
+        "building": "hotel",
+        "name": "Hotel Metropol & Spa",
+        "phone": "+41 27 966 35 66",
+        "stars": "4",
+        "tourism": "hotel",
+        "website": "https://www.metropol-zermatt.ch/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.7499174,
+              46.0216547
+            ],
+            [
+              7.7497273,
+              46.0215886
+            ],
+            [
+              7.749813,
+              46.0214696
+            ],
+            [
+              7.7500031,
+              46.0215356
+            ],
+            [
+              7.7499174,
+              46.0216547
+            ]
+          ]
+        ]
+      },
+      "id": "way/295840387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/295840485",
+        "addr:housenumber": "31",
+        "addr:postcode": "3920",
+        "addr:street": "Matterstrasse",
+        "building": "yes",
+        "name": "Cheminee",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.7510776,
+              46.0224676
+            ],
+            [
+              7.7510339,
+              46.0223421
+            ],
+            [
+              7.7511769,
+              46.0223168
+            ],
+            [
+              7.7512227,
+              46.0224404
+            ],
+            [
+              7.7510776,
+              46.0224676
+            ]
+          ]
+        ]
+      },
+      "id": "way/295840485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/295840494",
+        "addr:housenumber": "43",
+        "addr:postcode": "3920",
+        "addr:street": "Matterstrasse",
+        "building": "yes",
+        "check_date": "2024-08-16",
+        "name": "Hotel Alpenhof",
+        "tourism": "hotel",
+        "website": "https://www.julen.ch/de/hotel-alpenhof/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.751055,
+              46.0232536
+            ],
+            [
+              7.7512727,
+              46.0232347
+            ],
+            [
+              7.751345,
+              46.0236366
+            ],
+            [
+              7.7510808,
+              46.0237
+            ],
+            [
+              7.7510104,
+              46.0236017
+            ],
+            [
+              7.7511405,
+              46.0235626
+            ],
+            [
+              7.751055,
+              46.0232536
+            ]
+          ]
+        ]
+      },
+      "id": "way/295840494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/295840537",
+        "addr:housenumber": "35",
+        "addr:street": "Riedstrasse",
+        "building": "yes",
+        "name": "Dufour",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.7501194,
+              46.0189959
+            ],
+            [
+              7.7500445,
+              46.0188216
+            ],
+            [
+              7.7501903,
+              46.0187914
+            ],
+            [
+              7.7501851,
+              46.0187792
+            ],
+            [
+              7.7503533,
+              46.0187444
+            ],
+            [
+              7.7504032,
+              46.0188605
+            ],
+            [
+              7.7502713,
+              46.0188878
+            ],
+            [
+              7.7503015,
+              46.0189582
+            ],
+            [
+              7.7501194,
+              46.0189959
+            ]
+          ]
+        ]
+      },
+      "id": "way/295840537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/295848805",
+        "addr:city": "Zermatt",
+        "addr:country": "CH",
+        "addr:housenumber": "52",
+        "addr:postcode": "3920",
+        "addr:street": "Spissstrasse",
+        "building": "yes",
+        "email": "info@alpenresort.com",
+        "fax": "+41279663055",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Alpen Resort Hotel",
+        "operator": "Best Western",
+        "phone": "+41279663000",
+        "stars": "4",
+        "toilets:wheelchair": "no",
+        "tourism": "hotel",
+        "website": "https://alpenresort.com/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.7515135,
+              46.0258985
+            ],
+            [
+              7.7517694,
+              46.0258097
+            ],
+            [
+              7.7518499,
+              46.0259215
+            ],
+            [
+              7.751808,
+              46.025936
+            ],
+            [
+              7.7517308,
+              46.0259628
+            ],
+            [
+              7.751594,
+              46.0260103
+            ],
+            [
+              7.7515135,
+              46.0258985
+            ]
+          ]
+        ]
+      },
+      "id": "way/295848805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/295849005",
+        "addr:city": "Zermatt",
+        "addr:country": "CH",
+        "addr:housename": "Fleurs de Zermatt",
+        "addr:housenumber": "41",
+        "addr:postcode": "3920",
+        "addr:street": "Unterer Mattenweg",
+        "building": "yes",
+        "email": "info@fleursdezermatt.ch",
+        "fax": "+41 27 966 31 01",
+        "internet_access": "wlan",
+        "name": "Fleurs de Zermatt",
+        "phone": "+41 27 966 31 00",
+        "toilets:wheelchair": "yes",
+        "tourism": "hotel",
+        "website": "http://www.fleursdezermatt.ch",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.7512848,
+              46.0255283
+            ],
+            [
+              7.7512708,
+              46.0255159
+            ],
+            [
+              7.7511893,
+              46.02556
+            ],
+            [
+              7.7511349,
+              46.0255121
+            ],
+            [
+              7.7511811,
+              46.0254875
+            ],
+            [
+              7.7510955,
+              46.0254117
+            ],
+            [
+              7.7513122,
+              46.0252937
+            ],
+            [
+              7.7514659,
+              46.0254297
+            ],
+            [
+              7.7512848,
+              46.0255283
+            ]
+          ]
+        ]
+      },
+      "id": "way/295849005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/295875971",
+        "building": "yes",
+        "name": "Riffelhaus 1853",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.7528165,
+              45.9932136
+            ],
+            [
+              7.752763,
+              45.9931979
+            ],
+            [
+              7.7527259,
+              45.9931758
+            ],
+            [
+              7.7527164,
+              45.9931419
+            ],
+            [
+              7.752736,
+              45.9931087
+            ],
+            [
+              7.7527793,
+              45.9930935
+            ],
+            [
+              7.7528276,
+              45.9930974
+            ],
+            [
+              7.7528829,
+              45.9931131
+            ],
+            [
+              7.7528917,
+              45.9931009
+            ],
+            [
+              7.7529465,
+              45.9931181
+            ],
+            [
+              7.7529554,
+              45.9931068
+            ],
+            [
+              7.7532653,
+              45.9931984
+            ],
+            [
+              7.7532552,
+              45.9932134
+            ],
+            [
+              7.7533253,
+              45.9932344
+            ],
+            [
+              7.7532366,
+              45.9933913
+            ],
+            [
+              7.7527907,
+              45.9932592
+            ],
+            [
+              7.7528165,
+              45.9932136
+            ]
+          ]
+        ]
+      },
+      "id": "way/295875971"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/296194816",
+        "building": "yes",
+        "name": "Zooom The Matterhorn",
+        "tourism": "museum",
+        "url": "https://www.gornergrat.ch/en/pages/zooom-the-matterhorn"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.7828255,
+              45.98364
+            ],
+            [
+              7.7828841,
+              45.983539
+            ],
+            [
+              7.783043,
+              45.9835835
+            ],
+            [
+              7.7830621,
+              45.9835507
+            ],
+            [
+              7.7830811,
+              45.9835179
+            ],
+            [
+              7.7832068,
+              45.9835532
+            ],
+            [
+              7.7831733,
+              45.9836109
+            ],
+            [
+              7.7831987,
+              45.983618
+            ],
+            [
+              7.7831355,
+              45.9837269
+            ],
+            [
+              7.7828255,
+              45.98364
+            ]
+          ]
+        ]
+      },
+      "id": "way/296194816"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/296194840",
+        "addr:housenumber": "3100",
+        "addr:street": "Gornergrat",
+        "building": "hotel",
+        "building:levels": "2",
+        "check_date": "2024-11-11",
+        "name": "Kulmhotel Gornergrat",
+        "phone": "+41 27 966 64 00",
+        "roof:levels": "1",
+        "toilets:wheelchair": "yes",
+        "tourism": "hotel",
+        "website": "https://gornergrat-kulm.ch/",
+        "wheelchair": "yes",
+        "wikidata": "Q15221895"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.7837155,
+              45.9835347
+            ],
+            [
+              7.7834522,
+              45.983543
+            ],
+            [
+              7.7834329,
+              45.983249
+            ],
+            [
+              7.7838013,
+              45.9832373
+            ],
+            [
+              7.7838016,
+              45.9832421
+            ],
+            [
+              7.7838089,
+              45.9833523
+            ],
+            [
+              7.7837038,
+              45.9833556
+            ],
+            [
+              7.7837155,
+              45.9835347
+            ]
+          ]
+        ]
+      },
+      "id": "way/296194840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/669950399",
+        "leisure": "garden",
+        "name": "Ricola Kräutergarten",
+        "tourism": "attraction",
+        "website": "https://www.ricola.com/de-ch/ricola-erleben/ricola-erleben/ricola-krautergarten/krautergarten-zermatt"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.7353908,
+              46.007568
+            ],
+            [
+              7.7354295,
+              46.0075815
+            ],
+            [
+              7.7354597,
+              46.0076062
+            ],
+            [
+              7.7354342,
+              46.0076455
+            ],
+            [
+              7.7353862,
+              46.0076465
+            ],
+            [
+              7.7354109,
+              46.0076718
+            ],
+            [
+              7.7353931,
+              46.0077207
+            ],
+            [
+              7.7353088,
+              46.0077353
+            ],
+            [
+              7.7352677,
+              46.0077261
+            ],
+            [
+              7.7352252,
+              46.007696
+            ],
+            [
+              7.7352383,
+              46.0076605
+            ],
+            [
+              7.7352306,
+              46.0076132
+            ],
+            [
+              7.7352871,
+              46.0075917
+            ],
+            [
+              7.735325,
+              46.007582
+            ],
+            [
+              7.7353908,
+              46.007568
+            ]
+          ]
+        ]
+      },
+      "id": "way/669950399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/795127606",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "130",
+        "addr:postcode": "3920",
+        "addr:street": "Oberdorfstrasse",
+        "building": "yes",
+        "name": "Cassa Vanessa",
+        "tourism": "hotel",
+        "website": "http://www.casavanessa.ch"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.7430209,
+              46.0165531
+            ],
+            [
+              7.7428379,
+              46.0164191
+            ],
+            [
+              7.7430121,
+              46.0163043
+            ],
+            [
+              7.7431951,
+              46.0164383
+            ],
+            [
+              7.7430209,
+              46.0165531
+            ]
+          ]
+        ]
+      },
+      "id": "way/795127606"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/991546040",
+        "building": "yes",
+        "check_date": "2025-07-27",
+        "name": "La Vue",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.7434803,
+              46.0193429
+            ],
+            [
+              7.7435284,
+              46.0192726
+            ],
+            [
+              7.7435513,
+              46.0192801
+            ],
+            [
+              7.7435893,
+              46.0192246
+            ],
+            [
+              7.7436126,
+              46.0192323
+            ],
+            [
+              7.7436508,
+              46.0191764
+            ],
+            [
+              7.7438688,
+              46.0192483
+            ],
+            [
+              7.7438205,
+              46.019319
+            ],
+            [
+              7.7437853,
+              46.0193074
+            ],
+            [
+              7.7437093,
+              46.0194184
+            ],
+            [
+              7.7434803,
+              46.0193429
+            ]
+          ]
+        ]
+      },
+      "id": "way/991546040"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1266342306",
+        "name": "Gletschergarten",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.7304254,
+              45.9952933
+            ],
+            [
+              7.7311948,
+              45.9948854
+            ],
+            [
+              7.7314979,
+              45.995204
+            ],
+            [
+              7.7309338,
+              45.9955252
+            ],
+            [
+              7.7306364,
+              45.9954639
+            ],
+            [
+              7.7304254,
+              45.9952933
+            ]
+          ]
+        ]
+      },
+      "id": "way/1266342306"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/342765056",
+        "amenity": "restaurant",
+        "name": "Igludorf",
+        "tourism": "hotel",
+        "website": "https://www.iglu-dorf.com/de/standorte/zermatt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7635871,
+          45.9886765
+        ]
+      },
+      "id": "node/342765056"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/665053809",
+        "addr:city": "Zermatt",
+        "addr:country": "CH",
+        "addr:housenumber": "39",
+        "addr:postcode": "3920",
+        "addr:street": "Matterstrasse",
+        "check_date": "2024-08-16",
+        "email": "national@active.ch",
+        "name": "Hotel National",
+        "phone": "+41 27 966 99 66",
+        "tourism": "hotel",
+        "website": "https://hotelnationalzermatt.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7513185,
+          46.0228955
+        ]
+      },
+      "id": "node/665053809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/680090260",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "35",
+        "addr:postcode": "3920",
+        "addr:street": "Metzggasse",
+        "building": "yes",
+        "name": "Hotel Sonne",
+        "stars": "4",
+        "tourism": "hotel",
+        "url": "www.sonne.masch.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7439132,
+          46.0189504
+        ]
+      },
+      "id": "node/680090260"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/846567863",
+        "amenity": "restaurant",
+        "ele": "1961",
+        "email": "info@edelweiss-zermatt.ch",
+        "name": "Edelweiss Zermatt",
+        "opening_hours": "closed; May Sa[-1]-Sep 15 Mo-Su 09:00-18:00",
+        "phone": "+41 27 967 22 36",
+        "tourism": "hotel",
+        "website": "https://www.edelweiss-zermatt.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7380779,
+          46.0222665
+        ]
+      },
+      "id": "node/846567863"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/997963580",
+        "bar": "yes",
+        "check_date": "2022-12-17",
+        "email": "info@astoria-zermatt.ch",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "name": "Astoria",
+        "phone": "+41 27 967 52 22",
+        "reservation": "yes",
+        "stars": "3",
+        "tourism": "hotel",
+        "website": "https://www.astoria-zermatt.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7488454,
+          46.0188368
+        ]
+      },
+      "id": "node/997963580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1385837071",
+        "addr:postcode": "3920",
+        "addr:street": "Kirchplatz",
+        "fee": "yes",
+        "name": "Matterhorn Museum",
+        "opening_hours": "Mo-Su,PH 15:00-18:00",
+        "tourism": "museum",
+        "website": "https://zermatt.swiss/en/discover-experience/tradition-culture/museum",
+        "wheelchair": "limited",
+        "wikidata": "Q15251785"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7464574,
+          46.0197686
+        ]
+      },
+      "id": "node/1385837071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1539783092",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "4",
+        "addr:postcode": "3920",
+        "addr:street": "Gryfelblatte",
+        "name": "Holiday",
+        "phone": "+41 27 967 12 03",
+        "stars": "3",
+        "tourism": "hotel",
+        "website": "https://www.hotelholiday.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7540704,
+          46.0235497
+        ]
+      },
+      "id": "node/1539783092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1658851253",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "106",
+        "addr:postcode": "3920",
+        "addr:street": "Oberdorfstrasse",
+        "check_date": "2024-03-29",
+        "name": "Alpenblick",
+        "stars": "3",
+        "tourism": "hotel",
+        "website": "https://www.alpenblick-zermatt.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7440883,
+          46.0173175
+        ]
+      },
+      "id": "node/1658851253"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1658851256",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "79",
+        "addr:postcode": "3920",
+        "addr:street": "Oberdorfstrasse",
+        "name": "Alpenrose",
+        "stars": "3",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7434187,
+          46.0165037
+        ]
+      },
+      "id": "node/1658851256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2011303404",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "54",
+        "addr:postcode": "3920",
+        "addr:street": "Bahnhofplatz",
+        "name": "Hotel Bahnhof",
+        "tourism": "hotel",
+        "website": "https://www.hotelbahnhofzermatt.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7487609,
+          46.0243709
+        ]
+      },
+      "id": "node/2011303404"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2011306245",
+        "addr:housenumber": "15",
+        "addr:postcode": "3920",
+        "addr:street": "Kirchstrasse",
+        "name": "Hotel de la Couronne",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7484618,
+          46.0189522
+        ]
+      },
+      "id": "node/2011306245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2432262820",
+        "addr:city": "Zermatt",
+        "addr:country": "CH",
+        "addr:housenumber": "3",
+        "addr:postcode": "3920",
+        "addr:street": "Riedstrasse",
+        "check_date": "2024-08-16",
+        "email": "info@bellerive-zermatt.ch",
+        "fax": "+41 27 966 74 75",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Bellerive Zermatt",
+        "operator": "Katja & Mario Noti",
+        "phone": "+41 27 966 74 74",
+        "stars": "3",
+        "tourism": "hotel",
+        "website": "https://www.bellerive-zermatt.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7490207,
+          46.0185788
+        ]
+      },
+      "id": "node/2432262820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2470508406",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "21",
+        "addr:postcode": "3920",
+        "addr:street": "Bodmenstrasse",
+        "name": "Best Western Butterfly",
+        "phone": "+41 27 966 41 66",
+        "tourism": "hotel",
+        "website": "https://www.hotel-butterfly.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7466078,
+          46.0232414
+        ]
+      },
+      "id": "node/2470508406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2635064931",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "64",
+        "addr:postcode": "3920",
+        "addr:street": "Metzggasse",
+        "name": "La Vue",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7437566,
+          46.0193658
+        ]
+      },
+      "id": "node/2635064931"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3149410223",
+        "amenity": "restaurant",
+        "name": "Täschalp Restaurant & Lodge",
+        "tourism": "hostel",
+        "website": "https://taeschalp.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8101753,
+          46.0591361
+        ]
+      },
+      "id": "node/3149410223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156995861",
+        "check_date": "2024-08-16",
+        "name": "Chesa Valese",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7490248,
+          46.0191275
+        ]
+      },
+      "id": "node/3156995861"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4058058592",
+        "addr:city": "Zermatt",
+        "addr:country": "CH",
+        "addr:housenumber": "131",
+        "addr:postcode": "3920",
+        "addr:street": "Schluhmattstrasse",
+        "email": "info@matterhorn-focus.ch",
+        "internet_access": "wlan",
+        "name": "Matterhorn FOCUS",
+        "phone": "+41 27 967 20 45",
+        "stars": "4",
+        "tourism": "hotel",
+        "website": "https://www.matterhorn-focus.ch/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7425865,
+          46.0140009
+        ]
+      },
+      "id": "node/4058058592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4058067184",
+        "addr:city": "Zermatt",
+        "addr:country": "CH",
+        "addr:housenumber": "80",
+        "addr:postcode": "3920",
+        "addr:street": "Bahnhofstrasse",
+        "name": "Monte Rosa",
+        "phone": "+41 27 966 03 33",
+        "stars": "4",
+        "tourism": "hotel",
+        "website": "https://www.monterosazermatt.ch/",
+        "wikidata": "Q1630972"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7462059,
+          46.0201555
+        ]
+      },
+      "id": "node/4058067184"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4238927489",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "18",
+        "addr:postcode": "3920",
+        "addr:street": "Brantschenhaus",
+        "contact:fax": "+41 27 967 61 05",
+        "contact:phone": "+41 27 967 22 70",
+        "name": "Haus Theodul",
+        "tourism": "hostel",
+        "website": "https://theodul.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7467225,
+          46.0228176
+        ]
+      },
+      "id": "node/4238927489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4663120290",
+        "name": "Le Petit Cervin",
+        "name:en": "Petit Cervin",
+        "tourism": "hotel",
+        "website": "https://www.montcervinpalace.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7481098,
+          46.0218068
+        ]
+      },
+      "id": "node/4663120290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5190665839",
+        "description": "3***Hotel in Chalet-Stil mit Wellness-Anlage",
+        "email": "info@taesch-walliserhof.ch",
+        "name": "Walliserhof",
+        "phone": "+41 27 966 39 66",
+        "tourism": "hotel",
+        "website": "https://www.taesch-walliserhof.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7759963,
+          46.0648014
+        ]
+      },
+      "id": "node/5190665839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5426361267",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "21",
+        "addr:postcode": "3920",
+        "addr:street": "Bahnhofstrasse",
+        "amenity": "waste_basket",
+        "name": "Hotel Testa Grigia",
+        "tourism": "hotel",
+        "website": "https://www.testa-grigia.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7472166,
+          46.0219587
+        ]
+      },
+      "id": "node/5426361267"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5462488899",
+        "name": "Chalet Conthey",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7558219,
+          46.0280462
+        ]
+      },
+      "id": "node/5462488899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5462488900",
+        "name": "Elysian Collection",
+        "tourism": "guest_house",
+        "website": "https://elysiancollection.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7553829,
+          46.0279878
+        ]
+      },
+      "id": "node/5462488900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5462488901",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "152",
+        "addr:postcode": "3920",
+        "addr:street": "Vispastrasse",
+        "name": "A La Casa",
+        "tourism": "guest_house",
+        "website": "https://www.matterhorn.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7552724,
+          46.0282232
+        ]
+      },
+      "id": "node/5462488901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5462488902",
+        "name": "Top View",
+        "tourism": "guest_house",
+        "website": "https://www.top-view-zermatt.ch/home.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7556491,
+          46.0273815
+        ]
+      },
+      "id": "node/5462488902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5462488903",
+        "check_date": "2025-07-04",
+        "name": "Viscaria",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7546954,
+          46.0274068
+        ]
+      },
+      "id": "node/5462488903"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5462488904",
+        "name": "Huas Salix",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7544194,
+          46.0273454
+        ]
+      },
+      "id": "node/5462488904"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5462488905",
+        "name": "Patricia",
+        "tourism": "guest_house",
+        "website": "https://www.patricia-zermatt.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7541575,
+          46.0272151
+        ]
+      },
+      "id": "node/5462488905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5462488906",
+        "name": "Viscaria Studio",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7536337,
+          46.0272299
+        ]
+      },
+      "id": "node/5462488906"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5462488907",
+        "name": "Collinetta",
+        "tourism": "guest_house",
+        "website": "https://collinetta-zermatt.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7546494,
+          46.0267015
+        ]
+      },
+      "id": "node/5462488907"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5462488908",
+        "name": "Susanna",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7549278,
+          46.0264387
+        ]
+      },
+      "id": "node/5462488908"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5462488909",
+        "name": "Gadi",
+        "tourism": "guest_house",
+        "website": "https://www.zermatt-line.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7554052,
+          46.0260774
+        ]
+      },
+      "id": "node/5462488909"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5462488910",
+        "name": "Millennium",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7546621,
+          46.0261663
+        ]
+      },
+      "id": "node/5462488910"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5462488916",
+        "name": "Power Snow",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7542278,
+          46.0259442
+        ]
+      },
+      "id": "node/5462488916"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5462488917",
+        "name": "Primavista",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7538846,
+          46.0256767
+        ]
+      },
+      "id": "node/5462488917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5462488918",
+        "name": "Belmont",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7550707,
+          46.0246531
+        ]
+      },
+      "id": "node/5462488918"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5462489634",
+        "name": "Hotel Carina",
+        "tourism": "hotel",
+        "website": "https://www.hotelcarina.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7541276,
+          46.0244099
+        ]
+      },
+      "id": "node/5462489634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5462489635",
+        "name": "Primavera",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7541974,
+          46.0240044
+        ]
+      },
+      "id": "node/5462489635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5462489637",
+        "name": "House Aster",
+        "tourism": "guest_house",
+        "website": "https://haus-aster.business.site/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7544607,
+          46.0231789
+        ]
+      },
+      "id": "node/5462489637"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5462489650",
+        "name": "Haus Domino",
+        "tourism": "guest_house",
+        "website": "https://www.mountainexposure.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7532235,
+          46.023656
+        ]
+      },
+      "id": "node/5462489650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5462489658",
+        "check_date": "2024-10-13",
+        "name": "Colosseo",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7535829,
+          46.0233087
+        ]
+      },
+      "id": "node/5462489658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5462525100",
+        "name": "Haus St Bernhard",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.753026,
+          46.0231707
+        ]
+      },
+      "id": "node/5462525100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5462525105",
+        "check_date": "2024-10-13",
+        "name": "Matthiol",
+        "tourism": "guest_house",
+        "website": "https://www.matthiol.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7530156,
+          46.0224441
+        ]
+      },
+      "id": "node/5462525105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5462527933",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "35",
+        "addr:postcode": "3920",
+        "addr:street": "Riedweg",
+        "name": "Schönegg",
+        "tourism": "hotel",
+        "website": "https://schonegg.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7525599,
+          46.021789
+        ]
+      },
+      "id": "node/5462527933"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5462527942",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "96",
+        "addr:postcode": "3920",
+        "addr:street": "Riedweg",
+        "name": "Alpenroyal",
+        "tourism": "hotel",
+        "website": "https://www.alpenroyal.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7527981,
+          46.0215512
+        ]
+      },
+      "id": "node/5462527942"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5462527954",
+        "name": "Chalet Waidmannsheil",
+        "tourism": "hotel",
+        "website": "http://www.lehner-richard.ch/home.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7523922,
+          46.021191
+        ]
+      },
+      "id": "node/5462527954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5462560510",
+        "addr:city": "Zermatt",
+        "addr:country": "CH",
+        "addr:housenumber": "9",
+        "addr:postcode": "3920",
+        "addr:street": "Brunnmattgasse",
+        "email": "info@parkhotel-beausite.ch",
+        "fax": "+41 27 966 68 69",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Parkhotel Beau Site",
+        "operator": "Franz Schwegler-Dossetto",
+        "phone": "+41 27 966 68 68",
+        "stars": "4",
+        "tourism": "hotel",
+        "website": "https://www.parkhotel-beausite.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7507251,
+          46.0205164
+        ]
+      },
+      "id": "node/5462560510"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5462560519",
+        "check_date": "2024-08-16",
+        "name": "Ambiance",
+        "tourism": "hotel",
+        "website": "www. hotelambiance.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7507207,
+          46.0189872
+        ]
+      },
+      "id": "node/5462560519"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5462560821",
+        "check_date": "2024-08-16",
+        "name": "Capricorn",
+        "tourism": "hotel",
+        "website": "https://www.capricorn-zermatt.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7505089,
+          46.019132
+        ]
+      },
+      "id": "node/5462560821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5462560824",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "9",
+        "addr:postcode": "3920",
+        "addr:street": "Riedstrasse",
+        "name": "the rex",
+        "tourism": "hotel",
+        "website": "https://www.hotel-rex.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7495514,
+          46.0184745
+        ]
+      },
+      "id": "node/5462560824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5462560829",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "4",
+        "addr:postcode": "3920",
+        "addr:street": "Riedstrasse",
+        "check_date": "2024-08-16",
+        "name": "Welcome",
+        "tourism": "guest_house",
+        "website": "https://www.welcome-zermatt.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7489996,
+          46.0182705
+        ]
+      },
+      "id": "node/5462560829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5462578418",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "42",
+        "addr:postcode": "3920",
+        "addr:street": "Kirchstrasse",
+        "email": "hotel@antika.ch",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Hotel Antika",
+        "phone": "+41 27 957 21 51",
+        "stars": "3",
+        "tourism": "hotel",
+        "website": "www.antika.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.747638,
+          46.0190678
+        ]
+      },
+      "id": "node/5462578418"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5462578621",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "40",
+        "addr:postcode": "3920",
+        "addr:street": "Kirchstrasse",
+        "name": "Hotel Allalin",
+        "tourism": "hotel",
+        "website": "https://www.hotel-allalin.ch/en/general/home"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7475025,
+          46.0191432
+        ]
+      },
+      "id": "node/5462578621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5463412908",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "52",
+        "addr:postcode": "3920",
+        "addr:street": "Bachstrasse",
+        "email": "hotel@antika.ch",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Annex Antika",
+        "note": "Reception @ Hotel Antika (Kirchstrasse 42)",
+        "phone": "+41 27 967 21 51",
+        "smoking": "no",
+        "stars": "2",
+        "tourism": "hotel",
+        "website": "http://www.antika.ch/en/annex-antika"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7472763,
+          46.0186946
+        ]
+      },
+      "id": "node/5463412908"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5464205537",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "175",
+        "addr:postcode": "3920",
+        "addr:street": "Riedweg",
+        "name": "Chalet Bergheim",
+        "tourism": "guest_house",
+        "website": "http://www.chaletbergheim.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7573955,
+          46.0278591
+        ]
+      },
+      "id": "node/5464205537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5464205539",
+        "name": "Sonnhalde B",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7547465,
+          46.0279101
+        ]
+      },
+      "id": "node/5464205539"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5464205540",
+        "name": "Alpenlodge",
+        "tourism": "hotel",
+        "website": "https://www.alpenlodge.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7556531,
+          46.0268598
+        ]
+      },
+      "id": "node/5464205540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5464205541",
+        "name": "Belle Epoque Chalet",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7556557,
+          46.0265301
+        ]
+      },
+      "id": "node/5464205541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5464205550",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "11",
+        "addr:postcode": "3920",
+        "addr:street": "Untere Wiestistrasse",
+        "name": "Phoenix",
+        "phone": "+41 27 968 18 19",
+        "tourism": "hotel",
+        "website": "https://phoenixzermatt.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7535373,
+          46.0245076
+        ]
+      },
+      "id": "node/5464205550"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5464205551",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "8",
+        "addr:postcode": "3920",
+        "addr:street": "Untere Wiestistrasse",
+        "name": "Casa Della Luce Appartments",
+        "phone": "+41 27 968 19 17",
+        "tourism": "guest_house",
+        "website": "https://www.zermattpremium.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7537664,
+          46.0243364
+        ]
+      },
+      "id": "node/5464205551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5464205557",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "210",
+        "addr:postcode": "3920",
+        "addr:street": "Wiestistrasse",
+        "name": "Haus Zenith",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7557753,
+          46.0247621
+        ]
+      },
+      "id": "node/5464205557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5464205562",
+        "name": "Haus Verona",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.755484,
+          46.0245255
+        ]
+      },
+      "id": "node/5464205562"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5464246212",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "192",
+        "addr:postcode": "3920",
+        "addr:street": "Wiestistrasse",
+        "name": "Haus St. Martin",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7555756,
+          46.0241558
+        ]
+      },
+      "id": "node/5464246212"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5464246213",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "19",
+        "addr:postcode": "3920",
+        "addr:street": "Gryfelblatte",
+        "name": "Haus Kondor",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.755496,
+          46.0238252
+        ]
+      },
+      "id": "node/5464246213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5464246214",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "17",
+        "addr:postcode": "3920",
+        "addr:street": "Gryfelblatte",
+        "name": "Weras",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7551323,
+          46.0240225
+        ]
+      },
+      "id": "node/5464246214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5464246215",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "44",
+        "addr:postcode": "3920",
+        "addr:street": "Gryfelblatte",
+        "name": "Haus Monal",
+        "tourism": "guest_house",
+        "website": "www.hausmonal.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7554158,
+          46.0233045
+        ]
+      },
+      "id": "node/5464246215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5464299952",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "158",
+        "addr:postcode": "3920",
+        "addr:street": "Wiestistrasse",
+        "name": "Pauschalen",
+        "tourism": "hotel",
+        "website": "https://hotelpauschalen.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7544451,
+          46.0237237
+        ]
+      },
+      "id": "node/5464299952"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5464299953",
+        "name": "Haus Casa Blanca",
+        "tourism": "guest_house",
+        "website": "https://www.zermattholidays.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7552925,
+          46.0241436
+        ]
+      },
+      "id": "node/5464299953"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5464299954",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "172",
+        "addr:postcode": "3920",
+        "addr:street": "Wiestistrasse",
+        "name": "Haus Roc",
+        "phone": "+41 79 938 25 92",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7546088,
+          46.0239589
+        ]
+      },
+      "id": "node/5464299954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5464299959",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "17",
+        "addr:postcode": "3920",
+        "addr:street": "Untere Wiestistrasse",
+        "name": "Haus Alouette",
+        "tourism": "guest_house",
+        "website": "www.alouette.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7539418,
+          46.0247501
+        ]
+      },
+      "id": "node/5464299959"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5464299960",
+        "name": "Zermatt Cervino Paradise",
+        "tourism": "guest_house",
+        "website": "http://www.studiozermatt.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.754286,
+          46.0230178
+        ]
+      },
+      "id": "node/5464299960"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5464300000",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "52",
+        "addr:postcode": "3920",
+        "addr:street": "Vispastrasse",
+        "check_date": "2024-08-16",
+        "name": "La Ginabelle",
+        "phone": "+41 27 966 50 00",
+        "tourism": "hotel",
+        "website": "https://www.la.ginabelle.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7522515,
+          46.0241606
+        ]
+      },
+      "id": "node/5464300000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5464344883",
+        "addr:city": "Zermatt",
+        "addr:country": "CH",
+        "addr:housenumber": "156",
+        "addr:postcode": "3920",
+        "addr:street": "Riedweg",
+        "email": "info@cervo.ch",
+        "fax": "+41 27 968 12 11",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Cervo",
+        "phone": "+41 27 968 12 12",
+        "rooms": "36",
+        "stars": "4S",
+        "tourism": "hotel",
+        "website": "https://www.cervo.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7543013,
+          46.021937
+        ]
+      },
+      "id": "node/5464344883"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5464344886",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "71",
+        "addr:postcode": "3920",
+        "addr:street": "Oberehäusern",
+        "check_date": "2024-08-16",
+        "name": "Arnold",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7547159,
+          46.0204566
+        ]
+      },
+      "id": "node/5464344886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5464344887",
+        "addr:city": "Zermatt",
+        "addr:postcode": "3920",
+        "name": "Chalet Le Gros Caillou",
+        "tourism": "guest_house",
+        "website": "https://www.booking.com/hotel/ch/le-gros-caillou.en-gb.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7537284,
+          46.0198853
+        ]
+      },
+      "id": "node/5464344887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5464344888",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "14",
+        "addr:postcode": "3920",
+        "addr:street": "Riedweg",
+        "name": "Shangri La",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7522265,
+          46.0198226
+        ]
+      },
+      "id": "node/5464344888"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5464784614",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "12",
+        "addr:postcode": "3920",
+        "addr:street": "Gryfelblatte",
+        "name": "Les Mélèzes C",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7539205,
+          46.0230851
+        ]
+      },
+      "id": "node/5464784614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5464784615",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "130",
+        "addr:postcode": "3920",
+        "addr:street": "Wiestistrasse",
+        "name": "Cresta",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7536516,
+          46.0228606
+        ]
+      },
+      "id": "node/5464784615"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5464793533",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "25",
+        "addr:postcode": "3920",
+        "addr:street": "Oberehäusern",
+        "name": "Apartment Oberhäusern",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7525366,
+          46.0209649
+        ]
+      },
+      "id": "node/5464793533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5464793534",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "20",
+        "addr:postcode": "3920",
+        "addr:street": "Oberhäusern",
+        "name": "Chalet Aendry",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7521843,
+          46.020413
+        ]
+      },
+      "id": "node/5464793534"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5464793536",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "4",
+        "addr:postcode": "3920",
+        "addr:street": "Riedweg",
+        "check_date": "2024-08-16",
+        "name": "La Bohème",
+        "tourism": "guest_house",
+        "website": "https://www.laboheme.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7514217,
+          46.0197118
+        ]
+      },
+      "id": "node/5464793536"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5464793537",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "17",
+        "addr:postcode": "3920",
+        "addr:street": "Brunnmattgasse",
+        "name": "Alpine",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7513738,
+          46.0203395
+        ]
+      },
+      "id": "node/5464793537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5464793538",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "19",
+        "addr:postcode": "3920",
+        "addr:street": "Brunnmattgasse",
+        "name": "Apartments Julen Zermatt",
+        "tourism": "guest_house",
+        "website": "https://www.julenzermatt.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7512346,
+          46.0204349
+        ]
+      },
+      "id": "node/5464793538"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5464793539",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "15",
+        "addr:postcode": "3920",
+        "addr:street": "Riedweg",
+        "name": "Hotel Bella Vista",
+        "tourism": "hotel",
+        "website": "https://bellavista-zermatt.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7514353,
+          46.020812
+        ]
+      },
+      "id": "node/5464793539"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5464793557",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "90",
+        "addr:postcode": "3920",
+        "addr:street": "Riedstrasse",
+        "name": "Adona Apartments",
+        "tourism": "guest_house",
+        "website": "https://www.adona.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7510503,
+          46.0188223
+        ]
+      },
+      "id": "node/5464793557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5464793558",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "88",
+        "addr:postcode": "3920",
+        "addr:street": "Riedstrasse",
+        "name": "Haus Bergfried",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7509672,
+          46.0185842
+        ]
+      },
+      "id": "node/5464793558"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5464793563",
+        "check_date": "2024-08-16",
+        "name": "Basecamp",
+        "tourism": "hotel",
+        "website": "http://www.hotel-basecamp.ch/home.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7505137,
+          46.0186081
+        ]
+      },
+      "id": "node/5464793563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5464793564",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "78",
+        "addr:postcode": "3920",
+        "addr:street": "Riedstrasse",
+        "name": "Chalet Agade",
+        "tourism": "guest_house",
+        "website": "https://www.chalet-achat.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7504173,
+          46.018489
+        ]
+      },
+      "id": "node/5464793564"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5464793572",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "9",
+        "addr:postcode": "3920",
+        "addr:street": "Flecksteinweg",
+        "check_date": "2024-08-16",
+        "name": "Jolimont",
+        "tourism": "guest_house",
+        "website": "https://www.zermatt-apartments.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7501722,
+          46.0179784
+        ]
+      },
+      "id": "node/5464793572"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5464793573",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "26",
+        "addr:postcode": "3920",
+        "addr:street": "Flecksteinweg",
+        "name": "Malteserhaus",
+        "tourism": "guest_house",
+        "website": "https://malteserhaus.swiss/de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.750215,
+          46.0175896
+        ]
+      },
+      "id": "node/5464793573"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5464793577",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "60",
+        "addr:postcode": "3920",
+        "addr:street": "Riedstrasse",
+        "name": "Diamant",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7506269,
+          46.0174544
+        ]
+      },
+      "id": "node/5464793577"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5464793578",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "62",
+        "addr:postcode": "3920",
+        "addr:street": "Riedstrasse",
+        "name": "Amaryllis",
+        "tourism": "guest_house",
+        "website": "https://amaryllis-zermatt.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.75028,
+          46.0173833
+        ]
+      },
+      "id": "node/5464793578"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5464793579",
+        "name": "Belaie Haus",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7498046,
+          46.0172646
+        ]
+      },
+      "id": "node/5464793579"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5464793580",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "9",
+        "addr:postcode": "3920",
+        "addr:street": "Schanze",
+        "name": "Apartment Lani",
+        "tourism": "guest_house",
+        "website": "https://www.booking.com/hotel/ch/chalet-zermatt-1247.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7495048,
+          46.0170158
+        ]
+      },
+      "id": "node/5464793580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5464793581",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "85",
+        "addr:postcode": "3920",
+        "addr:street": "Steinmattstrasse",
+        "name": "Jägerhof Hotel",
+        "tourism": "hotel",
+        "website": "https://www.jaegerhofzermatt.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7487278,
+          46.0169474
+        ]
+      },
+      "id": "node/5464793581"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5464793587",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "96",
+        "addr:postcode": "3920",
+        "addr:street": "Steinmattstrasse",
+        "name": "Albatros",
+        "phone": "+41 27 966 80 60",
+        "tourism": "hotel",
+        "website": "https://hotel-albatros.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7483669,
+          46.0166161
+        ]
+      },
+      "id": "node/5464793587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5464793588",
+        "check_date": "2024-08-16",
+        "name": "Chalet Aria",
+        "tourism": "guest_house",
+        "website": "https://www.zermattskichalets.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7483865,
+          46.0161902
+        ]
+      },
+      "id": "node/5464793588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5464793589",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "12",
+        "addr:postcode": "3920",
+        "addr:street": "Schanze",
+        "name": "Chalet Larchenheim",
+        "tourism": "guest_house",
+        "website": "http://www.zermatter-chalet.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7488473,
+          46.0163533
+        ]
+      },
+      "id": "node/5464793589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5464793591",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "11",
+        "addr:postcode": "3920",
+        "addr:street": "Am Stalden",
+        "check_date": "2024-08-16",
+        "name": "Kisseye",
+        "tourism": "guest_house",
+        "website": "https://www.zermattpremium.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7492469,
+          46.015696
+        ]
+      },
+      "id": "node/5464793591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5464793592",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "35",
+        "addr:postcode": "3920",
+        "addr:street": "Am Stalden",
+        "check_date": "2024-08-16",
+        "name": "Chalet Nepomuk",
+        "tourism": "guest_house",
+        "website": "https://www.holidayzermatt.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7494898,
+          46.0148155
+        ]
+      },
+      "id": "node/5464793592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5464817945",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "6",
+        "addr:postcode": "3920",
+        "addr:street": "Staldenstrasse",
+        "name": "Parrot",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7476645,
+          46.0159769
+        ]
+      },
+      "id": "node/5464817945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5464817950",
+        "name": "Solewerk Apartments",
+        "tourism": "guest_house",
+        "website": "https://www.solewerk.ch/de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7478653,
+          46.0158422
+        ]
+      },
+      "id": "node/5464817950"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5464817958",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "33",
+        "addr:postcode": "3920",
+        "addr:street": "Staldenstrasse",
+        "name": "Angelina Apartment",
+        "tourism": "guest_house",
+        "website": "http://www.arctis-apartments.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7485187,
+          46.015398
+        ]
+      },
+      "id": "node/5464817958"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5464817986",
+        "name": "Haus Fleckstein",
+        "tourism": "guest_house",
+        "website": "http://www.castor-zermatt.ch/index.php/de-de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7482282,
+          46.0147032
+        ]
+      },
+      "id": "node/5464817986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5464817999",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "53",
+        "addr:postcode": "3920",
+        "addr:street": "Staldenstrasse",
+        "name": "Mia",
+        "tourism": "guest_house",
+        "website": "https://www.hausmia.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.748604,
+          46.0144938
+        ]
+      },
+      "id": "node/5464817999"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5464818000",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "67",
+        "addr:postcode": "3920",
+        "addr:street": "Staldenstrasse",
+        "name": "Lizi",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7484956,
+          46.0140713
+        ]
+      },
+      "id": "node/5464818000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5464818005",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "87",
+        "addr:postcode": "3920",
+        "addr:street": "Staldenstrasse",
+        "name": "Bielti",
+        "tourism": "guest_house",
+        "website": "https://www.ferienwohnung-bielti-zermatt.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7481197,
+          46.0135166
+        ]
+      },
+      "id": "node/5464818005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5464818017",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "95",
+        "addr:postcode": "3920",
+        "addr:street": "Staldenstrasse",
+        "name": "Pablo",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7474071,
+          46.013406
+        ]
+      },
+      "id": "node/5464818017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5464818223",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "115",
+        "addr:postcode": "3920",
+        "addr:street": "Staldenstrasse",
+        "name": "Matterland",
+        "tourism": "guest_house",
+        "website": "https://www.matterland.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7472309,
+          46.0135415
+        ]
+      },
+      "id": "node/5464818223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5466573128",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "18",
+        "addr:postcode": "3920",
+        "addr:street": "Riedstrasse",
+        "check_date": "2024-08-16",
+        "name": "Europe",
+        "tourism": "hotel",
+        "website": "https://www.europe-zermatt.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7497018,
+          46.0179142
+        ]
+      },
+      "id": "node/5466573128"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5466573129",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "77",
+        "addr:postcode": "3920",
+        "addr:street": "Steinmattstrasse",
+        "name": "Caprea",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.749142,
+          46.0172079
+        ]
+      },
+      "id": "node/5466573129"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5466573130",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "83",
+        "addr:postcode": "3920",
+        "addr:street": "Steinmattweg",
+        "name": "Narnia",
+        "tourism": "hotel",
+        "website": "https://narnia-zermatt.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7492162,
+          46.0176081
+        ]
+      },
+      "id": "node/5466573130"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5466573131",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "86",
+        "addr:postcode": "3920",
+        "addr:street": "Steinmattstrasse",
+        "check_date": "2024-08-16",
+        "name": "Chalet Abacus",
+        "tourism": "guest_house",
+        "website": "https://www.matterhorn.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.74811,
+          46.01673
+        ]
+      },
+      "id": "node/5466573131"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5466573133",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "3",
+        "addr:postcode": "3920",
+        "addr:street": "Luchernstrasse",
+        "name": "Chalet Valaisien",
+        "tourism": "guest_house",
+        "website": "http://www.casavanessa.ch/chalet_valaisan_14.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7480539,
+          46.017116
+        ]
+      },
+      "id": "node/5466573133"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5466573134",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "84",
+        "addr:postcode": "3920",
+        "addr:street": "Steinmattstrasse",
+        "name": "Esplanade",
+        "tourism": "guest_house",
+        "website": "https://www.apartment-rental-zermatt.ch/ferienwohnung/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7475216,
+          46.0164479
+        ]
+      },
+      "id": "node/5466573134"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5466573139",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "11",
+        "addr:postcode": "3920",
+        "addr:street": "Luchernstrasse",
+        "name": "Little Dream House",
+        "tourism": "guest_house",
+        "website": "https://www.booking.com/hotel/ch/little-dream-house.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7473154,
+          46.0168549
+        ]
+      },
+      "id": "node/5466573139"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5466573142",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "31",
+        "addr:postcode": "3920",
+        "addr:street": "Luchernstrasse",
+        "name": "Adonis",
+        "tourism": "hotel",
+        "website": "https://hotel-adonis-zermatt-ag.business.site/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7470699,
+          46.0168148
+        ]
+      },
+      "id": "node/5466573142"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5466573147",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "75",
+        "addr:postcode": "3920",
+        "addr:street": "Steinmattweg",
+        "check_date": "2024-08-16",
+        "name": "Haus Bellide",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7486147,
+          46.0178214
+        ]
+      },
+      "id": "node/5466573147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5466573151",
+        "name": "Bristol",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7482147,
+          46.0186913
+        ]
+      },
+      "id": "node/5466573151"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5466573154",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "15",
+        "addr:postcode": "3920",
+        "addr:street": "Schluhmattstrasse",
+        "name": "Myzermatt",
+        "tourism": "guest_house",
+        "website": "https://www.myzermatt.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7478459,
+          46.0182393
+        ]
+      },
+      "id": "node/5466573154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5466573162",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "19",
+        "addr:postcode": "3920",
+        "addr:street": "Schluhmattstrasse",
+        "check_date": "2023-12-09",
+        "name": "Albana Real",
+        "stars": "4",
+        "tourism": "hotel",
+        "website": "https://hotelalbanareal.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7475415,
+          46.0180634
+        ]
+      },
+      "id": "node/5466573162"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5466925745",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "12",
+        "addr:postcode": "3920",
+        "addr:street": "Luchernstrasse",
+        "name": "Chalet Lydia",
+        "tourism": "guest_house",
+        "website": "http://www.zermatt.net/apartments/lydia/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7474496,
+          46.0173886
+        ]
+      },
+      "id": "node/5466925745"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5466925746",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "6",
+        "addr:postcode": "3920",
+        "addr:street": "Luchernstrasse",
+        "name": "Olympia",
+        "tourism": "guest_house",
+        "website": "http://www.zermatt-apartment.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7478237,
+          46.0172797
+        ]
+      },
+      "id": "node/5466925746"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5466925748",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "53",
+        "addr:postcode": "3920",
+        "addr:street": "Schluhmattstrasse",
+        "name": "Marimba",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7460606,
+          46.0173106
+        ]
+      },
+      "id": "node/5466925748"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5466925752",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "55",
+        "addr:postcode": "3920",
+        "addr:street": "Schluhmattstrasse",
+        "name": "Firefly",
+        "tourism": "hotel",
+        "website": "https://www.firefly-zermatt.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7455618,
+          46.0169918
+        ]
+      },
+      "id": "node/5466925752"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5466925761",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "37",
+        "addr:postcode": "3920",
+        "addr:street": "Luchernstrasse",
+        "name": "Haus Balma",
+        "tourism": "guest_house",
+        "website": "http://www.balmatravel.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7460348,
+          46.0168571
+        ]
+      },
+      "id": "node/5466925761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5466925762",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "12",
+        "addr:postcode": "3920",
+        "addr:street": "Staldenstrasse",
+        "name": "Casa Delle Stelle",
+        "tourism": "guest_house",
+        "website": "https://www.zermattpremium.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7469207,
+          46.01618
+        ]
+      },
+      "id": "node/5466925762"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5466925763",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "70",
+        "addr:postcode": "3920",
+        "addr:street": "Staldenstrasse",
+        "name": "Haus Bergere",
+        "tourism": "guest_house",
+        "website": "https://www.zermattholidays.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7477504,
+          46.0140647
+        ]
+      },
+      "id": "node/5466925763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5466925764",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "9",
+        "addr:postcode": "3920",
+        "addr:street": "Wiestiboden",
+        "name": "Apartment Richemont",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7475727,
+          46.0142451
+        ]
+      },
+      "id": "node/5466925764"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5466925765",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "45",
+        "addr:postcode": "3920",
+        "addr:street": "Wiestibodenweg",
+        "name": "Alex Lodge",
+        "tourism": "guest_house",
+        "website": "www.alex-lodge.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7467477,
+          46.0144904
+        ]
+      },
+      "id": "node/5466925765"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5466925766",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "70",
+        "addr:postcode": "3920",
+        "addr:street": "Wiestibodenweg",
+        "name": "Strahlhorn",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7465265,
+          46.014648
+        ]
+      },
+      "id": "node/5466925766"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5466925776",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "69",
+        "addr:postcode": "3920",
+        "addr:street": "Schluhmattstrasse",
+        "name": "Zermatt Paradies",
+        "tourism": "guest_house",
+        "website": "https://paradise.swiss/en"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7456183,
+          46.0158386
+        ]
+      },
+      "id": "node/5466925776"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5466925784",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "59",
+        "addr:postcode": "3920",
+        "addr:street": "Schluhmattstrasse",
+        "name": "Bolero",
+        "tourism": "guest_house",
+        "website": "http://www.bolero-appartements.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7452203,
+          46.0168794
+        ]
+      },
+      "id": "node/5466925784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5466925808",
+        "name": "Chalet Les Ecureuils",
+        "tourism": "guest_house",
+        "website": "http://www.zermattapartmentrentals.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7443891,
+          46.015903
+        ]
+      },
+      "id": "node/5466925808"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5466926431",
+        "name": "Sun Valley Lodge",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7435248,
+          46.0159656
+        ]
+      },
+      "id": "node/5466926431"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5466926439",
+        "name": "Hotel Antares",
+        "tourism": "hotel",
+        "website": "http://www.hotel-antares.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7431803,
+          46.0156695
+        ]
+      },
+      "id": "node/5466926439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5466926442",
+        "name": "Berghaus",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.744563,
+          46.0149888
+        ]
+      },
+      "id": "node/5466926442"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5466926443",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "117",
+        "addr:postcode": "3920",
+        "addr:street": "Schluhmattstrasse",
+        "name": "Juliana",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7429588,
+          46.0152214
+        ]
+      },
+      "id": "node/5466926443"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5466926444",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "41",
+        "addr:postcode": "3920",
+        "addr:street": "Winkelmattenweg",
+        "name": "Cortina",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7438175,
+          46.0142905
+        ]
+      },
+      "id": "node/5466926444"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5466926445",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "18",
+        "addr:postcode": "3920",
+        "addr:street": "Winkelmattenweg",
+        "name": "Berghof Hotel",
+        "tourism": "hotel",
+        "website": "https://www.berghof-zermatt.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7433533,
+          46.0147168
+        ]
+      },
+      "id": "node/5466926445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5467038575",
+        "addr:city": "Zermatt",
+        "addr:postcode": "3920",
+        "addr:street": "Bielaweg Scheibenwaldweg",
+        "name": "Alpoase",
+        "tourism": "guest_house",
+        "website": "https://www.booking.com/hotel/ch/chalet-alpoase.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7451328,
+          46.0142107
+        ]
+      },
+      "id": "node/5467038575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5467038576",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "29",
+        "addr:postcode": "3920",
+        "addr:street": "Bielaweg",
+        "name": "Leopold",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7449483,
+          46.0139936
+        ]
+      },
+      "id": "node/5467038576"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5467038577",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "10",
+        "addr:postcode": "3920",
+        "addr:street": "Bielaweg Scheibenwaldweg",
+        "name": "Weidersehn",
+        "tourism": "guest_house",
+        "website": "https://www.hauswiedersehn.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7448246,
+          46.0138231
+        ]
+      },
+      "id": "node/5467038577"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5467038578",
+        "name": "Perren Apaerments",
+        "tourism": "guest_house",
+        "website": "https://www.apartment-rental-zermatt.ch/ferienwohnung/en"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7444541,
+          46.0136801
+        ]
+      },
+      "id": "node/5467038578"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5467038579",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "76",
+        "addr:postcode": "3920",
+        "addr:street": "Winkelmattenweg",
+        "name": "Chalet Bergidyll",
+        "tourism": "guest_house",
+        "website": "https://www.bergidyll-zermatt.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7442569,
+          46.0136156
+        ]
+      },
+      "id": "node/5467038579"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5467038587",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "14",
+        "addr:postcode": "3920",
+        "addr:street": "Binna",
+        "name": "Casa Pia",
+        "tourism": "guest_house",
+        "website": "http://www.hotel-antares.ch/de/apartments.php"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7442821,
+          46.0130528
+        ]
+      },
+      "id": "node/5467038587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5467038588",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "112",
+        "addr:postcode": "3920",
+        "addr:street": "Staldenstrasse",
+        "name": "Ulysse",
+        "tourism": "guest_house",
+        "website": "https://chalet-ulysse-zermatt.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7449739,
+          46.0131865
+        ]
+      },
+      "id": "node/5467038588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5467038598",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "96",
+        "addr:postcode": "3920",
+        "addr:street": "Winkelmattenweg",
+        "name": "Sonnmatten",
+        "tourism": "guest_house",
+        "website": "https://www.sonnmatten.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7448809,
+          46.0130065
+        ]
+      },
+      "id": "node/5467038598"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5467038608",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "7",
+        "addr:postcode": "3920",
+        "addr:street": "Wichjeweg",
+        "name": "Huwi",
+        "tourism": "guest_house",
+        "website": "www.chalethuwizermatt.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7460401,
+          46.013192
+        ]
+      },
+      "id": "node/5467038608"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5467038609",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "11",
+        "addr:postcode": "3920",
+        "addr:street": "Wichjeweg",
+        "name": "La Vallee",
+        "tourism": "guest_house",
+        "website": "http://www.zermatt-lavallee.ch/de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7464208,
+          46.0130562
+        ]
+      },
+      "id": "node/5467038609"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5467271484",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "29",
+        "addr:postcode": "3920",
+        "addr:street": "Wichjeweg",
+        "name": "Gamma",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7473097,
+          46.012531
+        ]
+      },
+      "id": "node/5467271484"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5467271485",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "39",
+        "addr:postcode": "3920",
+        "addr:street": "Wichjeweg",
+        "name": "Biner Apartments",
+        "tourism": "guest_house",
+        "website": "https://biner-appartements.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7483599,
+          46.0127836
+        ]
+      },
+      "id": "node/5467271485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5467271486",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "85",
+        "addr:postcode": "3920",
+        "addr:street": "Wichjeweg",
+        "name": "Alpharmonie",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7489771,
+          46.012966
+        ]
+      },
+      "id": "node/5467271486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5467271487",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "75",
+        "addr:postcode": "3920",
+        "addr:street": "Wichjeweg",
+        "name": "Casa Dela Vita",
+        "tourism": "guest_house",
+        "website": "https://www.zermattpremium.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7482997,
+          46.0122685
+        ]
+      },
+      "id": "node/5467271487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5467271489",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "67",
+        "addr:postcode": "3920",
+        "addr:street": "Wichjeweg",
+        "name": "Marico",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7484256,
+          46.01211
+        ]
+      },
+      "id": "node/5467271489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5467271511",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "35",
+        "addr:postcode": "3920",
+        "addr:street": "Wichjeweg",
+        "name": "Windward",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7478856,
+          46.0122702
+        ]
+      },
+      "id": "node/5467271511"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5467271512",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "33",
+        "addr:postcode": "3920",
+        "addr:street": "Wichjeweg",
+        "name": "Chalet d'Amore",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7476716,
+          46.0121564
+        ]
+      },
+      "id": "node/5467271512"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5467271517",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "32",
+        "addr:postcode": "3920",
+        "addr:street": "Wichjeweg",
+        "name": "Ferienwohnung Lauber",
+        "tourism": "guest_house",
+        "website": "https://ferienwohnung.lauber.info/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.746709,
+          46.011908
+        ]
+      },
+      "id": "node/5467271517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5467271518",
+        "name": "Sunrise",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7465904,
+          46.0121706
+        ]
+      },
+      "id": "node/5467271518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5467271519",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "20",
+        "addr:postcode": "3920",
+        "addr:street": "Wichjeweg",
+        "name": "Schwalbennest",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7468926,
+          46.0123238
+        ]
+      },
+      "id": "node/5467271519"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5467271520",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "229",
+        "addr:postcode": "3920",
+        "addr:street": "Schluhmattstrasse",
+        "name": "Z`Wichjehues",
+        "tourism": "guest_house",
+        "website": "http://www.zermatt-zwichjehues.ch/en/meta/home"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7461312,
+          46.0123836
+        ]
+      },
+      "id": "node/5467271520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5467273030",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "2",
+        "addr:postcode": "3920",
+        "addr:street": "Moosstrasse",
+        "name": "Abusitz River Haus",
+        "tourism": "guest_house",
+        "website": "http://www.abusitz.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7455836,
+          46.0118681
+        ]
+      },
+      "id": "node/5467273030"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5467273031",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "6",
+        "addr:postcode": "3920",
+        "addr:street": "Moosweg",
+        "name": "Cinderella",
+        "tourism": "guest_house",
+        "website": "https://hotelmania.net/hotel/zermatt/chalet-cinderella/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7454679,
+          46.0120966
+        ]
+      },
+      "id": "node/5467273031"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5467397740",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "54",
+        "addr:postcode": "3920",
+        "addr:street": "Winkelmattenweg",
+        "email": "welcome@anita-zermatt.com",
+        "internet_access": "wlan",
+        "name": "Anita",
+        "phone": "+41793325123",
+        "tourism": "guest_house",
+        "website": "https://www.anita-zermatt.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7432205,
+          46.0135017
+        ]
+      },
+      "id": "node/5467397740"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5467397741",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "52",
+        "addr:postcode": "3920",
+        "addr:street": "Winkelmattenweg",
+        "name": "Hotel Bijou",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7431568,
+          46.0135585
+        ]
+      },
+      "id": "node/5467397741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5467397751",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "130",
+        "addr:postcode": "3920",
+        "addr:street": "Schluhmattstrasse",
+        "name": "Mountain Paradise",
+        "tourism": "hotel",
+        "website": "https://www.mountainparadise.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7426362,
+          46.0125169
+        ]
+      },
+      "id": "node/5467397751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5467397756",
+        "name": "Kronig",
+        "tourism": "hotel",
+        "website": "www.hotel-kronig-zermatt.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7420082,
+          46.0133536
+        ]
+      },
+      "id": "node/5467397756"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5467397757",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "141",
+        "addr:postcode": "3920",
+        "addr:street": "Schluhmattstrasse",
+        "name": "Liliane",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7420531,
+          46.0135532
+        ]
+      },
+      "id": "node/5467397757"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5467397760",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "76",
+        "addr:postcode": "3920",
+        "addr:street": "Schluhmattstrasse",
+        "name": "Plateau Rosa",
+        "tourism": "hotel",
+        "website": "www.przermatt.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.741918,
+          46.0138836
+        ]
+      },
+      "id": "node/5467397760"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5467397761",
+        "name": "Zubriggen",
+        "tourism": "hotel",
+        "website": "www.zurbriggen.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7418866,
+          46.0144604
+        ]
+      },
+      "id": "node/5467397761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5467397762",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "64",
+        "addr:postcode": "3920",
+        "addr:street": "Schluhmattstrasse",
+        "name": "Telemark",
+        "tourism": "guest_house",
+        "website": "https://ferien-wohnung-zermatt.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7420804,
+          46.0146773
+        ]
+      },
+      "id": "node/5467397762"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5467397763",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "60",
+        "addr:postcode": "3920",
+        "addr:street": "Schluhmattstrasse",
+        "name": "Allegra",
+        "tourism": "guest_house",
+        "website": "https://www.allegra-zermatt.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7423645,
+          46.0148732
+        ]
+      },
+      "id": "node/5467397763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5467397781",
+        "name": "Altesse",
+        "tourism": "guest_house",
+        "website": "https://www.altesse.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7468609,
+          46.0108783
+        ]
+      },
+      "id": "node/5467397781"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5467397798",
+        "name": "Talisman",
+        "tourism": "guest_house",
+        "website": "chalet-talisman.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7456322,
+          46.0109694
+        ]
+      },
+      "id": "node/5467397798"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5467397799",
+        "name": "Chalet Style",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7452866,
+          46.0110703
+        ]
+      },
+      "id": "node/5467397799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5467465921",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "20",
+        "addr:postcode": "3920",
+        "addr:street": "Moosweg",
+        "name": "Shalimar",
+        "tourism": "guest_house",
+        "website": "https://www.zermattholidays.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7449898,
+          46.0112821
+        ]
+      },
+      "id": "node/5467465921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5467465927",
+        "addr:city": "Zermatt",
+        "addr:postcode": "3920",
+        "addr:street": "Moosstrasse",
+        "name": "Monte Cristo",
+        "tourism": "guest_house",
+        "website": "https://www.zermattpremium.ch/fr/maisons-arriver/m/monte-cristo/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7442986,
+          46.0107878
+        ]
+      },
+      "id": "node/5467465927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5467465947",
+        "name": "Tuftra",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7431994,
+          46.0111512
+        ]
+      },
+      "id": "node/5467465947"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5467465948",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "3",
+        "addr:postcode": "3920",
+        "addr:street": "Untere Tuftra",
+        "name": "Felice",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7447003,
+          46.0114981
+        ]
+      },
+      "id": "node/5467465948"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5467465949",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "7",
+        "addr:postcode": "3920",
+        "addr:street": "Untere Tuftra",
+        "name": "Amber",
+        "tourism": "guest_house",
+        "website": "https://www.apartment-rental-zermatt.ch/ferienwohnung/en/apartments/amber-8-sleeps"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7444893,
+          46.0116512
+        ]
+      },
+      "id": "node/5467465949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5467465952",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "11",
+        "addr:postcode": "3920",
+        "addr:street": "Untere Tuftra",
+        "name": "Hemizeus",
+        "tourism": "hotel",
+        "website": "https://www.hemizeus.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7430648,
+          46.0114845
+        ]
+      },
+      "id": "node/5467465952"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5467465955",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "91",
+        "addr:postcode": "3920",
+        "addr:street": "Untere Tuftra",
+        "name": "Galileo",
+        "tourism": "guest_house",
+        "website": "http://anita-zermatt.ch/haus_galileo.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7425552,
+          46.0113869
+        ]
+      },
+      "id": "node/5467465955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5473216759",
+        "name": "Aroleid Chalet",
+        "tourism": "guest_house",
+        "website": "https://www.zermattholidays.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7385074,
+          46.0105709
+        ]
+      },
+      "id": "node/5473216759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5473217139",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "27",
+        "addr:postcode": "3920",
+        "addr:street": "Aroleit",
+        "email": "kontakt@gornergorge.ch",
+        "name": "Gornergorge",
+        "phone": "+41 78 773 54 98",
+        "tourism": "guest_house",
+        "website": "https://www.gornergorge.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7395928,
+          46.0095611
+        ]
+      },
+      "id": "node/5473217139"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5475129032",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "50",
+        "addr:postcode": "3920",
+        "addr:street": "Untere Mattenstrasse",
+        "brand": "Sunstar Hotels",
+        "email": "zermatt@sunstar.ch",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Sunstar Hotel Zermatt",
+        "operator": "Sunstar Hotels",
+        "rooms": "43",
+        "stars": "4",
+        "tourism": "hotel",
+        "website": "https://zermatt.sunstar.ch/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7516697,
+          46.0245666
+        ]
+      },
+      "id": "node/5475129032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5475129033",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "25",
+        "addr:postcode": "3920",
+        "addr:street": "Untere Mattenstrasse",
+        "name": "Haus La Perle",
+        "tourism": "guest_house",
+        "website": "https://www.astoria-zermatt.ch/la_perle_78.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7516602,
+          46.0247328
+        ]
+      },
+      "id": "node/5475129033"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5475129040",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "34",
+        "addr:postcode": "3920",
+        "addr:street": "Untere Mattenstrasse",
+        "name": "Chalet Dossen",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7513699,
+          46.024563
+        ]
+      },
+      "id": "node/5475129040"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5475129041",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "22",
+        "addr:postcode": "3920",
+        "addr:street": "Unterer Mattenweg",
+        "name": "Imperial",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7510273,
+          46.0244879
+        ]
+      },
+      "id": "node/5475129041"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5475129042",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "18",
+        "addr:postcode": "3920",
+        "addr:street": "Unterer Mattenweg",
+        "name": "Haus Fis",
+        "tourism": "guest_house",
+        "website": "https://www.fis-zermatt.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7511054,
+          46.0242541
+        ]
+      },
+      "id": "node/5475129042"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5475204059",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "22",
+        "addr:postcode": "3920",
+        "addr:street": "Untere Mattenstrasse",
+        "check_date": "2024-08-16",
+        "name": "Chalet Medi",
+        "tourism": "guest_house",
+        "website": "http://www.chaletmedi.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.750771,
+          46.0248203
+        ]
+      },
+      "id": "node/5475204059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5475204070",
+        "name": "Mirabeau",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7501368,
+          46.0250985
+        ]
+      },
+      "id": "node/5475204070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5475447364",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "42",
+        "addr:postcode": "3920",
+        "addr:street": "Spissstrasse",
+        "check_date": "2024-08-16",
+        "name": "Solebad Arca",
+        "tourism": "hotel",
+        "website": "http://www.arca.ws"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7506804,
+          46.0259445
+        ]
+      },
+      "id": "node/5475447364"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5475447409",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "10",
+        "addr:postcode": "3920",
+        "addr:street": "Spissstrasse",
+        "name": "Ambassador",
+        "tourism": "hotel",
+        "website": "https://www.ambassadorzermatt.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7496767,
+          46.0250855
+        ]
+      },
+      "id": "node/5475447409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5475447414",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "17",
+        "addr:postcode": "3920",
+        "addr:street": "Unterer Mattenweg",
+        "name": "Breithorn",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7502199,
+          46.0244312
+        ]
+      },
+      "id": "node/5475447414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5475447415",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "11",
+        "addr:postcode": "3920",
+        "addr:street": "Unterer Mattenweg",
+        "name": "Julez",
+        "tourism": "guest_house",
+        "website": "https://www.julenzermatt.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7505076,
+          46.024265
+        ]
+      },
+      "id": "node/5475447415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5475447443",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "14",
+        "addr:postcode": "3920",
+        "addr:street": "Bahnhofplatz",
+        "name": "Hotel Sarazena",
+        "tourism": "hotel",
+        "website": "https://www.hotel-sarazena.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7492519,
+          46.0240251
+        ]
+      },
+      "id": "node/5475447443"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5475447444",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "18",
+        "addr:postcode": "3920",
+        "addr:street": "Bahnhofplatz",
+        "name": "Schloss Hotel",
+        "tourism": "hotel",
+        "website": "https://schlosshotelzermatt.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7496979,
+          46.0240778
+        ]
+      },
+      "id": "node/5475447444"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5475488806",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "1",
+        "addr:postcode": "3920",
+        "addr:street": "Bahnhofstrasse",
+        "name": "Hotel Gornergrat Dorf",
+        "name:de": "Hotel Gornergrat-Dorf",
+        "phone": "+41 27 966 39 20",
+        "tourism": "hotel",
+        "website": "https://www.gornergrat.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7479699,
+          46.0233703
+        ]
+      },
+      "id": "node/5475488806"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5475657246",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "10",
+        "addr:postcode": "3920",
+        "addr:street": "Getwingstrasse",
+        "name": "Chalet Felderhof",
+        "tourism": "guest_house",
+        "website": "https://www.felderhof.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7500036,
+          46.023348
+        ]
+      },
+      "id": "node/5475657246"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5475657249",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "5",
+        "addr:postcode": "3920",
+        "addr:street": "Seilerwiesenstrasse",
+        "name": "Hotel Garni CIMA",
+        "tourism": "hotel",
+        "website": "https://www.hotelcimazermatt.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7501677,
+          46.023086
+        ]
+      },
+      "id": "node/5475657249"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5475657276",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "9",
+        "addr:postcode": "3920",
+        "addr:street": "Seilerwiesenstrasse",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7495554,
+          46.0232584
+        ]
+      },
+      "id": "node/5475657276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5475862588",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "31",
+        "addr:postcode": "3920",
+        "addr:street": "Bahnhofstrasse",
+        "name": "Mont Cervin Palace",
+        "tourism": "hotel",
+        "website": "https://www.montcervinpalace.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7470589,
+          46.0210313
+        ]
+      },
+      "id": "node/5475862588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5475862602",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "4",
+        "addr:postcode": "3920",
+        "addr:street": "Hofmattstrasse",
+        "name": "Backstage Boutique Hotel",
+        "tourism": "hotel",
+        "website": "https://www.backstagehotel.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7478391,
+          46.0219788
+        ]
+      },
+      "id": "node/5475862602"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5475862611",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "3",
+        "addr:postcode": "3920",
+        "addr:street": "Hofmattweg",
+        "name": "Hotel Elite",
+        "tourism": "hotel",
+        "website": "https://www.elite-zermatt.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7485392,
+          46.021402
+        ]
+      },
+      "id": "node/5475862611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5475862618",
+        "name": "Atlanta",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7481885,
+          46.0211569
+        ]
+      },
+      "id": "node/5475862618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5475875357",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "38",
+        "addr:postcode": "3920",
+        "addr:street": "Hofmattstrasse",
+        "name": "Excelsior",
+        "tourism": "hotel",
+        "website": "https://www.excelsior-zermatt.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7488573,
+          46.0209423
+        ]
+      },
+      "id": "node/5475875357"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5475875358",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "20",
+        "addr:postcode": "3920",
+        "addr:street": "Hofmattstrasse",
+        "name": "Haus Mischabel",
+        "tourism": "guest_house",
+        "website": "https://www.mischabel-zermatt.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7484124,
+          46.0210441
+        ]
+      },
+      "id": "node/5475875358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5475977256",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "11",
+        "addr:postcode": "3920",
+        "addr:street": "Englischer Viertel",
+        "name": "Matterhorn Lodge",
+        "tourism": "hotel",
+        "website": "https://www.matterhornlodge.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7480432,
+          46.0203517
+        ]
+      },
+      "id": "node/5475977256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5475977258",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "5",
+        "addr:postcode": "3920",
+        "addr:street": "Englischer Viertel",
+        "name": "Alpina",
+        "tourism": "hotel",
+        "website": "https://alpina-zermatt.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.747607,
+          46.0203825
+        ]
+      },
+      "id": "node/5475977258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5475977269",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "3",
+        "addr:postcode": "3920",
+        "addr:street": "Englischer Viertel",
+        "name": "Tannenhof",
+        "tourism": "hotel",
+        "website": "http://www.rhone-web.ch/tannenhof/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7471073,
+          46.0203682
+        ]
+      },
+      "id": "node/5475977269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5475977274",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "80",
+        "addr:postcode": "3920",
+        "addr:street": "Hinterdorfstrasse",
+        "name": "Chalet Z'Gogwargji",
+        "tourism": "guest_house",
+        "website": "https://www.zermattholidays.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7483775,
+          46.0205752
+        ]
+      },
+      "id": "node/5475977274"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5475977287",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "38",
+        "addr:postcode": "3920",
+        "addr:street": "Hinterdorfstrasse",
+        "name": "Old Heim",
+        "tourism": "guest_house",
+        "website": "https://www.oldhousezermatt.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7473686,
+          46.0207939
+        ]
+      },
+      "id": "node/5475977287"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5477520046",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "41",
+        "addr:postcode": "3920",
+        "addr:street": "Bahnhofstrasse",
+        "check_date": "2023-12-09",
+        "email": "info@hotelpost.ch",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:ssid": "Hotel-Post",
+        "name": "Unique Hotel Post",
+        "phone": "+41 27 967 19 31",
+        "tourism": "hotel",
+        "website": "https://www.hotelpost.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7466295,
+          46.0207236
+        ]
+      },
+      "id": "node/5477520046"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5477626365",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "44",
+        "addr:postcode": "3920",
+        "addr:street": "Kirchstrasse",
+        "name": "Hotel Beau Rivage",
+        "tourism": "hotel",
+        "website": "https://www.beau-rivage-zermatt.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7478436,
+          46.018969
+        ]
+      },
+      "id": "node/5477626365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5477626385",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "6",
+        "addr:postcode": "3920",
+        "addr:street": "Am Bach",
+        "name": "Weisshorn",
+        "phone": "+41 27 967 11 12",
+        "tourism": "hotel",
+        "website": "http://natusval.myhostpoint.ch/wordpress/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7458311,
+          46.0190526
+        ]
+      },
+      "id": "node/5477626385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5477800561",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "114",
+        "addr:postcode": "3920",
+        "addr:street": "Bachstrasse",
+        "check_date": "2024-03-29",
+        "name": "Haus Bonatti",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7442668,
+          46.017139
+        ]
+      },
+      "id": "node/5477800561"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5477800585",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "110",
+        "addr:postcode": "3920",
+        "addr:street": "Bachstrasse",
+        "name": "Backstage - Luxury Loft",
+        "tourism": "guest_house",
+        "website": "https://www.backstagehotel.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7449631,
+          46.017496
+        ]
+      },
+      "id": "node/5477800585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5477800586",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "100",
+        "addr:postcode": "3920",
+        "addr:street": "Bachstrasse",
+        "name": "Maryland",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.745633,
+          46.0177416
+        ]
+      },
+      "id": "node/5477800586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5477800587",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "88",
+        "addr:postcode": "3920",
+        "addr:street": "Bachstrasse",
+        "name": "Astral",
+        "tourism": "guest_house",
+        "website": "https://www.astral-zermatt.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7458773,
+          46.0178871
+        ]
+      },
+      "id": "node/5477800587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5477800588",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "90",
+        "addr:postcode": "3920",
+        "addr:street": "Bachstrasse",
+        "name": "Haus Gornera",
+        "tourism": "guest_house",
+        "website": "https://www.zermattpremium.ch/de/haeuser-anreise/m/haus-gornera/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7456823,
+          46.0180133
+        ]
+      },
+      "id": "node/5477800588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5478095820",
+        "name": "Alex",
+        "tourism": "hotel",
+        "website": "https://www.hotelalexzermatt.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7471177,
+          46.0236181
+        ]
+      },
+      "id": "node/5478095820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5478095930",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "20",
+        "addr:postcode": "3920",
+        "addr:street": "Bodmenstrasse",
+        "name": "Hilburgs-domizil",
+        "tourism": "guest_house",
+        "website": "https://www.hilburgs-domizil.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7466517,
+          46.0239791
+        ]
+      },
+      "id": "node/5478095930"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5478095969",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "10",
+        "addr:postcode": "3920",
+        "addr:street": "Brantschenhaus",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7465858,
+          46.0230942
+        ]
+      },
+      "id": "node/5478095969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5478095971",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "20",
+        "addr:postcode": "3920",
+        "addr:street": "Brantschenhaus",
+        "name": "Simi",
+        "tourism": "hotel",
+        "website": "https://www.hotelsimi.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7463081,
+          46.0227598
+        ]
+      },
+      "id": "node/5478095971"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5478204654",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "3",
+        "addr:postcode": "3920",
+        "addr:street": "Brantschenhaus",
+        "name": "Continental",
+        "tourism": "hotel",
+        "website": "https://www.continental-zermatt.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7468392,
+          46.0223492
+        ]
+      },
+      "id": "node/5478204654"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5478204655",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "7",
+        "addr:postcode": "3920",
+        "addr:street": "Brantschenhaus",
+        "name": "Alphubel",
+        "tourism": "hotel",
+        "website": "www.alphubel.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7465795,
+          46.0225091
+        ]
+      },
+      "id": "node/5478204655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5478204656",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "37",
+        "addr:postcode": "3920",
+        "addr:street": "Brantschenhaus",
+        "name": "Bergkristall",
+        "tourism": "guest_house",
+        "website": "http://www2.zermatt.ch/bergkristall/deutsch/bergkristall/bergkristall.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7463598,
+          46.0225975
+        ]
+      },
+      "id": "node/5478204656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5478204657",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "26",
+        "addr:postcode": "3920",
+        "addr:street": "Brantschenhaus",
+        "name": "Meric Superior",
+        "tourism": "guest_house",
+        "website": "http://www.apartment-zermatt.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.746066,
+          46.0227926
+        ]
+      },
+      "id": "node/5478204657"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5478204677",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "16",
+        "addr:postcode": "3920",
+        "addr:street": "Bodmen",
+        "name": "Zer Schmittu",
+        "tourism": "guest_house",
+        "website": "http://www2.zermatt.ch/bergkristall/deutsch/zer_schmittu/4_bett.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7445541,
+          46.0219072
+        ]
+      },
+      "id": "node/5478204677"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5478204678",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "5",
+        "addr:postcode": "3920",
+        "addr:street": "Bodmen",
+        "name": "Bodmen",
+        "tourism": "guest_house",
+        "website": "http://www.ferienwohnung-bodmen.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7447388,
+          46.0216497
+        ]
+      },
+      "id": "node/5478204678"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5478204689",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "28",
+        "addr:postcode": "3920",
+        "addr:street": "Bahnhofstrasse",
+        "check_date": "2024-04-18",
+        "name": "Pollux",
+        "tourism": "hotel",
+        "website": "https://www.hotelpollux.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7471468,
+          46.0222106
+        ]
+      },
+      "id": "node/5478204689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5478204691",
+        "check_date": "2024-07-31",
+        "name": "Walliserhof",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7469784,
+          46.0220078
+        ]
+      },
+      "id": "node/5478204691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5480141212",
+        "name": "Romantica",
+        "tourism": "hotel",
+        "website": "https://www.romantica-zermatt.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.745697,
+          46.0211118
+        ]
+      },
+      "id": "node/5480141212"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5480144023",
+        "name": "Haus Graven",
+        "tourism": "guest_house",
+        "website": "http://www.haus-graven.ch/de/home/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7454962,
+          46.0213803
+        ]
+      },
+      "id": "node/5480144023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5480144036",
+        "addr:city": "Zermatt",
+        "addr:postcode": "3920",
+        "addr:street": "Auf dem Fels",
+        "name": "The Omnia",
+        "note": "Details taken from website.",
+        "phone": "+41 27 966 71 71",
+        "tourism": "hotel",
+        "website": "https://www.the-omnia.com",
+        "wikidata": "Q90158191"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7453631,
+          46.0205215
+        ]
+      },
+      "id": "node/5480144036"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5480144037",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "42",
+        "addr:postcode": "3920",
+        "addr:street": "Triftweg",
+        "name": "Haus Triftbach",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7449507,
+          46.0205943
+        ]
+      },
+      "id": "node/5480144037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5480144038",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "42",
+        "addr:postcode": "3920",
+        "addr:street": "Triftweg",
+        "name": "Studio Layra",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7448746,
+          46.0205975
+        ]
+      },
+      "id": "node/5480144038"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5480144039",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "47",
+        "addr:postcode": "3920",
+        "addr:street": "Triftweg",
+        "name": "Chalet Zermat Peak",
+        "tourism": "guest_house",
+        "website": "https://www.chaletzermattpeak.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7441951,
+          46.0202685
+        ]
+      },
+      "id": "node/5480144039"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5480144040",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "25",
+        "addr:postcode": "3920",
+        "addr:street": "Triftweg",
+        "name": "Kolibri",
+        "tourism": "guest_house",
+        "website": "www.kolibrizermatt.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7444168,
+          46.0202364
+        ]
+      },
+      "id": "node/5480144040"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5480144041",
+        "name": "Chalet Schneefink",
+        "tourism": "guest_house",
+        "website": "http://www.haus-graven.ch/de/chalet-schneefink/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7445806,
+          46.0201286
+        ]
+      },
+      "id": "node/5480144041"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5480144049",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "72",
+        "addr:postcode": "3920",
+        "addr:street": "Bahnhofstrasse",
+        "name": "Helvetia",
+        "tourism": "hotel",
+        "website": "https://www.hotel-helvetia-zermatt.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7463455,
+          46.0205999
+        ]
+      },
+      "id": "node/5480144049"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5480144052",
+        "name": "Hotel Sonne Zermatt",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7462322,
+          46.0205077
+        ]
+      },
+      "id": "node/5480144052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5480440792",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "30",
+        "addr:postcode": "3920",
+        "addr:street": "Oberdorfstrasse",
+        "name": "Apartment Diana 2",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7450553,
+          46.0192461
+        ]
+      },
+      "id": "node/5480440792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5480440798",
+        "name": "Le Petit Hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7446796,
+          46.0195538
+        ]
+      },
+      "id": "node/5480440798"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5480440806",
+        "check_date": "2024-03-24",
+        "name": "Schirle",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7453134,
+          46.018723
+        ]
+      },
+      "id": "node/5480440806"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5480440812",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "72",
+        "addr:postcode": "3920",
+        "addr:street": "Oberdorfstrasse",
+        "name": "Mayi's Gädi",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7451816,
+          46.0184335
+        ]
+      },
+      "id": "node/5480440812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5480440813",
+        "check_date": "2024-03-29",
+        "name": "Ferienwohnung Attila",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7443424,
+          46.0175419
+        ]
+      },
+      "id": "node/5480440813"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5480483267",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "116",
+        "addr:postcode": "3920",
+        "addr:street": "Oberdorfstrasse",
+        "name": "Haus Loree",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.74372,
+          46.016968
+        ]
+      },
+      "id": "node/5480483267"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5480483269",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "134",
+        "addr:postcode": "3920",
+        "addr:street": "Oberdorfstrasse",
+        "name": "Coeur des Alpes",
+        "tourism": "guest_house",
+        "website": "https://coeurdesalpes.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7429201,
+          46.0166942
+        ]
+      },
+      "id": "node/5480483269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5480483270",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "134",
+        "addr:postcode": "3920",
+        "addr:street": "Oberdorfstrasse",
+        "name": "View Hause",
+        "tourism": "guest_house",
+        "website": "http://www.viewhouse.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7428686,
+          46.0168865
+        ]
+      },
+      "id": "node/5480483270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5480483271",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "72",
+        "addr:postcode": "3920",
+        "addr:street": "Lauberweg",
+        "name": "Alpenschloss",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7425122,
+          46.0168307
+        ]
+      },
+      "id": "node/5480483271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5480483277",
+        "name": "Gemini",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.741561,
+          46.0168132
+        ]
+      },
+      "id": "node/5480483277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5480483278",
+        "name": "Chalet Alaska",
+        "tourism": "guest_house",
+        "website": "https://www.ferienwohnung-alaska.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7423089,
+          46.0159241
+        ]
+      },
+      "id": "node/5480483278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5480483279",
+        "name": "Zen",
+        "tourism": "guest_house",
+        "website": "https://www.chalet-zen.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7418663,
+          46.0160377
+        ]
+      },
+      "id": "node/5480483279"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5480483280",
+        "name": "La Cordée",
+        "tourism": "guest_house",
+        "website": "https://www.lacordee.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7415042,
+          46.0156875
+        ]
+      },
+      "id": "node/5480483280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6221079467",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "7",
+        "addr:postcode": "3920",
+        "addr:street": "Wiestistrasse",
+        "name": "Christiania Mountain & SPA",
+        "operator": "Family Franzen-Bieri",
+        "smoking": "outside",
+        "stars": "4",
+        "tourism": "hotel",
+        "website": "https://www.christiania-zermatt.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7522573,
+          46.0234145
+        ]
+      },
+      "id": "node/6221079467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7810230085",
+        "name": "Eingang Gourmet Gorner Schlucht",
+        "name:de": "Eingang Gourmet Gorner Schlucht",
+        "name:en": "Entrance Gorner",
+        "opening_hours": "Mo-Su 09:15-17:45",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.739787,
+          46.0093017
+        ]
+      },
+      "id": "node/7810230085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8487355825",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "200",
+        "addr:postcode": "3920",
+        "addr:street": "Schluhmattstrasse",
+        "name": "Gloria",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7448608,
+          46.012334
+        ]
+      },
+      "id": "node/8487355825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8759403025",
+        "name": "Casa Obri Tuftra",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7466303,
+          46.0109565
+        ]
+      },
+      "id": "node/8759403025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8931054688",
+        "check_date": "2025-07-18",
+        "name": "Le Mazot",
+        "tourism": "hotel",
+        "website": "https://www.mazot-zermatt.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7491508,
+          46.0208794
+        ]
+      },
+      "id": "node/8931054688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9887891167",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "5",
+        "addr:postcode": "3920",
+        "addr:street": "Riedstrasse",
+        "name": "Eden Wellness",
+        "tourism": "hotel",
+        "website": "https://hotel-eden.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7493976,
+          46.0185213
+        ]
+      },
+      "id": "node/9887891167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9887891168",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "17",
+        "addr:postcode": "3920",
+        "addr:street": "Riedstrasse",
+        "check_date": "2024-08-16",
+        "name": "Appartements Elan",
+        "tourism": "hotel",
+        "website": "https://elanzermatt.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7499672,
+          46.0183557
+        ]
+      },
+      "id": "node/9887891168"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9887891170",
+        "name": "Chalet St. Anton",
+        "tourism": "hotel",
+        "website": "https://www.chalet-st-anton.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7499377,
+          46.0185161
+        ]
+      },
+      "id": "node/9887891170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9964205364",
+        "addr:city": "Täsch",
+        "addr:housenumber": "185",
+        "addr:postcode": "3929",
+        "addr:street": "Kantonsstrasse",
+        "check_date": "2024-01-18",
+        "email": "info@elite-taesch.ch",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "name": "Mountime",
+        "name:de": "Mountime",
+        "phone": "+41 27 967 12 26",
+        "tourism": "hotel",
+        "website": "https://www.mountime.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7759131,
+          46.0651741
+        ]
+      },
+      "id": "node/9964205364"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11258526626",
+        "name": "Welschen",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7522389,
+          46.0224943
+        ]
+      },
+      "id": "node/11258526626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11997975669",
+        "name": "Mounting",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7760301,
+          46.0651037
+        ]
+      },
+      "id": "node/11997975669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12980469099",
+        "addr:city": "Zermatt",
+        "addr:housenumber": "38",
+        "addr:postcode": "3920",
+        "addr:street": "Kirchstrasse",
+        "email": "info@matterhornblick.ch",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Matterhornblick",
+        "phone": "+41 27 967 10 10",
+        "tourism": "hotel",
+        "website": "https://matterhornblick.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7474084,
+          46.0192151
+        ]
+      },
+      "id": "node/12980469099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13055830459",
+        "beds": "170",
+        "email": "zermatt@youthhostel.ch",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Jugendherberge Zermatt",
+        "name:de": "Jugendherberge Zermatt",
+        "name:en": "Zermatt Youth Hostel",
+        "name:fr": "Auberge de jeunesse Zermatt",
+        "operator": "Verein Schweizer Jugendherbergen",
+        "phone": "+41 27 967 23 20",
+        "rooms": "47",
+        "toilets:wheelchair": "yes",
+        "tourism": "hostel",
+        "website": "https://www.youthhostel.ch/zermatt",
+        "wheelchair": "limited",
+        "wheelchair:description": "Drei Zimmer sind hindernisfrei zugänglich und total sieben Betten behindertengerecht. Kein Lift: Nur Erdgeschosse und auch der Essraum mit Hilfe erreichbar. Auf den Etagen befinden sich zwei behinderten gerechte Toiletten und eine Dusche.",
+        "wikidata": "Q111121038"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7486504,
+          46.0159843
+        ]
+      },
+      "id": "node/13055830459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13446597446",
+        "addr:city": "Zermatt",
+        "addr:flats": "1-17",
+        "addr:housenumber": "38",
+        "addr:postcode": "3920",
+        "addr:street": "Schanze",
+        "air_conditioning": "yes",
+        "check_date": "2026-01-04",
+        "check_date:internet_access": "2026-01-04",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "name": "Legendär",
+        "tourism": "hotel",
+        "website": "https://www.legendaer-zermatt.com/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.749667,
+          46.0163824
+        ]
+      },
+      "id": "node/13446597446"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13479390068",
+        "addr:city": "Zermatt",
+        "addr:place": "Gornergrat",
+        "addr:postcode": "3920",
+        "fee": "no",
+        "name": "Golden Spot",
+        "opening_hours": "Mo-Su 08:00-17:00",
+        "operator": "Gornergrat Bahn",
+        "tourism": "attraction",
+        "website": "https://www.gornergrat.ch/en/stories/golden-spot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7817978,
+          45.9837792
+        ]
+      },
+      "id": "node/13479390068"
+    }
+  ]
+}

@@ -1,0 +1,2313 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-03-17T18:49:45Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/37865839",
+        "addr:city": "Lübbenau/Spreewald",
+        "addr:country": "DE",
+        "addr:housenumber": "6",
+        "addr:postcode": "03222",
+        "addr:street": "Schloßbezirk",
+        "building": "yes",
+        "building:colour": "white",
+        "building:material": "plaster",
+        "heritage": "4",
+        "heritage:operator": "bldam",
+        "heritage:ref": "09120078",
+        "heritage:website": "https://ns.gis-bldam-brandenburg.de/hida4web/view?docId=obj09120078.xml",
+        "historic": "castle",
+        "image": "https://commons.m.wikimedia.org/wiki/File%3A20250207_xl_1719-Schloss_L%C3%BCbbenau.jpg",
+        "name": "Schloß Lübbenau",
+        "name:fr": "Château de Lübbenau",
+        "roof:colour": "red",
+        "roof:material": "roof_tiles",
+        "roof:shape": "hipped",
+        "tourism": "hotel",
+        "website": "https://www.schloss-luebbenau.de/",
+        "wheelchair": "limited",
+        "wikidata": "Q832743",
+        "wikimedia_commons": "Category:Schloss Lübbenau",
+        "wikipedia": "de:Schloss Lübbenau"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.9740108,
+              51.8692931
+            ],
+            [
+              13.9739593,
+              51.8693245
+            ],
+            [
+              13.973947,
+              51.8693159
+            ],
+            [
+              13.9739097,
+              51.8692937
+            ],
+            [
+              13.9739588,
+              51.8692623
+            ],
+            [
+              13.9738635,
+              51.8692055
+            ],
+            [
+              13.9738061,
+              51.8692422
+            ],
+            [
+              13.9737638,
+              51.869217
+            ],
+            [
+              13.9737532,
+              51.8692102
+            ],
+            [
+              13.9738108,
+              51.8691743
+            ],
+            [
+              13.973819,
+              51.869163
+            ],
+            [
+              13.97382,
+              51.8688959
+            ],
+            [
+              13.9740434,
+              51.8688992
+            ],
+            [
+              13.9740452,
+              51.8689511
+            ],
+            [
+              13.9740507,
+              51.8691045
+            ],
+            [
+              13.9740877,
+              51.8691301
+            ],
+            [
+              13.9741429,
+              51.869159
+            ],
+            [
+              13.9744793,
+              51.8691568
+            ],
+            [
+              13.9744794,
+              51.8692913
+            ],
+            [
+              13.9740108,
+              51.8692931
+            ]
+          ]
+        ]
+      },
+      "id": "way/37865839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/100497174",
+        "addr:city": "Lübbenau/Spreewald",
+        "addr:country": "DE",
+        "addr:housenumber": "3b",
+        "addr:place": "An der Giglitza",
+        "addr:postcode": "03222",
+        "addr:suburb": "Lehde",
+        "building": "yes",
+        "check_date": "2025-07-16",
+        "email": "info@zumhecht.com",
+        "fax": "+49 3542 2540",
+        "heritage": "4",
+        "heritage:operator": "bldam",
+        "heritage:ref": "09120298",
+        "heritage:website": "https://ns.gis-bldam-brandenburg.de/hida4web/view?docId=obj09120298.xml",
+        "name": "Logierhaus",
+        "phone": "+49 3542 2782",
+        "source": "survey",
+        "tourism": "hotel",
+        "website": "http://www.zumhecht.com",
+        "wheelchair": "no",
+        "wikimedia_commons": "File:Spreewald 04-2016 img07 Lehde.jpg"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.9905425,
+              51.8617376
+            ],
+            [
+              13.990578,
+              51.8615684
+            ],
+            [
+              13.9907603,
+              51.861583
+            ],
+            [
+              13.9907249,
+              51.8617521
+            ],
+            [
+              13.9905425,
+              51.8617376
+            ]
+          ]
+        ]
+      },
+      "id": "way/100497174"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/100733105",
+        "addr:city": "Lübbenau/Spreewald",
+        "addr:country": "DE",
+        "addr:housenumber": "11a",
+        "addr:place": "An der Dolzke",
+        "addr:postcode": "03222",
+        "addr:suburb": "Lehde",
+        "building": "yes",
+        "name": "Haus anno 1750",
+        "operator": "Achim Schöbel Nonnenstr. 7 04229 Leipzig",
+        "tourism": "guest_house",
+        "website": "https://www.ferien-am-fliess.de/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.9918142,
+              51.8630646
+            ],
+            [
+              13.991879,
+              51.8630178
+            ],
+            [
+              13.9920458,
+              51.8631059
+            ],
+            [
+              13.991981,
+              51.8631526
+            ],
+            [
+              13.9918142,
+              51.8630646
+            ]
+          ]
+        ]
+      },
+      "id": "way/100733105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/101433411",
+        "addr:city": "Lübbenau/Spreewald",
+        "addr:country": "DE",
+        "addr:housenumber": "9",
+        "addr:postcode": "03222",
+        "addr:street": "Dorfstraße",
+        "addr:suburb": "Lehde",
+        "building": "house",
+        "building:levels": "1",
+        "email": "info@tietzes-pension.de",
+        "name": "Tietzes Pension",
+        "operator": "Matthias Tietz",
+        "phone": "+49 172 3540628",
+        "roof:levels": "1",
+        "roof:shape": "gabled",
+        "rooms": "4",
+        "source": "survey",
+        "tourism": "guest_house",
+        "website": "https://tietzes-pension.de/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.9901814,
+              51.8627804
+            ],
+            [
+              13.9903192,
+              51.8626299
+            ],
+            [
+              13.990457,
+              51.862678
+            ],
+            [
+              13.9903193,
+              51.8628285
+            ],
+            [
+              13.9901814,
+              51.8627804
+            ]
+          ]
+        ]
+      },
+      "id": "way/101433411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/102215243",
+        "addr:city": "Lübbenau/Spreewald",
+        "addr:country": "DE",
+        "addr:housenumber": "42",
+        "addr:postcode": "03222",
+        "addr:street": "An der Dolzke",
+        "addr:suburb": "Lehde",
+        "building": "yes",
+        "email": "r-wendenburg@t-online.de",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "mobile": "+49 171 1093411",
+        "name": "Spreehof Lehde",
+        "rooms": "4",
+        "tourism": "guest_house",
+        "website": "https://holzgraben.de/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.9913193,
+              51.8664048
+            ],
+            [
+              13.9914667,
+              51.8664228
+            ],
+            [
+              13.9914206,
+              51.8665667
+            ],
+            [
+              13.9912732,
+              51.8665487
+            ],
+            [
+              13.9913193,
+              51.8664048
+            ]
+          ]
+        ]
+      },
+      "id": "way/102215243"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/102337123",
+        "addr:city": "Lübbenau/Spreewald",
+        "addr:country": "DE",
+        "addr:housenumber": "6",
+        "addr:postcode": "03222",
+        "addr:street": "An der Dolzke",
+        "addr:suburb": "Lehde",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "regional",
+        "indoor_seating": "yes",
+        "name": "Weinkeller Fischkasten",
+        "outdoor_seating": "yes",
+        "tourism": "hotel",
+        "website": "http://www.spreewald-starick.de/speisen-und-schlemmen-im-spreewald/weinkeller-fischkasten/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.9903944,
+              51.867249
+            ],
+            [
+              13.9904437,
+              51.86711
+            ],
+            [
+              13.9905891,
+              51.8671297
+            ],
+            [
+              13.9905398,
+              51.8672687
+            ],
+            [
+              13.9903944,
+              51.867249
+            ]
+          ]
+        ]
+      },
+      "id": "way/102337123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/102399886",
+        "addr:city": "Lübbenau/Spreewald",
+        "addr:country": "DE",
+        "addr:housenumber": "1c",
+        "addr:postcode": "03222",
+        "addr:street": "LPG-Straße",
+        "addr:suburb": "Groß Beuchow",
+        "alt_name": "TREFF Landhaus Hotel Luebbenau",
+        "brand:wikidata": "Q830334",
+        "building": "yes",
+        "internet_access": "wlan",
+        "name": "Best Western Spreewald",
+        "tourism": "hotel",
+        "wheelchair": "yes",
+        "wikidata": "Q830334"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.9064153,
+              51.8512985
+            ],
+            [
+              13.9063868,
+              51.8513659
+            ],
+            [
+              13.9060443,
+              51.8513106
+            ],
+            [
+              13.906115,
+              51.8511435
+            ],
+            [
+              13.9061768,
+              51.8509974
+            ],
+            [
+              13.9064612,
+              51.8510433
+            ],
+            [
+              13.9064116,
+              51.8511607
+            ],
+            [
+              13.9069222,
+              51.8512431
+            ],
+            [
+              13.9068679,
+              51.8513716
+            ],
+            [
+              13.9064153,
+              51.8512985
+            ]
+          ]
+        ]
+      },
+      "id": "way/102399886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/120055134",
+        "addr:city": "Lübbenau/Spreewald",
+        "addr:country": "DE",
+        "addr:housenumber": "22",
+        "addr:postcode": "03222",
+        "addr:street": "Max-Plessner-Straße",
+        "building": "yes",
+        "designation": "Pension Spreewaldengel / Pension Jerkel",
+        "email": "info@pension-spreewaldengel.de",
+        "name": "Pension Spreewaldengel",
+        "phone": "+49 3542 43696",
+        "tourism": "guest_house",
+        "website": "www.pension-spreewaldengel.de"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.9671322,
+              51.8643702
+            ],
+            [
+              13.9669737,
+              51.864437
+            ],
+            [
+              13.9669018,
+              51.864372
+            ],
+            [
+              13.9670603,
+              51.8643052
+            ],
+            [
+              13.9671322,
+              51.8643702
+            ]
+          ]
+        ]
+      },
+      "id": "way/120055134"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/137691658",
+        "addr:city": "Lübbenau/Spreewald",
+        "addr:country": "DE",
+        "addr:housenumber": "12",
+        "addr:postcode": "03222",
+        "addr:street": "Topfmarkt",
+        "bldam:criteria": "Baudenkmal",
+        "building": "yes",
+        "check_date": "2025-07-15",
+        "check_date:opening_hours": "2025-07-15",
+        "description": "Gerichtsgebäude (heute Spreewaldmuseum), Topfmarkt 12 in Lübbenau/Spreewald",
+        "fee": "yes",
+        "heritage": "4",
+        "heritage:operator": "bldam",
+        "image": "https://commons.wikimedia.org/wiki/File:Luebbenau_Gerichtsgeb_Spreewaldmuseum.jpg",
+        "name": "Spreewald-Museum Lübbenau",
+        "opening_hours": "Apr-Oct: Tu-Su,PH 10:30-18:00; Nov-Mar: Tu-Su,PH 11:00-16:00; Apr-Oct: Mo off; Nov-Mar: Mo off",
+        "phone": "+49 3573 8702420",
+        "ref:bldam": "09120079",
+        "tourism": "museum",
+        "website": "https://www.museums-entdecker.de/Spreewaldmuseum%20L%C3%BCbbenau",
+        "wikidata": "Q2313493",
+        "wikipedia": "de:Spreewaldmuseum"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.9653258,
+              51.8694029
+            ],
+            [
+              13.9654416,
+              51.8693901
+            ],
+            [
+              13.9654432,
+              51.8694008
+            ],
+            [
+              13.9654732,
+              51.8695587
+            ],
+            [
+              13.9654811,
+              51.8696236
+            ],
+            [
+              13.9653787,
+              51.869633
+            ],
+            [
+              13.9653258,
+              51.8694029
+            ]
+          ]
+        ]
+      },
+      "id": "way/137691658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/138661588",
+        "addr:city": "Lübbenau/Spreewald",
+        "addr:country": "DE",
+        "addr:housenumber": "7",
+        "addr:postcode": "03222",
+        "addr:street": "An der Dolzke",
+        "addr:suburb": "Lehde",
+        "building": "yes",
+        "name": "Gästehaus Wenske",
+        "phone": "+49 3542 80914",
+        "tourism": "guest_house",
+        "website": "http://www.gaestehaus-b-wenske.de"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.9913139,
+              51.8678197
+            ],
+            [
+              13.9915147,
+              51.8678453
+            ],
+            [
+              13.9914913,
+              51.8679151
+            ],
+            [
+              13.9912905,
+              51.8678894
+            ],
+            [
+              13.9913139,
+              51.8678197
+            ]
+          ]
+        ]
+      },
+      "id": "way/138661588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/184106815",
+        "addr:city": "Lübbenau/Spreewald",
+        "addr:country": "DE",
+        "addr:housenumber": "7",
+        "addr:postcode": "03222",
+        "addr:street": "Dammstraße",
+        "building": "hotel",
+        "building:colour": "#ffbe6f",
+        "building:levels": "2",
+        "building:material": "brick",
+        "internet_access": "wlan",
+        "name": "SPREE.Hotel am Hafen",
+        "phone": "+49 3542 8590985",
+        "roof:colour": "#3d3846",
+        "roof:levels": "1",
+        "roof:material": "roof_tiles",
+        "roof:shape": "gabled",
+        "tourism": "hotel",
+        "website": "https://hotel-am-hafen.spree.land/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.9723771,
+              51.8669871
+            ],
+            [
+              13.9722805,
+              51.8669551
+            ],
+            [
+              13.9723787,
+              51.8668313
+            ],
+            [
+              13.9724712,
+              51.8668626
+            ],
+            [
+              13.9723771,
+              51.8669871
+            ]
+          ]
+        ]
+      },
+      "id": "way/184106815"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/184106822",
+        "addr:city": "Lübbenau/Spreewald",
+        "addr:housenumber": "18",
+        "addr:postcode": "03222",
+        "addr:street": "Dammstraße",
+        "building": "house",
+        "building:levels": "2",
+        "heritage": "4",
+        "heritage:operator": "bldam",
+        "heritage:ref": "09120479",
+        "heritage:website": "https://ns.gis-bldam-brandenburg.de/hida4web/view?docId=obj09120479.xml",
+        "internet_access": "wlan",
+        "name": "Spree Chalet",
+        "roof:levels": "2",
+        "roof:shape": "gambrel",
+        "tourism": "guest_house",
+        "wikidata": "Q110535671",
+        "wikimedia_commons": "File:Dammstraße_18_Lübbenau.jpg"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.9732796,
+              51.865234
+            ],
+            [
+              13.973139,
+              51.8652954
+            ],
+            [
+              13.9729764,
+              51.8651535
+            ],
+            [
+              13.9731171,
+              51.8650921
+            ],
+            [
+              13.9732796,
+              51.865234
+            ]
+          ]
+        ]
+      },
+      "id": "way/184106822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/234154494",
+        "building": "hotel",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Kanu-Bike-Hostel",
+        "tourism": "hostel",
+        "website": "https://bootsverleih-richter.de/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.9743337,
+              51.8664996
+            ],
+            [
+              13.9741894,
+              51.8666127
+            ],
+            [
+              13.9739246,
+              51.866484
+            ],
+            [
+              13.9740214,
+              51.8664081
+            ],
+            [
+              13.9742011,
+              51.8664955
+            ],
+            [
+              13.9742486,
+              51.8664582
+            ],
+            [
+              13.9743337,
+              51.8664996
+            ]
+          ]
+        ]
+      },
+      "id": "way/234154494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/258900559",
+        "addr:city": "Lübbenau/Spreewald",
+        "addr:country": "DE",
+        "addr:housenumber": "72",
+        "addr:postcode": "03222",
+        "addr:street": "Dammstraße",
+        "beds": "14",
+        "building": "house",
+        "email": "info@holzgraben.de",
+        "name": "Am Holzgraben",
+        "operator": "Hafen \"Am Holzgraben\"",
+        "phone": "+49 3542 2221",
+        "rooms": "7",
+        "source": "survey",
+        "tourism": "guest_house",
+        "website": "https://holzgraben.de/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.9748555,
+              51.8655161
+            ],
+            [
+              13.974652,
+              51.8655539
+            ],
+            [
+              13.9746334,
+              51.8655158
+            ],
+            [
+              13.9745618,
+              51.865369
+            ],
+            [
+              13.9747652,
+              51.8653311
+            ],
+            [
+              13.9748555,
+              51.8655161
+            ]
+          ]
+        ]
+      },
+      "id": "way/258900559"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/264172311",
+        "addr:city": "Lübbenau/Spreewald",
+        "addr:housenumber": "1",
+        "addr:postcode": "03222",
+        "addr:street": "Nach Stottoff",
+        "building": "yes",
+        "internet_access": "wlan",
+        "name": "Spreezeit Hotel",
+        "phone": "+49 3542 87580",
+        "tourism": "hotel",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.9550931,
+              51.8658304
+            ],
+            [
+              13.9549665,
+              51.8658101
+            ],
+            [
+              13.9549472,
+              51.8658558
+            ],
+            [
+              13.9548685,
+              51.8658432
+            ],
+            [
+              13.9548877,
+              51.8657975
+            ],
+            [
+              13.9549371,
+              51.8656737
+            ],
+            [
+              13.9551503,
+              51.8657098
+            ],
+            [
+              13.9550931,
+              51.8658304
+            ]
+          ]
+        ]
+      },
+      "id": "way/264172311"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/264293960",
+        "addr:city": "Lübbenau/Spreewald",
+        "addr:housenumber": "20",
+        "addr:postcode": "03222",
+        "addr:street": "Ehm-Welk-Straße",
+        "building": "house",
+        "building:levels": "2",
+        "check_date": "2025-07-15",
+        "name": "Hotel Lausitzhof",
+        "roof:levels": "1",
+        "roof:shape": "gabled",
+        "source": "survey",
+        "tourism": "hotel",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.9671153,
+              51.8688604
+            ],
+            [
+              13.967033,
+              51.8688983
+            ],
+            [
+              13.9670735,
+              51.8689317
+            ],
+            [
+              13.9670098,
+              51.8689611
+            ],
+            [
+              13.9669644,
+              51.8689235
+            ],
+            [
+              13.9668915,
+              51.868957
+            ],
+            [
+              13.9668463,
+              51.8689203
+            ],
+            [
+              13.9670706,
+              51.8688209
+            ],
+            [
+              13.9671153,
+              51.8688604
+            ]
+          ]
+        ]
+      },
+      "id": "way/264293960"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/295138759",
+        "addr:city": "Lübbenau/Spreewald",
+        "addr:housenumber": "9a",
+        "addr:postcode": "03222",
+        "addr:street": "Bergstraße",
+        "building": "yes",
+        "email": "info@pension-scherz-luebbenau.de",
+        "name": "Pension Scherz",
+        "phone": "+49 3542 46578",
+        "tourism": "guest_house",
+        "website": "https://www.pension-scherz-luebbenau.de/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.9601868,
+              51.8705235
+            ],
+            [
+              13.9602281,
+              51.8704767
+            ],
+            [
+              13.9603466,
+              51.8705261
+            ],
+            [
+              13.9602969,
+              51.8705733
+            ],
+            [
+              13.9601868,
+              51.8705235
+            ]
+          ]
+        ]
+      },
+      "id": "way/295138759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/349149597",
+        "attraction": "animal",
+        "name": "Humboldt-Pinguine",
+        "operator": "Spreewelten GmbH",
+        "tourism": "attraction",
+        "zoo": "enclosure"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.9535611,
+              51.8565541
+            ],
+            [
+              13.9535878,
+              51.8565473
+            ],
+            [
+              13.9536298,
+              51.8565312
+            ],
+            [
+              13.953657,
+              51.8565573
+            ],
+            [
+              13.9537394,
+              51.8565418
+            ],
+            [
+              13.9538019,
+              51.8565435
+            ],
+            [
+              13.9538496,
+              51.8565486
+            ],
+            [
+              13.9538786,
+              51.8565138
+            ],
+            [
+              13.9539635,
+              51.8565473
+            ],
+            [
+              13.9540655,
+              51.8565334
+            ],
+            [
+              13.9540728,
+              51.8565529
+            ],
+            [
+              13.9540846,
+              51.8565767
+            ],
+            [
+              13.9539972,
+              51.8565894
+            ],
+            [
+              13.9539865,
+              51.8565635
+            ],
+            [
+              13.9539687,
+              51.8565663
+            ],
+            [
+              13.9538844,
+              51.8566036
+            ],
+            [
+              13.9539016,
+              51.8566333
+            ],
+            [
+              13.9539221,
+              51.8566451
+            ],
+            [
+              13.9539161,
+              51.8566594
+            ],
+            [
+              13.9539059,
+              51.8566699
+            ],
+            [
+              13.9538721,
+              51.8566802
+            ],
+            [
+              13.9539221,
+              51.8567323
+            ],
+            [
+              13.9539353,
+              51.8567622
+            ],
+            [
+              13.9539361,
+              51.8567897
+            ],
+            [
+              13.95392,
+              51.8568204
+            ],
+            [
+              13.9538985,
+              51.8568429
+            ],
+            [
+              13.9538682,
+              51.8568644
+            ],
+            [
+              13.9538874,
+              51.8568781
+            ],
+            [
+              13.9538802,
+              51.8569131
+            ],
+            [
+              13.9538398,
+              51.8569461
+            ],
+            [
+              13.9537949,
+              51.8569622
+            ],
+            [
+              13.9537379,
+              51.8569621
+            ],
+            [
+              13.9536907,
+              51.8569324
+            ],
+            [
+              13.95359,
+              51.8568713
+            ],
+            [
+              13.9536034,
+              51.8568246
+            ],
+            [
+              13.9536693,
+              51.8568383
+            ],
+            [
+              13.9538467,
+              51.8568471
+            ],
+            [
+              13.9538729,
+              51.8568293
+            ],
+            [
+              13.9538898,
+              51.8568088
+            ],
+            [
+              13.9538961,
+              51.8567815
+            ],
+            [
+              13.9538885,
+              51.8567511
+            ],
+            [
+              13.9538579,
+              51.856726
+            ],
+            [
+              13.9538154,
+              51.8566896
+            ],
+            [
+              13.9537664,
+              51.8566844
+            ],
+            [
+              13.9537221,
+              51.8566635
+            ],
+            [
+              13.9536859,
+              51.8566297
+            ],
+            [
+              13.9536465,
+              51.8566296
+            ],
+            [
+              13.9535611,
+              51.8565541
+            ]
+          ]
+        ]
+      },
+      "id": "way/349149597"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/349149606",
+        "area": "yes",
+        "name": "Saunaland",
+        "operator": "Spreewelten GmbH",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.9525972,
+              51.8562677
+            ],
+            [
+              13.9532114,
+              51.8561833
+            ],
+            [
+              13.9533966,
+              51.8561593
+            ],
+            [
+              13.9535383,
+              51.8561307
+            ],
+            [
+              13.9537282,
+              51.8561047
+            ],
+            [
+              13.9540091,
+              51.8560752
+            ],
+            [
+              13.954201,
+              51.8560393
+            ],
+            [
+              13.9544165,
+              51.8559837
+            ],
+            [
+              13.9545911,
+              51.8564914
+            ],
+            [
+              13.9540728,
+              51.8565529
+            ],
+            [
+              13.9540655,
+              51.8565334
+            ],
+            [
+              13.9539635,
+              51.8565473
+            ],
+            [
+              13.9538786,
+              51.8565138
+            ],
+            [
+              13.9538496,
+              51.8565486
+            ],
+            [
+              13.9538019,
+              51.8565435
+            ],
+            [
+              13.9537394,
+              51.8565418
+            ],
+            [
+              13.953657,
+              51.8565573
+            ],
+            [
+              13.9536298,
+              51.8565312
+            ],
+            [
+              13.9535685,
+              51.8565354
+            ],
+            [
+              13.9534929,
+              51.8565487
+            ],
+            [
+              13.9534525,
+              51.8565768
+            ],
+            [
+              13.9533335,
+              51.8565629
+            ],
+            [
+              13.9532274,
+              51.8565505
+            ],
+            [
+              13.9531744,
+              51.8565737
+            ],
+            [
+              13.9530402,
+              51.8566324
+            ],
+            [
+              13.9530097,
+              51.8566194
+            ],
+            [
+              13.9527128,
+              51.8564935
+            ],
+            [
+              13.9526668,
+              51.8564771
+            ],
+            [
+              13.9526523,
+              51.8564299
+            ],
+            [
+              13.9525972,
+              51.8562677
+            ]
+          ]
+        ]
+      },
+      "id": "way/349149606"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/403276957",
+        "addr:city": "Lübbenau/Spreewald",
+        "addr:country": "DE",
+        "addr:housenumber": "33",
+        "addr:postcode": "03222",
+        "addr:street": "Hauptstraße",
+        "addr:suburb": "Zerkwitz",
+        "air_conditioning": "no",
+        "brand": "nordic spreewald",
+        "building": "yes",
+        "building:levels": "2",
+        "email": "hotel@nordic-spreewald.de",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "name": "Hotel Nordic Spreewald ***",
+        "phone": "+49 3542 42441",
+        "rooms": "10",
+        "smoking": "no",
+        "stars": "3",
+        "tourism": "hotel",
+        "website": "https://www.nordic-spreewald.de",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.9337321,
+              51.8603277
+            ],
+            [
+              13.933835,
+              51.8603937
+            ],
+            [
+              13.9339001,
+              51.8604358
+            ],
+            [
+              13.9340648,
+              51.8605415
+            ],
+            [
+              13.9339941,
+              51.8605831
+            ],
+            [
+              13.9339602,
+              51.8606031
+            ],
+            [
+              13.9337412,
+              51.8604627
+            ],
+            [
+              13.9337063,
+              51.8604835
+            ],
+            [
+              13.9335928,
+              51.8604106
+            ],
+            [
+              13.9337321,
+              51.8603277
+            ]
+          ]
+        ]
+      },
+      "id": "way/403276957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/731250776",
+        "addr:city": "Lübbenau/Spreewald",
+        "addr:country": "DE",
+        "addr:housenumber": "72",
+        "addr:postcode": "03222",
+        "addr:street": "Dammstraße",
+        "email": "kjbs-luebbenau@awo-is-tours.de",
+        "name": "AWO Touristenstation",
+        "phone": "+49 3542 2179",
+        "tourism": "hostel",
+        "website": "https://awo-is-tours.de/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.9751747,
+              51.8660869
+            ],
+            [
+              13.9753227,
+              51.8660369
+            ],
+            [
+              13.9752419,
+              51.8659457
+            ],
+            [
+              13.9750194,
+              51.8656701
+            ],
+            [
+              13.9751666,
+              51.8656317
+            ],
+            [
+              13.9750238,
+              51.8653279
+            ],
+            [
+              13.9756354,
+              51.865155
+            ],
+            [
+              13.9758953,
+              51.8656804
+            ],
+            [
+              13.9758706,
+              51.8657099
+            ],
+            [
+              13.9758795,
+              51.8657313
+            ],
+            [
+              13.9761294,
+              51.8662275
+            ],
+            [
+              13.9760611,
+              51.866261
+            ],
+            [
+              13.9760437,
+              51.8662498
+            ],
+            [
+              13.9760088,
+              51.8662668
+            ],
+            [
+              13.9760229,
+              51.8662792
+            ],
+            [
+              13.9756182,
+              51.8664741
+            ],
+            [
+              13.9754791,
+              51.8663966
+            ],
+            [
+              13.9753397,
+              51.8662707
+            ],
+            [
+              13.9753244,
+              51.8662601
+            ],
+            [
+              13.9751747,
+              51.8660869
+            ]
+          ]
+        ]
+      },
+      "id": "way/731250776"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/835883054",
+        "addr:city": "Lübbenau/Spreewald",
+        "addr:housenumber": "11",
+        "addr:postcode": "03222",
+        "addr:street": "Alte Huttung",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Spreewelten Hotel",
+        "phone": "+49 3542 2000",
+        "stars": "4",
+        "tourism": "hotel",
+        "website": "https://www.spreewelten.de/hotel.html",
+        "wheelchair": "yes",
+        "wikidata": "Q111853056"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.9525743,
+              51.8562281
+            ],
+            [
+              13.9524544,
+              51.8558877
+            ],
+            [
+              13.9520385,
+              51.8558593
+            ],
+            [
+              13.9518216,
+              51.8552147
+            ],
+            [
+              13.9517858,
+              51.8551091
+            ],
+            [
+              13.9527479,
+              51.8549878
+            ],
+            [
+              13.9528729,
+              51.8549893
+            ],
+            [
+              13.9529673,
+              51.8550193
+            ],
+            [
+              13.9531587,
+              51.8551139
+            ],
+            [
+              13.9533501,
+              51.8557065
+            ],
+            [
+              13.9533654,
+              51.8558704
+            ],
+            [
+              13.9534241,
+              51.8561225
+            ],
+            [
+              13.9525743,
+              51.8562281
+            ]
+          ]
+        ]
+      },
+      "id": "way/835883054"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/969243984",
+        "addr:city": "Lübbenau/Spreewald",
+        "addr:country": "DE",
+        "addr:housenumber": "1a",
+        "addr:place": "An der Giglitza",
+        "addr:postcode": "03222",
+        "addr:suburb": "Lehde",
+        "fee": "yes",
+        "name": "Freilandmuseum Lehde",
+        "old_name": "Spreewaldmuseum",
+        "opening_hours": "Apr-Sep 10:00-18:00; Oct 10:00-17:00",
+        "phone": "+49 3573 8702440",
+        "toilets:wheelchair": "no",
+        "tourism": "museum",
+        "website": "https://www.museums-entdecker.de/Freilandmuseum%20Lehde",
+        "wheelchair": "no",
+        "wheelchair:description": "Das Museum ist nur über Stufenbrücken erreichbar. Keine Möglichkeit mit dem Rollstuhl zu erreichen.",
+        "wikidata": "Q1430022",
+        "wikimedia_commons": "Category:Freilandmuseum Lehde",
+        "wikipedia": "de:Freilandmuseum Lehde"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.9927905,
+              51.8634107
+            ],
+            [
+              13.9930066,
+              51.8631649
+            ],
+            [
+              13.9927974,
+              51.863087
+            ],
+            [
+              13.9933644,
+              51.8624688
+            ],
+            [
+              13.9933773,
+              51.8624154
+            ],
+            [
+              13.9929588,
+              51.8624393
+            ],
+            [
+              13.9925767,
+              51.8625054
+            ],
+            [
+              13.9925185,
+              51.8624924
+            ],
+            [
+              13.992497,
+              51.8625206
+            ],
+            [
+              13.9924668,
+              51.8625541
+            ],
+            [
+              13.9924336,
+              51.8625837
+            ],
+            [
+              13.9923372,
+              51.862671
+            ],
+            [
+              13.9919734,
+              51.8628573
+            ],
+            [
+              13.9917513,
+              51.8629754
+            ],
+            [
+              13.9916324,
+              51.8630335
+            ],
+            [
+              13.9914344,
+              51.8629248
+            ],
+            [
+              13.9915353,
+              51.8628675
+            ],
+            [
+              13.9912988,
+              51.8626909
+            ],
+            [
+              13.9911169,
+              51.8626162
+            ],
+            [
+              13.9910464,
+              51.8626974
+            ],
+            [
+              13.99085,
+              51.8626376
+            ],
+            [
+              13.9908656,
+              51.8625244
+            ],
+            [
+              13.9909533,
+              51.8625244
+            ],
+            [
+              13.9912047,
+              51.8624563
+            ],
+            [
+              13.9914904,
+              51.8624295
+            ],
+            [
+              13.9918575,
+              51.8624172
+            ],
+            [
+              13.992344,
+              51.8623278
+            ],
+            [
+              13.9923609,
+              51.8622477
+            ],
+            [
+              13.9924369,
+              51.8621094
+            ],
+            [
+              13.9924543,
+              51.8620715
+            ],
+            [
+              13.993064,
+              51.8621727
+            ],
+            [
+              13.993672,
+              51.8622495
+            ],
+            [
+              13.9938694,
+              51.8623343
+            ],
+            [
+              13.9939466,
+              51.8623781
+            ],
+            [
+              13.9939671,
+              51.8624408
+            ],
+            [
+              13.9932505,
+              51.863247
+            ],
+            [
+              13.9930972,
+              51.8634063
+            ],
+            [
+              13.9931429,
+              51.8634252
+            ],
+            [
+              13.9930576,
+              51.8635127
+            ],
+            [
+              13.9927905,
+              51.8634107
+            ]
+          ]
+        ]
+      },
+      "id": "way/969243984"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1073751629",
+        "addr:city": "Lübbenau/Spreewald",
+        "addr:country": "DE",
+        "addr:housenumber": "4",
+        "addr:postcode": "03222",
+        "addr:street": "An der Dolzke",
+        "addr:suburb": "Lehde",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "regional",
+        "indoor_seating": "yes",
+        "name": "An der Dolzke",
+        "outdoor_seating": "yes",
+        "phone": "+49 3542 22221",
+        "tourism": "guest_house",
+        "website": "http://holzgraben.de/cms/index.php?seite=dolzke"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.9910822,
+              51.8662816
+            ],
+            [
+              13.9909277,
+              51.8662716
+            ],
+            [
+              13.9907981,
+              51.8662631
+            ],
+            [
+              13.9908253,
+              51.8661039
+            ],
+            [
+              13.9911094,
+              51.8661224
+            ],
+            [
+              13.9910822,
+              51.8662816
+            ]
+          ]
+        ]
+      },
+      "id": "way/1073751629"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/748503040",
+        "addr:city": "Lübbenau/Spreewald",
+        "addr:country": "DE",
+        "addr:housenumber": "6",
+        "addr:postcode": "03222",
+        "addr:street": "An der Dolzke",
+        "addr:suburb": "Lehde",
+        "contact:website": "http://www.gurkenmuseum.de/",
+        "fee": "yes",
+        "name": "Gurkenmuseum",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9910155,
+          51.8660418
+        ]
+      },
+      "id": "node/748503040"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/876355405",
+        "name": "Kleiner Hafen",
+        "tourism": "attraction",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9705432,
+          51.8698475
+        ]
+      },
+      "id": "node/876355405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/876355519",
+        "name": "Zur Alten Feuerwehr",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9691395,
+          51.8691978
+        ]
+      },
+      "id": "node/876355519"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1347044043",
+        "addr:city": "Lübbenau/Spreewald",
+        "addr:country": "DE",
+        "addr:housenumber": "31",
+        "addr:postcode": "03222",
+        "addr:street": "Dammstraße",
+        "email": "spreewaldeck@t-online.de",
+        "fax": "+49 3542 890110",
+        "name": "Spreewaldeck",
+        "operator": "Familie Noack",
+        "phone": "+49 3542 89010",
+        "tourism": "hotel",
+        "website": "https://www.spreewaldeck.de/",
+        "wikimedia_commons": "File:20250207 xl 1605-Hotel Spreewaldeck.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9691883,
+          51.8637755
+        ]
+      },
+      "id": "node/1347044043"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1347685465",
+        "addr:city": "Lübbenau/Spreewald",
+        "addr:country": "DE",
+        "addr:housenumber": "38",
+        "addr:postcode": "03222",
+        "addr:street": "Ehm-Welk-Straße",
+        "amenity": "restaurant",
+        "email": "info@charleston-spreewald.de",
+        "fax": "+49 3542 8876859",
+        "name": "Charleston",
+        "operator": "Marcel und Claudia Handschick",
+        "phone": "+49 3542 8876854",
+        "toilets:wheelchair": "yes",
+        "tourism": "hotel",
+        "website": "http://www.charleston-spreewald.de",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9685751,
+          51.8679813
+        ]
+      },
+      "id": "node/1347685465"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1419392598",
+        "addr:city": "Lübbenau/Spreewald",
+        "addr:housenumber": "11",
+        "addr:postcode": "03222",
+        "addr:street": "Bergstraße",
+        "name": "Pension im Spreewald",
+        "phone": "+49 3542 2661",
+        "tourism": "hotel",
+        "website": "https://pension-nopper.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9606179,
+          51.8700805
+        ]
+      },
+      "id": "node/1419392598"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1500740089",
+        "name": "Hotel & Pension Am Mühlenberg",
+        "tourism": "hotel",
+        "website": "https://www.muehlberg-spreewald.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9156477,
+          51.8503425
+        ]
+      },
+      "id": "node/1500740089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1657592562",
+        "tourism": "guest_house",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9576946,
+          51.8683829
+        ]
+      },
+      "id": "node/1657592562"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1760682900",
+        "addr:city": "Lübbenau/Spreewald",
+        "addr:country": "DE",
+        "addr:housenumber": "13",
+        "addr:postcode": "03222",
+        "addr:street": "Spreestraße",
+        "name": "Spreewald-Idyll",
+        "phone": "+49 3542 41777",
+        "tourism": "guest_house",
+        "website": "www.spreewald-idyll.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9695054,
+          51.868948
+        ]
+      },
+      "id": "node/1760682900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2544671269",
+        "check_date": "2025-12-12",
+        "check_date:internet_access": "2025-12-12",
+        "internet_access": "wlan",
+        "name": "Pension Spreewelten",
+        "tourism": "guest_house",
+        "website": "http://www.pension.spreewelten.de/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9609833,
+          51.8623211
+        ]
+      },
+      "id": "node/2544671269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3065775233",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9539711,
+          51.8677624
+        ]
+      },
+      "id": "node/3065775233"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3550694076",
+        "attraction": "water_slide",
+        "name": "Riesenrutschen",
+        "tourism": "attraction",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9529611,
+          51.8570771
+        ]
+      },
+      "id": "node/3550694076"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3615288915",
+        "check_date": "2024-07-21",
+        "name": "Spreewaldhof",
+        "phone": "+49 3542 2805",
+        "tourism": "hotel",
+        "website": "https://www.spreewaldhof-leipe.de/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0387119,
+          51.8577692
+        ]
+      },
+      "id": "node/3615288915"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3774502344",
+        "addr:city": "Lübbenau/Spreewald",
+        "addr:housenumber": "59a",
+        "addr:postcode": "03222",
+        "addr:street": "Dammstraße",
+        "email": "info@spreewald-hanschick.de",
+        "fax": "+49 3542 405643",
+        "name": "Übernachten im Gurkenfass",
+        "operator": "Restaurant und Café Hanschick",
+        "phone": "+49 3542 2171",
+        "source": "http://www.spreewald.de/unterkuenfte-suchen/detail/uebernachten-im-gurkenfass/",
+        "tourism": "hotel",
+        "website": "http://www.spreewald-hanschick.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9688266,
+          51.8618356
+        ]
+      },
+      "id": "node/3774502344"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4313244001",
+        "check_date:internet_access": "2025-03-12",
+        "internet_access": "wlan",
+        "name": "LEAG Qualifizierungs- und Tagungszentrum",
+        "operator": "LEAG",
+        "toilets:wheelchair": "yes",
+        "tourism": "hotel",
+        "website": "https://www.konferenzcenter-spreewald.de/%C3%BCbernachten",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9496197,
+          51.8562591
+        ]
+      },
+      "id": "node/4313244001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4882152023",
+        "addr:city": "Lübbenau/Spreewald",
+        "addr:country": "DE",
+        "addr:housenumber": "71",
+        "addr:postcode": "03222",
+        "addr:street": "Dammstraße",
+        "email": "truestedtbalke@aol.com",
+        "name": "Hafen am Holzgraben",
+        "phone": "+49 3542 2221",
+        "tourism": "attraction",
+        "website": "https://holzgraben.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9751247,
+          51.8650864
+        ]
+      },
+      "id": "node/4882152023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4882164121",
+        "addr:city": "Lübbenau/Spreewald",
+        "addr:country": "DE",
+        "addr:housenumber": "77a",
+        "addr:postcode": "03222",
+        "addr:street": "Dammstraße",
+        "email": "info@großer-hafen.de",
+        "name": "Großer Spreewaldhafen",
+        "phone": "+49 3542 2225",
+        "tourism": "attraction",
+        "url": "https://www.youtube.com/channel/UCMwgJhL-XnKlDNXStCK6yPQ",
+        "url:0": "https://youtu.be/Dwuh92zlUnU",
+        "website": "http://www.großer-hafen.de",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.973351,
+          51.8673815
+        ]
+      },
+      "id": "node/4882164121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5850755764",
+        "name": "Spree Hotel in der Altstadt",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9660504,
+          51.8691681
+        ]
+      },
+      "id": "node/5850755764"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6370105937",
+        "addr:city": "Lübbenau/Spreewald",
+        "addr:housenumber": "26",
+        "addr:postcode": "03222",
+        "addr:street": "Bahnhofstraße",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "Knidle",
+        "opening_hours": "Mo-Su 11:30-18:00+",
+        "outdoor_seating": "yes",
+        "smoking": "outside",
+        "tourism": "guest_house",
+        "website": "https://www.knidle.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9585016,
+          51.8638972
+        ]
+      },
+      "id": "node/6370105937"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7548136586",
+        "name": "Historische Orgel",
+        "tourism": "attraction",
+        "wheelchair": "yes",
+        "wikidata": "Q124785324",
+        "wikimedia_commons": "Category:Pipe organ of St. Nikolai (Lübbenau)",
+        "wikipedia": "de:Orgel von St. Nikolai (Lübbenau)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.96925,
+          51.8678639
+        ]
+      },
+      "id": "node/7548136586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7706670385",
+        "description": "Riesen Motorrad",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9955038,
+          51.8316899
+        ]
+      },
+      "id": "node/7706670385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8978006356",
+        "addr:city": "Lübbenau/Spreewald",
+        "addr:country": "DE",
+        "addr:housenumber": "9",
+        "addr:postcode": "03222",
+        "addr:street": "Schulstraße",
+        "check_date:opening_hours": "2024-11-03",
+        "fee": "no",
+        "museum_type": "regional",
+        "name": "Haus für Mensch und Natur",
+        "opening_hours": "Tu-Su 10:00-17:00",
+        "tourism": "museum",
+        "website": "https://www.spreewald-biosphaerenreservat.de/themen/ausflugsziele-erlebnisse/haus-fuer-mensch-und-natur/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.968538,
+          51.86922
+        ]
+      },
+      "id": "node/8978006356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11152454544",
+        "addr:city": "Lübbenau/Spreewald",
+        "addr:housenumber": "5",
+        "addr:postcode": "03222",
+        "addr:street": "Lindenstraße",
+        "addr:suburb": "Krimnitz",
+        "name": "Pension Erlenhof",
+        "phone": "+49 3542 46073",
+        "tourism": "guest_house",
+        "website": "https://www.pension-erlenhof.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9195927,
+          51.8685362
+        ]
+      },
+      "id": "node/11152454544"
+    }
+  ]
+}

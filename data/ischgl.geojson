@@ -1,0 +1,5297 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-03-17T18:50:46Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/85346028",
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "111",
+        "addr:postcode": "6561",
+        "addr:street": "Dorfstraße",
+        "building": "yes",
+        "email": "info@schmid-ischgl.at",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Hotel Garni Schmid",
+        "operator": "Familie Schmid",
+        "phone": "+43 5444 5386",
+        "source": "geoimage.at",
+        "stars": "3",
+        "tourism": "hotel",
+        "website": "https://www.schmid-ischgl.at"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.2837115,
+              47.007714
+            ],
+            [
+              10.2834182,
+              47.0075651
+            ],
+            [
+              10.2835276,
+              47.0074643
+            ],
+            [
+              10.2838209,
+              47.0076132
+            ],
+            [
+              10.2837115,
+              47.007714
+            ]
+          ]
+        ]
+      },
+      "id": "way/85346028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/85346039",
+        "addr:city": "Ischgl",
+        "addr:housenumber": "123",
+        "addr:postcode": "6561",
+        "addr:street": "Dorfstraße",
+        "building": "yes",
+        "check_date": "2024-12-20",
+        "name": "Hotel Montanara",
+        "source": "geoimage.at",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.2830215,
+              47.0067796
+            ],
+            [
+              10.2831584,
+              47.0066817
+            ],
+            [
+              10.283133,
+              47.0066651
+            ],
+            [
+              10.2832267,
+              47.0065981
+            ],
+            [
+              10.2831322,
+              47.0065363
+            ],
+            [
+              10.2832792,
+              47.0064404
+            ],
+            [
+              10.2833703,
+              47.0065386
+            ],
+            [
+              10.2833019,
+              47.0065974
+            ],
+            [
+              10.28342,
+              47.0066746
+            ],
+            [
+              10.2833165,
+              47.0067487
+            ],
+            [
+              10.2833434,
+              47.0067663
+            ],
+            [
+              10.28318,
+              47.0068833
+            ],
+            [
+              10.2830215,
+              47.0067796
+            ]
+          ]
+        ]
+      },
+      "id": "way/85346039"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/85346056",
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "4",
+        "addr:postcode": "6561",
+        "addr:street": "Bachweg",
+        "building": "yes",
+        "check_date": "2024-12-18",
+        "name": "Funtana",
+        "source": "geoimage.at",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.2894915,
+              47.0125476
+            ],
+            [
+              10.2896095,
+              47.0124636
+            ],
+            [
+              10.2897827,
+              47.0125774
+            ],
+            [
+              10.2896647,
+              47.0126614
+            ],
+            [
+              10.2894915,
+              47.0125476
+            ]
+          ]
+        ]
+      },
+      "id": "way/85346056"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/85346094",
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "101",
+        "addr:postcode": "6561",
+        "addr:street": "Dorfstraße",
+        "building": "yes",
+        "email": "info@hotel-zangerl.at",
+        "name": "Hotel-Garni Zangerl",
+        "phone": "+43 5444 54 63",
+        "source": "geoimage.at",
+        "tourism": "hotel",
+        "website": "https://hotel-zangerl.at/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.2844638,
+              47.0079172
+            ],
+            [
+              10.284628,
+              47.0077704
+            ],
+            [
+              10.2848276,
+              47.0078748
+            ],
+            [
+              10.2846634,
+              47.0080216
+            ],
+            [
+              10.2844638,
+              47.0079172
+            ]
+          ]
+        ]
+      },
+      "id": "way/85346094"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/85346106",
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "1",
+        "addr:postcode": "6561",
+        "addr:street": "Kalvarienweg",
+        "building": "yes",
+        "name": "Patteriol",
+        "source": "geoimage.at",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.2930792,
+              47.0111496
+            ],
+            [
+              10.2932375,
+              47.0110402
+            ],
+            [
+              10.2933889,
+              47.0111426
+            ],
+            [
+              10.2932306,
+              47.0112521
+            ],
+            [
+              10.2930792,
+              47.0111496
+            ]
+          ]
+        ]
+      },
+      "id": "way/85346106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/85426586",
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "75",
+        "addr:postcode": "6562",
+        "addr:street": "Silvrettastraße",
+        "building": "yes",
+        "check_date": "2025-12-18",
+        "email": "info@alp-larain.com",
+        "name": "Hotel Alp Larain",
+        "phone": "+4354445176",
+        "source": "geoimage.at",
+        "source:name": "visit",
+        "tourism": "hotel",
+        "website": "https://alp-larain.com/",
+        "wikidata": "Q112015509"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.2473908,
+              46.9891301
+            ],
+            [
+              10.2470824,
+              46.9890155
+            ],
+            [
+              10.2472385,
+              46.9888188
+            ],
+            [
+              10.2475469,
+              46.9889334
+            ],
+            [
+              10.2473908,
+              46.9891301
+            ]
+          ]
+        ]
+      },
+      "id": "way/85426586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/85426603",
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "8",
+        "addr:postcode": "6562",
+        "addr:street": "Winklweg",
+        "building": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Appartements Hubertus",
+        "source": "geoimage.at",
+        "tourism": "guest_house",
+        "website": "https://www.hubertus-ischgl.at/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.2420997,
+              46.9887976
+            ],
+            [
+              10.2421736,
+              46.9886858
+            ],
+            [
+              10.2423631,
+              46.9887444
+            ],
+            [
+              10.2422892,
+              46.9888562
+            ],
+            [
+              10.2420997,
+              46.9887976
+            ]
+          ]
+        ]
+      },
+      "id": "way/85426603"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/85426630",
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "17",
+        "addr:postcode": "6562",
+        "addr:street": "Mathoner Straße",
+        "building": "yes",
+        "check_date": "2024-12-20",
+        "name": "Haus Melanie",
+        "source": "geoimage.at",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.244607,
+              46.988788
+            ],
+            [
+              10.2446768,
+              46.9886937
+            ],
+            [
+              10.2448429,
+              46.9887509
+            ],
+            [
+              10.2447731,
+              46.9888452
+            ],
+            [
+              10.244607,
+              46.988788
+            ]
+          ]
+        ]
+      },
+      "id": "way/85426630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/85426637",
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "58",
+        "addr:postcode": "6562",
+        "addr:street": "Silvrettastraße",
+        "building": "yes",
+        "check_date": "2024-12-20",
+        "name": "Ferienhaus Heindalishof",
+        "operator": "Familie Kathrein",
+        "source": "geoimage.at",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.2466911,
+              46.9892722
+            ],
+            [
+              10.2467759,
+              46.9891775
+            ],
+            [
+              10.246963,
+              46.9892555
+            ],
+            [
+              10.2468782,
+              46.9893502
+            ],
+            [
+              10.2466911,
+              46.9892722
+            ]
+          ]
+        ]
+      },
+      "id": "way/85426637"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/86669584",
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "74",
+        "addr:postcode": "6561",
+        "addr:street": "Dorfstraße",
+        "bar": "yes",
+        "building": "yes",
+        "check_date": "2024-12-15",
+        "name": "Silvretta",
+        "reservation": "recommended",
+        "source": "geoimage.at",
+        "stars": "5",
+        "tourism": "hotel",
+        "website": "https://sporthotel-silvretta.at/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.2889749,
+              47.0096801
+            ],
+            [
+              10.2889394,
+              47.0096487
+            ],
+            [
+              10.2889422,
+              47.0095603
+            ],
+            [
+              10.288962,
+              47.009513
+            ],
+            [
+              10.2889963,
+              47.0095273
+            ],
+            [
+              10.2890589,
+              47.0095301
+            ],
+            [
+              10.2891573,
+              47.0095801
+            ],
+            [
+              10.2891415,
+              47.0095941
+            ],
+            [
+              10.2891711,
+              47.009612
+            ],
+            [
+              10.2891939,
+              47.0096117
+            ],
+            [
+              10.2892153,
+              47.0096191
+            ],
+            [
+              10.2892311,
+              47.0096309
+            ],
+            [
+              10.2892345,
+              47.0096507
+            ],
+            [
+              10.2894435,
+              47.0097624
+            ],
+            [
+              10.2893278,
+              47.0098507
+            ],
+            [
+              10.2892958,
+              47.0098323
+            ],
+            [
+              10.289274,
+              47.0098526
+            ],
+            [
+              10.2889749,
+              47.0096801
+            ]
+          ]
+        ]
+      },
+      "id": "way/86669584"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/86669605",
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "1",
+        "addr:postcode": "6561",
+        "addr:street": "Bodenweg",
+        "building": "yes",
+        "check_date": "2024-12-18",
+        "name": "Sporthotel Almhof",
+        "source": "geoimage.at",
+        "stars": "4",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.2878613,
+              47.0101082
+            ],
+            [
+              10.2879155,
+              47.0101404
+            ],
+            [
+              10.287939,
+              47.0101863
+            ],
+            [
+              10.2879048,
+              47.0102115
+            ],
+            [
+              10.2878537,
+              47.0102267
+            ],
+            [
+              10.2878044,
+              47.0102343
+            ],
+            [
+              10.2877466,
+              47.010233
+            ],
+            [
+              10.2876751,
+              47.0102186
+            ],
+            [
+              10.2876053,
+              47.0101905
+            ],
+            [
+              10.2875001,
+              47.0101274
+            ],
+            [
+              10.2875124,
+              47.0101172
+            ],
+            [
+              10.2873836,
+              47.0100401
+            ],
+            [
+              10.287522,
+              47.0099282
+            ],
+            [
+              10.2875425,
+              47.0099191
+            ],
+            [
+              10.28757,
+              47.0099148
+            ],
+            [
+              10.2875987,
+              47.009917
+            ],
+            [
+              10.2876234,
+              47.0099242
+            ],
+            [
+              10.2876332,
+              47.0099321
+            ],
+            [
+              10.2876362,
+              47.0099445
+            ],
+            [
+              10.2876361,
+              47.0099863
+            ],
+            [
+              10.2876853,
+              47.0100129
+            ],
+            [
+              10.2877139,
+              47.0100283
+            ],
+            [
+              10.2878613,
+              47.0101082
+            ]
+          ]
+        ]
+      },
+      "id": "way/86669605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/86669610",
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "3",
+        "addr:postcode": "6561",
+        "addr:street": "Bodenweg",
+        "building": "yes",
+        "name": "Gidis Hof",
+        "operator": "Gidis Hof",
+        "source": "geoimage.at",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.2875543,
+              47.0097881
+            ],
+            [
+              10.2873575,
+              47.0099551
+            ],
+            [
+              10.2872069,
+              47.0098726
+            ],
+            [
+              10.2874037,
+              47.0097056
+            ],
+            [
+              10.2875543,
+              47.0097881
+            ]
+          ]
+        ]
+      },
+      "id": "way/86669610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/86669611",
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "86",
+        "addr:postcode": "6561",
+        "addr:street": "Dorfstraße",
+        "building": "yes",
+        "check_date": "2024-12-15",
+        "name": "Hotel Pazanella",
+        "source": "geoimage.at",
+        "stars": "4",
+        "tourism": "hotel",
+        "website": "https://pazanella.at/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.2872079,
+              47.0093314
+            ],
+            [
+              10.2873744,
+              47.009169
+            ],
+            [
+              10.2875492,
+              47.0092523
+            ],
+            [
+              10.2873826,
+              47.0094147
+            ],
+            [
+              10.2872079,
+              47.0093314
+            ]
+          ]
+        ]
+      },
+      "id": "way/86669611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/86669612",
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "7",
+        "addr:postcode": "6561",
+        "addr:street": "Silvrettaplatz",
+        "building": "yes",
+        "check_date": "2024-12-18",
+        "name": "Ferienglück",
+        "source": "geoimage.at",
+        "tourism": "hotel",
+        "website": "https://www.ferienglueck.at/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.2887532,
+              47.0098654
+            ],
+            [
+              10.2889123,
+              47.0097412
+            ],
+            [
+              10.2891998,
+              47.0099135
+            ],
+            [
+              10.2890406,
+              47.0100377
+            ],
+            [
+              10.2887532,
+              47.0098654
+            ]
+          ]
+        ]
+      },
+      "id": "way/86669612"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/86669614",
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "76",
+        "addr:postcode": "6561",
+        "addr:street": "Dorfstraße",
+        "building": "yes",
+        "check_date": "2024-12-18",
+        "name": "Fortuna",
+        "source": "geoimage.at",
+        "tourism": "hotel",
+        "website": "https://fortuna-ischgl.at/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.2875183,
+              47.0096794
+            ],
+            [
+              10.287627,
+              47.0095684
+            ],
+            [
+              10.2878189,
+              47.0096557
+            ],
+            [
+              10.2876951,
+              47.0097823
+            ],
+            [
+              10.2875844,
+              47.0097319
+            ],
+            [
+              10.2875996,
+              47.0097164
+            ],
+            [
+              10.2875183,
+              47.0096794
+            ]
+          ]
+        ]
+      },
+      "id": "way/86669614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/86669622",
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "73",
+        "addr:postcode": "6561",
+        "addr:street": "Dorfstraße",
+        "building": "yes",
+        "check_date": "2024-12-15",
+        "name": "Yscla",
+        "source": "geoimage.at",
+        "tourism": "hotel",
+        "website": "https://www.yscla.at/hotel-ischgl/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.2891105,
+              47.0094941
+            ],
+            [
+              10.2892357,
+              47.0093884
+            ],
+            [
+              10.2893346,
+              47.0094432
+            ],
+            [
+              10.2893686,
+              47.0094144
+            ],
+            [
+              10.2895547,
+              47.0095174
+            ],
+            [
+              10.2894495,
+              47.0096063
+            ],
+            [
+              10.2894722,
+              47.0096189
+            ],
+            [
+              10.2894286,
+              47.009648
+            ],
+            [
+              10.2891105,
+              47.0094941
+            ]
+          ]
+        ]
+      },
+      "id": "way/86669622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/86669624",
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "3",
+        "addr:postcode": "6561",
+        "addr:street": "Silvrettaplatz",
+        "building": "yes",
+        "name": "24 Steps",
+        "source": "geoimage.at",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.2884347,
+              47.0103153
+            ],
+            [
+              10.2885692,
+              47.0102189
+            ],
+            [
+              10.2887212,
+              47.010318
+            ],
+            [
+              10.2885866,
+              47.0104145
+            ],
+            [
+              10.2884347,
+              47.0103153
+            ]
+          ]
+        ]
+      },
+      "id": "way/86669624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/86669626",
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "5",
+        "addr:postcode": "6561",
+        "addr:street": "Silvrettaplatz",
+        "building": "yes",
+        "check_date": "2024-12-18",
+        "name": "Astoria",
+        "source": "geoimage.at",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.2886154,
+              47.0101391
+            ],
+            [
+              10.2888048,
+              47.0099883
+            ],
+            [
+              10.2890172,
+              47.0101132
+            ],
+            [
+              10.2888279,
+              47.010264
+            ],
+            [
+              10.2886154,
+              47.0101391
+            ]
+          ]
+        ]
+      },
+      "id": "way/86669626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/137402245",
+        "addr:city": "Kappl",
+        "addr:country": "AT",
+        "addr:housenumber": "47",
+        "addr:postcode": "6555",
+        "addr:street": "Bach",
+        "amenity": "restaurant",
+        "building": "yes",
+        "diet:vegan": "no",
+        "diet:vegetarian": "no",
+        "name": "Edelweiß-Schlössl",
+        "source": "geoimage.at",
+        "stars": "3",
+        "tourism": "hotel",
+        "website": "https://www.edelweiss-schloessl.at/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.3561874,
+              47.053879
+            ],
+            [
+              10.3561084,
+              47.0539355
+            ],
+            [
+              10.3560453,
+              47.0539807
+            ],
+            [
+              10.3558436,
+              47.0538556
+            ],
+            [
+              10.3559264,
+              47.0537966
+            ],
+            [
+              10.3559379,
+              47.0537906
+            ],
+            [
+              10.3559516,
+              47.0537888
+            ],
+            [
+              10.3559596,
+              47.0537939
+            ],
+            [
+              10.3559718,
+              47.0537837
+            ],
+            [
+              10.3559922,
+              47.0537795
+            ],
+            [
+              10.3560185,
+              47.0537795
+            ],
+            [
+              10.3560468,
+              47.0537847
+            ],
+            [
+              10.3561874,
+              47.053879
+            ]
+          ]
+        ]
+      },
+      "id": "way/137402245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/137406768",
+        "addr:city": "Kappl",
+        "addr:country": "AT",
+        "addr:housenumber": "33",
+        "addr:postcode": "6555",
+        "addr:street": "Sinsen",
+        "building": "yes",
+        "note": "2 Privatzimmer",
+        "operator": "Elsa Zangerle",
+        "tourism": "guest_house",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.352053,
+              47.0520313
+            ],
+            [
+              10.3521308,
+              47.0521209
+            ],
+            [
+              10.3520224,
+              47.0521646
+            ],
+            [
+              10.3519445,
+              47.052075
+            ],
+            [
+              10.352053,
+              47.0520313
+            ]
+          ]
+        ]
+      },
+      "id": "way/137406768"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/155811399",
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "33",
+        "addr:postcode": "6561",
+        "addr:street": "Stöckwaldweg",
+        "building": "yes",
+        "name": "Mathias Schmid Museum",
+        "source": "geoimage.at",
+        "tourism": "museum",
+        "wikidata": "Q61762360"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.2897277,
+              47.009138
+            ],
+            [
+              10.2898108,
+              47.0090706
+            ],
+            [
+              10.2899726,
+              47.0091634
+            ],
+            [
+              10.2898895,
+              47.0092308
+            ],
+            [
+              10.2897277,
+              47.009138
+            ]
+          ]
+        ]
+      },
+      "id": "way/155811399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/173046475",
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "1",
+        "addr:postcode": "6561",
+        "addr:street": "Unterer Nederweg",
+        "building": "yes",
+        "name": "Hotel Garni Ida",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.2966263,
+              47.0162781
+            ],
+            [
+              10.2966716,
+              47.0162254
+            ],
+            [
+              10.2966533,
+              47.0162063
+            ],
+            [
+              10.2966929,
+              47.0161509
+            ],
+            [
+              10.2967401,
+              47.0161397
+            ],
+            [
+              10.2968163,
+              47.0161701
+            ],
+            [
+              10.2968163,
+              47.0161846
+            ],
+            [
+              10.2968992,
+              47.0162235
+            ],
+            [
+              10.2969368,
+              47.0162242
+            ],
+            [
+              10.2969522,
+              47.0162776
+            ],
+            [
+              10.2968499,
+              47.0163699
+            ],
+            [
+              10.2966263,
+              47.0162781
+            ]
+          ]
+        ]
+      },
+      "id": "way/173046475"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/173046478",
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "4",
+        "addr:postcode": "6561",
+        "addr:street": "Florianplatz",
+        "building": "hotel",
+        "name": "Hotel Garni Alpenhof",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.2946963,
+              47.0141679
+            ],
+            [
+              10.2947035,
+              47.0142459
+            ],
+            [
+              10.294727,
+              47.0143692
+            ],
+            [
+              10.2945471,
+              47.0143917
+            ],
+            [
+              10.2944954,
+              47.014363
+            ],
+            [
+              10.2944806,
+              47.0142946
+            ],
+            [
+              10.2944223,
+              47.0142963
+            ],
+            [
+              10.29445,
+              47.0142038
+            ],
+            [
+              10.2944838,
+              47.0141618
+            ],
+            [
+              10.2945791,
+              47.0141465
+            ],
+            [
+              10.294638,
+              47.014137
+            ],
+            [
+              10.2946963,
+              47.0141679
+            ]
+          ]
+        ]
+      },
+      "id": "way/173046478"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/173046517",
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "3",
+        "addr:postcode": "6561",
+        "addr:street": "Johannesweg",
+        "building": "yes",
+        "check_date": "2025-12-18",
+        "name": "Tina",
+        "stars": "3",
+        "tourism": "hotel",
+        "website": "http://hotel-tina.ischgl.at"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.2928707,
+              47.0156423
+            ],
+            [
+              10.2930136,
+              47.0155405
+            ],
+            [
+              10.2931895,
+              47.0156461
+            ],
+            [
+              10.2930465,
+              47.0157549
+            ],
+            [
+              10.2928707,
+              47.0156423
+            ]
+          ]
+        ]
+      },
+      "id": "way/173046517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/173046539",
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "18",
+        "addr:postcode": "6561",
+        "addr:street": "Unterer Nederweg",
+        "building": "yes",
+        "name": "Hotel Garni Litzner",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.2955873,
+              47.0164914
+            ],
+            [
+              10.2956088,
+              47.0163214
+            ],
+            [
+              10.2958738,
+              47.0163458
+            ],
+            [
+              10.2958613,
+              47.016504
+            ],
+            [
+              10.2955873,
+              47.0164914
+            ]
+          ]
+        ]
+      },
+      "id": "way/173046539"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/173046551",
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "16",
+        "addr:postcode": "6561",
+        "addr:street": "Silvrettastraße",
+        "building": "yes",
+        "name": "The Hotel",
+        "stars": "4",
+        "tourism": "hotel",
+        "website": "https://www.thehotel.at/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.2972998,
+              47.0164301
+            ],
+            [
+              10.2971069,
+              47.0165461
+            ],
+            [
+              10.2969373,
+              47.0164204
+            ],
+            [
+              10.2971328,
+              47.0163061
+            ],
+            [
+              10.2972998,
+              47.0164301
+            ]
+          ]
+        ]
+      },
+      "id": "way/173046551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/173046631",
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "51",
+        "addr:postcode": "6561",
+        "addr:street": "Dorfstraße",
+        "building": "yes",
+        "check_date": "2024-12-15",
+        "name": "Dorfschmiede",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.2909497,
+              47.0122141
+            ],
+            [
+              10.290975,
+              47.0122125
+            ],
+            [
+              10.2911301,
+              47.012203
+            ],
+            [
+              10.2911443,
+              47.0122021
+            ],
+            [
+              10.2911781,
+              47.0123301
+            ],
+            [
+              10.2912224,
+              47.0123251
+            ],
+            [
+              10.2912488,
+              47.0124613
+            ],
+            [
+              10.2910055,
+              47.0124864
+            ],
+            [
+              10.2909497,
+              47.0122141
+            ]
+          ]
+        ]
+      },
+      "id": "way/173046631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/173046638",
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "14",
+        "addr:postcode": "6561",
+        "addr:street": "Bichlweg",
+        "building": "yes",
+        "name": "Alma",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.2933861,
+              47.0133695
+            ],
+            [
+              10.2935557,
+              47.0133051
+            ],
+            [
+              10.2935925,
+              47.0133542
+            ],
+            [
+              10.2936157,
+              47.0133472
+            ],
+            [
+              10.2936567,
+              47.0134056
+            ],
+            [
+              10.2934626,
+              47.0134766
+            ],
+            [
+              10.2933861,
+              47.0133695
+            ]
+          ]
+        ]
+      },
+      "id": "way/173046638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/173046642",
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "10",
+        "addr:postcode": "6561",
+        "addr:street": "Brunnenweg",
+        "building": "yes",
+        "name": "Sonnberg",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.2930217,
+              47.012608
+            ],
+            [
+              10.2930674,
+              47.0126551
+            ],
+            [
+              10.2929304,
+              47.0127221
+            ],
+            [
+              10.2928137,
+              47.0126067
+            ],
+            [
+              10.2928513,
+              47.0125318
+            ],
+            [
+              10.2929219,
+              47.0125052
+            ],
+            [
+              10.2930217,
+              47.012608
+            ]
+          ]
+        ]
+      },
+      "id": "way/173046642"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/173046649",
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "33",
+        "addr:postcode": "6561",
+        "addr:street": "Dorfstraße",
+        "building": "yes",
+        "check_date": "2025-12-17",
+        "name": "Golfais",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.2938592,
+              47.013428
+            ],
+            [
+              10.2939945,
+              47.0132887
+            ],
+            [
+              10.2942831,
+              47.0134165
+            ],
+            [
+              10.294167,
+              47.0135205
+            ],
+            [
+              10.2940796,
+              47.0134799
+            ],
+            [
+              10.2940446,
+              47.0135105
+            ],
+            [
+              10.2938592,
+              47.013428
+            ]
+          ]
+        ]
+      },
+      "id": "way/173046649"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/173046657",
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "16",
+        "addr:postcode": "6561",
+        "addr:street": "Unterer Nederweg",
+        "building": "hotel",
+        "name": "Hotel Garni Passeier",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.2955907,
+              47.0167029
+            ],
+            [
+              10.2955969,
+              47.0165859
+            ],
+            [
+              10.2957278,
+              47.0165891
+            ],
+            [
+              10.2957284,
+              47.0165765
+            ],
+            [
+              10.2958187,
+              47.0165787
+            ],
+            [
+              10.2958119,
+              47.0167083
+            ],
+            [
+              10.2955907,
+              47.0167029
+            ]
+          ]
+        ]
+      },
+      "id": "way/173046657"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/173046658",
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "8",
+        "addr:postcode": "6561",
+        "addr:street": "Fimbabahnweg",
+        "building": "yes",
+        "check_date": "2025-12-17",
+        "name": "Fliana",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.2930226,
+              47.0121702
+            ],
+            [
+              10.2932004,
+              47.0121359
+            ],
+            [
+              10.293269,
+              47.0122995
+            ],
+            [
+              10.2932996,
+              47.0122953
+            ],
+            [
+              10.2933571,
+              47.0124387
+            ],
+            [
+              10.2931675,
+              47.0124751
+            ],
+            [
+              10.2930226,
+              47.0121702
+            ]
+          ]
+        ]
+      },
+      "id": "way/173046658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/173046659",
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "1",
+        "addr:postcode": "6561",
+        "addr:street": "Mühlweg",
+        "building": "yes",
+        "name": "Rätikon",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.2941014,
+              47.0152416
+            ],
+            [
+              10.2941159,
+              47.0152162
+            ],
+            [
+              10.2940029,
+              47.0151906
+            ],
+            [
+              10.2940703,
+              47.0150715
+            ],
+            [
+              10.2945149,
+              47.0151875
+            ],
+            [
+              10.2944354,
+              47.0153289
+            ],
+            [
+              10.2941014,
+              47.0152416
+            ]
+          ]
+        ]
+      },
+      "id": "way/173046659"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/173046672",
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "5",
+        "addr:postcode": "6561",
+        "addr:street": "Eggerweg",
+        "building": "yes",
+        "check_date": "2024-12-15",
+        "name": "Arnika",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.2921076,
+              47.0131088
+            ],
+            [
+              10.2921059,
+              47.0131098
+            ],
+            [
+              10.2920371,
+              47.0130579
+            ],
+            [
+              10.2920022,
+              47.0130777
+            ],
+            [
+              10.2918706,
+              47.0129821
+            ],
+            [
+              10.2921102,
+              47.0128368
+            ],
+            [
+              10.2922846,
+              47.0129803
+            ],
+            [
+              10.2922986,
+              47.0129918
+            ],
+            [
+              10.2921076,
+              47.0131088
+            ]
+          ]
+        ]
+      },
+      "id": "way/173046672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/173046674",
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "6",
+        "addr:postcode": "6561",
+        "addr:street": "St. Antoniusweg",
+        "building": "yes",
+        "email": "hotel@bernina.ws",
+        "name": "Hotel Garni Bernina",
+        "phone": "+43 5444 5106",
+        "tourism": "hotel",
+        "website": "https://bernina.ws/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.2940853,
+              47.0159773
+            ],
+            [
+              10.2942172,
+              47.0158948
+            ],
+            [
+              10.2942356,
+              47.0158833
+            ],
+            [
+              10.2944146,
+              47.0160164
+            ],
+            [
+              10.2943401,
+              47.0160629
+            ],
+            [
+              10.2943616,
+              47.0160789
+            ],
+            [
+              10.2942882,
+              47.0161248
+            ],
+            [
+              10.2942101,
+              47.0160667
+            ],
+            [
+              10.2941891,
+              47.0160799
+            ],
+            [
+              10.2941468,
+              47.0160484
+            ],
+            [
+              10.2941654,
+              47.0160368
+            ],
+            [
+              10.2941013,
+              47.0159892
+            ],
+            [
+              10.2940853,
+              47.0159773
+            ]
+          ]
+        ]
+      },
+      "id": "way/173046674"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/173046677",
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "15",
+        "addr:postcode": "6561",
+        "addr:street": "St. Antoniusweg",
+        "building": "yes",
+        "check_date": "2025-12-18",
+        "email": "info@kardona.at",
+        "name": "Hotel Garni Kardona",
+        "stars": "3",
+        "tourism": "hotel",
+        "website": "https://www.kardona.at/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.2956604,
+              47.0180904
+            ],
+            [
+              10.2957071,
+              47.0180355
+            ],
+            [
+              10.295666,
+              47.0180176
+            ],
+            [
+              10.2956997,
+              47.017964
+            ],
+            [
+              10.2957296,
+              47.0179716
+            ],
+            [
+              10.2957595,
+              47.017932
+            ],
+            [
+              10.2960714,
+              47.0180305
+            ],
+            [
+              10.2959517,
+              47.0182004
+            ],
+            [
+              10.2956604,
+              47.0180904
+            ]
+          ]
+        ]
+      },
+      "id": "way/173046677"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/173046688",
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "31",
+        "addr:postcode": "6561",
+        "addr:street": "Dorfstraße",
+        "building": "yes",
+        "check_date": "2025-12-17",
+        "name": "Monte Bianco",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.294441,
+              47.013783
+            ],
+            [
+              10.2942533,
+              47.0138184
+            ],
+            [
+              10.2942245,
+              47.0137561
+            ],
+            [
+              10.2942378,
+              47.013753
+            ],
+            [
+              10.2941924,
+              47.0136705
+            ],
+            [
+              10.2942531,
+              47.0136535
+            ],
+            [
+              10.2942016,
+              47.0135366
+            ],
+            [
+              10.2943041,
+              47.0135137
+            ],
+            [
+              10.2943434,
+              47.013514
+            ],
+            [
+              10.2943699,
+              47.0135206
+            ],
+            [
+              10.2943893,
+              47.013537
+            ],
+            [
+              10.2944382,
+              47.0136497
+            ],
+            [
+              10.29445,
+              47.0136817
+            ],
+            [
+              10.2944515,
+              47.0137039
+            ],
+            [
+              10.2944423,
+              47.0137192
+            ],
+            [
+              10.2944173,
+              47.0137324
+            ],
+            [
+              10.294441,
+              47.013783
+            ]
+          ]
+        ]
+      },
+      "id": "way/173046688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/209224200",
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "7",
+        "addr:postcode": "6562",
+        "addr:street": "Mathoner Straße",
+        "building": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "yes",
+        "name": "Heindalis Landhaus",
+        "operator": "Familie Kathrein",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.2461552,
+              46.9892786
+            ],
+            [
+              10.2462203,
+              46.9892012
+            ],
+            [
+              10.2463369,
+              46.9892468
+            ],
+            [
+              10.2462718,
+              46.9893243
+            ],
+            [
+              10.2461552,
+              46.9892786
+            ]
+          ]
+        ]
+      },
+      "id": "way/209224200"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/209224203",
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "8",
+        "addr:postcode": "6561",
+        "addr:street": "Pasnatschweg",
+        "building": "hotel",
+        "check_date": "2025-12-14",
+        "ele": "1357",
+        "email": "schlosshof@ischgl.at",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Hotel Schlosshof",
+        "operator": "Fam. Rangger",
+        "phone": "+43 5444 5347",
+        "smoking": "outside",
+        "stars": "4",
+        "tourism": "hotel",
+        "website": "https://schlosshof-ischgl.at/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.2839049,
+              47.0073116
+            ],
+            [
+              10.2836769,
+              47.0074096
+            ],
+            [
+              10.2834533,
+              47.0071676
+            ],
+            [
+              10.2836813,
+              47.0070697
+            ],
+            [
+              10.2839049,
+              47.0073116
+            ]
+          ]
+        ]
+      },
+      "id": "way/209224203"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/209395137",
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "77",
+        "addr:postcode": "6561",
+        "addr:street": "Dorfstraße",
+        "building": "yes",
+        "check_date": "2024-12-15",
+        "name": "Hotel Tirol",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.2886964,
+              47.0092514
+            ],
+            [
+              10.288691,
+              47.0092655
+            ],
+            [
+              10.2886835,
+              47.0092796
+            ],
+            [
+              10.2886696,
+              47.0092931
+            ],
+            [
+              10.2886429,
+              47.0093073
+            ],
+            [
+              10.288613,
+              47.0093171
+            ],
+            [
+              10.2885807,
+              47.0093236
+            ],
+            [
+              10.2885443,
+              47.0093229
+            ],
+            [
+              10.2885135,
+              47.0093167
+            ],
+            [
+              10.2884897,
+              47.0093054
+            ],
+            [
+              10.2884231,
+              47.0092715
+            ],
+            [
+              10.2882475,
+              47.0092055
+            ],
+            [
+              10.2881001,
+              47.0091496
+            ],
+            [
+              10.2882519,
+              47.0089466
+            ],
+            [
+              10.2885123,
+              47.009044
+            ],
+            [
+              10.2885343,
+              47.0090165
+            ],
+            [
+              10.2888057,
+              47.0091202
+            ],
+            [
+              10.2887002,
+              47.0092346
+            ],
+            [
+              10.2886964,
+              47.0092514
+            ]
+          ]
+        ]
+      },
+      "id": "way/209395137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/209395154",
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "2",
+        "addr:postcode": "6561",
+        "addr:street": "Maria Schnee Weg",
+        "addr:suburb": "Pasnatsch",
+        "building": "yes",
+        "check_date": "2024-12-15",
+        "name": "Victoria",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.2853621,
+              47.0079424
+            ],
+            [
+              10.2851713,
+              47.0080809
+            ],
+            [
+              10.2850841,
+              47.008025
+            ],
+            [
+              10.2851353,
+              47.0079878
+            ],
+            [
+              10.2850812,
+              47.0079532
+            ],
+            [
+              10.2852209,
+              47.0078519
+            ],
+            [
+              10.2853621,
+              47.0079424
+            ]
+          ]
+        ]
+      },
+      "id": "way/209395154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/209395157",
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "3",
+        "addr:postcode": "6561",
+        "addr:street": "Innerer Kapellenweg",
+        "bar": "yes",
+        "building": "hotel",
+        "check_date": "2025-12-14",
+        "email": "hotel@waldschloessl.at",
+        "fax": "+43 5444 541431",
+        "name": "Hotel Garni Waldschlössl",
+        "phone": "+43 5444 5414",
+        "ref:vatin": "ATU44882203",
+        "tourism": "hotel",
+        "website": "https://waldschloessl.at/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.2859999,
+              47.0070463
+            ],
+            [
+              10.2858614,
+              47.0071689
+            ],
+            [
+              10.2855982,
+              47.0070305
+            ],
+            [
+              10.2857367,
+              47.006908
+            ],
+            [
+              10.2859999,
+              47.0070463
+            ]
+          ]
+        ]
+      },
+      "id": "way/209395157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/209395166",
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "75",
+        "addr:postcode": "6561",
+        "addr:street": "Dorfstraße",
+        "building": "yes",
+        "name": "Hotel Garni Montana",
+        "stars": "3",
+        "tourism": "hotel",
+        "website": "http://www.montana-ischgl.com/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.2890362,
+              47.0094453
+            ],
+            [
+              10.2888301,
+              47.0093646
+            ],
+            [
+              10.2889489,
+              47.0092234
+            ],
+            [
+              10.289155,
+              47.0093041
+            ],
+            [
+              10.2890362,
+              47.0094453
+            ]
+          ]
+        ]
+      },
+      "id": "way/209395166"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/209395171",
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "85",
+        "addr:postcode": "6561",
+        "addr:street": "Dorfstraße",
+        "building": "yes",
+        "name": "Schlosshotel",
+        "tourism": "hotel",
+        "website": "http://www.schlosshotel-ischgl.com/",
+        "wikidata": "Q112015505"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.2878017,
+              47.0086173
+            ],
+            [
+              10.2874774,
+              47.0084781
+            ],
+            [
+              10.2876628,
+              47.0082893
+            ],
+            [
+              10.2877439,
+              47.008279
+            ],
+            [
+              10.2878261,
+              47.0081941
+            ],
+            [
+              10.2881693,
+              47.0083534
+            ],
+            [
+              10.2879167,
+              47.0085893
+            ],
+            [
+              10.2878017,
+              47.0086173
+            ]
+          ]
+        ]
+      },
+      "id": "way/209395171"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/209395172",
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "88",
+        "addr:postcode": "6561",
+        "addr:street": "Dorfstraße",
+        "building": "yes",
+        "check_date": "2024-12-15",
+        "name": "Urezza",
+        "stars": "4",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.2868954,
+              47.009322
+            ],
+            [
+              10.2871401,
+              47.0090681
+            ],
+            [
+              10.2873112,
+              47.0091447
+            ],
+            [
+              10.2870664,
+              47.0093987
+            ],
+            [
+              10.2870439,
+              47.0093886
+            ],
+            [
+              10.2868954,
+              47.009322
+            ]
+          ]
+        ]
+      },
+      "id": "way/209395172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/209395175",
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "90",
+        "addr:postcode": "6561",
+        "addr:street": "Dorfstraße",
+        "building": "yes",
+        "check_date": "2024-12-15",
+        "name": "Maria Theresia",
+        "tourism": "hotel",
+        "website": "https://www.maria-theresia-ischgl.at/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.286667,
+              47.0091497
+            ],
+            [
+              10.2868066,
+              47.0089907
+            ],
+            [
+              10.2868368,
+              47.0089563
+            ],
+            [
+              10.2870541,
+              47.009045
+            ],
+            [
+              10.2868844,
+              47.0092384
+            ],
+            [
+              10.286667,
+              47.0091497
+            ]
+          ]
+        ]
+      },
+      "id": "way/209395175"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/209395177",
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "92",
+        "addr:postcode": "6561",
+        "addr:street": "Dorfstraße",
+        "bar": "yes",
+        "building": "hotel",
+        "check_date": "2025-12-20",
+        "email": "office@ischglerhof.at",
+        "internet_access": "yes",
+        "internet_access:fee": "customers",
+        "layer": "1",
+        "name": "Alpenhotel Ischglerhof",
+        "phone": "+4354445330",
+        "tourism": "hotel",
+        "website": "https://www.ischglerhof.at/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.2867578,
+              47.0089576
+            ],
+            [
+              10.286594,
+              47.0091388
+            ],
+            [
+              10.2864896,
+              47.0090975
+            ],
+            [
+              10.2863442,
+              47.0092278
+            ],
+            [
+              10.2860713,
+              47.0090746
+            ],
+            [
+              10.2862508,
+              47.0089259
+            ],
+            [
+              10.286317,
+              47.0089598
+            ],
+            [
+              10.2864374,
+              47.0088204
+            ],
+            [
+              10.2867578,
+              47.0089576
+            ]
+          ]
+        ]
+      },
+      "id": "way/209395177"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/209395178",
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "94",
+        "addr:postcode": "6561",
+        "addr:street": "Dorfstraße",
+        "building": "yes",
+        "check_date": "2024-12-15",
+        "name": "Garni Lasalt",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.2858563,
+              47.0089182
+            ],
+            [
+              10.2861147,
+              47.0087255
+            ],
+            [
+              10.2862395,
+              47.0088033
+            ],
+            [
+              10.2859811,
+              47.008996
+            ],
+            [
+              10.2858563,
+              47.0089182
+            ]
+          ]
+        ]
+      },
+      "id": "way/209395178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/209395179",
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "95",
+        "addr:postcode": "6561",
+        "addr:street": "Dorfstraße",
+        "building": "hotel",
+        "check_date": "2024-12-15",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "name": "Trofana",
+        "stars": "5",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.2861341,
+              47.0085547
+            ],
+            [
+              10.2861931,
+              47.0084804
+            ],
+            [
+              10.2863098,
+              47.0083332
+            ],
+            [
+              10.2863647,
+              47.0082646
+            ],
+            [
+              10.2865455,
+              47.008332
+            ],
+            [
+              10.2869319,
+              47.008476
+            ],
+            [
+              10.2867835,
+              47.0086754
+            ],
+            [
+              10.2867955,
+              47.0087049
+            ],
+            [
+              10.2867533,
+              47.0087585
+            ],
+            [
+              10.2867081,
+              47.008767
+            ],
+            [
+              10.286532,
+              47.0086992
+            ],
+            [
+              10.2864776,
+              47.0086792
+            ],
+            [
+              10.2864191,
+              47.008658
+            ],
+            [
+              10.2861341,
+              47.0085547
+            ]
+          ]
+        ]
+      },
+      "id": "way/209395179"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/209395180",
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "96",
+        "addr:postcode": "6561",
+        "addr:street": "Dorfstraße",
+        "building": "yes",
+        "check_date": "2024-12-15",
+        "name": "Albona",
+        "stars": "4",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.2857334,
+              47.0085638
+            ],
+            [
+              10.2860142,
+              47.0086635
+            ],
+            [
+              10.285993,
+              47.0086968
+            ],
+            [
+              10.2856909,
+              47.0088964
+            ],
+            [
+              10.2855432,
+              47.0087957
+            ],
+            [
+              10.2857334,
+              47.0085638
+            ]
+          ]
+        ]
+      },
+      "id": "way/209395180"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/209395182",
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "98",
+        "addr:postcode": "6561",
+        "addr:street": "Dorfstraße",
+        "building": "hotel",
+        "check_date": "2024-12-15",
+        "name": "Hotel Salnerhof",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.2851157,
+              47.0085119
+            ],
+            [
+              10.2851303,
+              47.008501
+            ],
+            [
+              10.2851463,
+              47.0084937
+            ],
+            [
+              10.2851647,
+              47.0084886
+            ],
+            [
+              10.285184,
+              47.0084879
+            ],
+            [
+              10.2852095,
+              47.0084913
+            ],
+            [
+              10.2852592,
+              47.0084257
+            ],
+            [
+              10.2852693,
+              47.0084177
+            ],
+            [
+              10.2852834,
+              47.0084135
+            ],
+            [
+              10.2853001,
+              47.0084114
+            ],
+            [
+              10.285313,
+              47.0084117
+            ],
+            [
+              10.2853295,
+              47.0084138
+            ],
+            [
+              10.2856903,
+              47.0085388
+            ],
+            [
+              10.2855547,
+              47.0087187
+            ],
+            [
+              10.2855059,
+              47.0087023
+            ],
+            [
+              10.2854512,
+              47.0087729
+            ],
+            [
+              10.2850836,
+              47.0085596
+            ],
+            [
+              10.2851157,
+              47.0085119
+            ]
+          ]
+        ]
+      },
+      "id": "way/209395182"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/209398905",
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "14",
+        "addr:postcode": "6561",
+        "addr:street": "Bachweg",
+        "building": "yes",
+        "check_date": "2024-12-18",
+        "name": "Trofana Alpin",
+        "tourism": "hotel",
+        "website": "https://www.trofana-alpin.com/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.2901607,
+              47.0121092
+            ],
+            [
+              10.2900271,
+              47.0118954
+            ],
+            [
+              10.2903711,
+              47.0117955
+            ],
+            [
+              10.290382,
+              47.0118131
+            ],
+            [
+              10.2904214,
+              47.0118761
+            ],
+            [
+              10.2904551,
+              47.0119301
+            ],
+            [
+              10.2903806,
+              47.0119517
+            ],
+            [
+              10.2904301,
+              47.012031
+            ],
+            [
+              10.2901607,
+              47.0121092
+            ]
+          ]
+        ]
+      },
+      "id": "way/209398905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/209398910",
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "18",
+        "addr:postcode": "6561",
+        "addr:street": "Brandweg",
+        "building": "yes",
+        "internet_access:fee": "no",
+        "name": "Garni Edelweiss",
+        "operator": "Zangerl",
+        "tourism": "guest_house",
+        "website": "https://edelweiss-ischgl.at/index.htm"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.287412,
+              47.0140782
+            ],
+            [
+              10.2875105,
+              47.0139798
+            ],
+            [
+              10.2875232,
+              47.0139857
+            ],
+            [
+              10.2876139,
+              47.0138952
+            ],
+            [
+              10.2877966,
+              47.0139802
+            ],
+            [
+              10.2877437,
+              47.014033
+            ],
+            [
+              10.2876981,
+              47.0140785
+            ],
+            [
+              10.2876776,
+              47.014099
+            ],
+            [
+              10.2875701,
+              47.0141158
+            ],
+            [
+              10.2875371,
+              47.0141011
+            ],
+            [
+              10.2875123,
+              47.0141249
+            ],
+            [
+              10.287412,
+              47.0140782
+            ]
+          ]
+        ]
+      },
+      "id": "way/209398910"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/209398921",
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "4",
+        "addr:postcode": "6561",
+        "addr:street": "Stöckwaldweg",
+        "building": "yes",
+        "name": "Hotel Garni Bellevue",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.2923838,
+              47.0104331
+            ],
+            [
+              10.2921996,
+              47.0104908
+            ],
+            [
+              10.2921065,
+              47.0103529
+            ],
+            [
+              10.2922907,
+              47.0102951
+            ],
+            [
+              10.2923838,
+              47.0104331
+            ]
+          ]
+        ]
+      },
+      "id": "way/209398921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/209398931",
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "59",
+        "addr:postcode": "6561",
+        "addr:street": "Dorfstraße",
+        "building": "yes",
+        "name": "Hotel Angelika",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.2907615,
+              47.0116207
+            ],
+            [
+              10.2907447,
+              47.011458
+            ],
+            [
+              10.2908138,
+              47.0114532
+            ],
+            [
+              10.2909375,
+              47.0114376
+            ],
+            [
+              10.2909395,
+              47.011449
+            ],
+            [
+              10.2909581,
+              47.0115541
+            ],
+            [
+              10.2909119,
+              47.0116033
+            ],
+            [
+              10.2907615,
+              47.0116207
+            ]
+          ]
+        ]
+      },
+      "id": "way/209398931"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/209398934",
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "67",
+        "addr:postcode": "6561",
+        "addr:street": "Dorfstraße",
+        "bar": "yes",
+        "building": "yes",
+        "check_date": "2024-12-15",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "name": "Hotel Post",
+        "operator": "Familie Wolf",
+        "reservation": "recommended",
+        "stars": "4S",
+        "tourism": "hotel",
+        "website": "https://www.post-ischgl.com/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.2908367,
+              47.010837
+            ],
+            [
+              10.290815,
+              47.010786
+            ],
+            [
+              10.2907498,
+              47.0107993
+            ],
+            [
+              10.2907272,
+              47.0107477
+            ],
+            [
+              10.2907046,
+              47.0106961
+            ],
+            [
+              10.2907797,
+              47.0106819
+            ],
+            [
+              10.2907577,
+              47.010634
+            ],
+            [
+              10.290747,
+              47.0106361
+            ],
+            [
+              10.2907326,
+              47.0106034
+            ],
+            [
+              10.2907337,
+              47.0105571
+            ],
+            [
+              10.2907111,
+              47.0105557
+            ],
+            [
+              10.2906896,
+              47.0105463
+            ],
+            [
+              10.2906781,
+              47.0105294
+            ],
+            [
+              10.2906819,
+              47.0105102
+            ],
+            [
+              10.2906941,
+              47.0104962
+            ],
+            [
+              10.2907128,
+              47.0104912
+            ],
+            [
+              10.2907022,
+              47.0104648
+            ],
+            [
+              10.2907305,
+              47.0103973
+            ],
+            [
+              10.2907474,
+              47.0103946
+            ],
+            [
+              10.2907406,
+              47.0103772
+            ],
+            [
+              10.2910027,
+              47.0103266
+            ],
+            [
+              10.2909933,
+              47.0103001
+            ],
+            [
+              10.2910616,
+              47.0102876
+            ],
+            [
+              10.2910856,
+              47.0103447
+            ],
+            [
+              10.2912493,
+              47.010314
+            ],
+            [
+              10.2912337,
+              47.0102769
+            ],
+            [
+              10.2913204,
+              47.0102598
+            ],
+            [
+              10.2913317,
+              47.0102579
+            ],
+            [
+              10.291348,
+              47.0102966
+            ],
+            [
+              10.291388,
+              47.0102893
+            ],
+            [
+              10.2913937,
+              47.0103023
+            ],
+            [
+              10.29148,
+              47.0102847
+            ],
+            [
+              10.2914893,
+              47.0102828
+            ],
+            [
+              10.2915523,
+              47.0104425
+            ],
+            [
+              10.2914618,
+              47.010459
+            ],
+            [
+              10.2914723,
+              47.0104831
+            ],
+            [
+              10.2913764,
+              47.0105024
+            ],
+            [
+              10.2912114,
+              47.0105357
+            ],
+            [
+              10.2912661,
+              47.0106619
+            ],
+            [
+              10.2913403,
+              47.010648
+            ],
+            [
+              10.2913637,
+              47.0107092
+            ],
+            [
+              10.2912909,
+              47.010724
+            ],
+            [
+              10.2912986,
+              47.0107432
+            ],
+            [
+              10.2908367,
+              47.010837
+            ]
+          ]
+        ]
+      },
+      "id": "way/209398934"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/209630144",
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "52",
+        "addr:postcode": "6561",
+        "addr:street": "Versahlweg",
+        "building": "yes",
+        "name": "Hotel Gipfelherz",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.3027004,
+              47.0223969
+            ],
+            [
+              10.3024608,
+              47.0222571
+            ],
+            [
+              10.3024772,
+              47.0221591
+            ],
+            [
+              10.302507,
+              47.0221379
+            ],
+            [
+              10.3026471,
+              47.0221506
+            ],
+            [
+              10.302663,
+              47.0221691
+            ],
+            [
+              10.3026561,
+              47.0222161
+            ],
+            [
+              10.3028053,
+              47.0223019
+            ],
+            [
+              10.3027708,
+              47.0223342
+            ],
+            [
+              10.3027103,
+              47.0223869
+            ],
+            [
+              10.3027004,
+              47.0223969
+            ]
+          ]
+        ]
+      },
+      "id": "way/209630144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/211850896",
+        "addr:city": "Kappl",
+        "addr:country": "AT",
+        "addr:housenumber": "438",
+        "addr:postcode": "6555",
+        "addr:street": "Sinsner Au",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "regional",
+        "name": "Hotel Höllroah",
+        "tourism": "hotel",
+        "website": "https://www.hoellroah.at/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.3480544,
+              47.0496331
+            ],
+            [
+              10.3480677,
+              47.0496131
+            ],
+            [
+              10.3478706,
+              47.049548
+            ],
+            [
+              10.3479191,
+              47.0494861
+            ],
+            [
+              10.3479582,
+              47.0494843
+            ],
+            [
+              10.3480263,
+              47.0494888
+            ],
+            [
+              10.3481069,
+              47.0494934
+            ],
+            [
+              10.3481161,
+              47.0494816
+            ],
+            [
+              10.3484469,
+              47.0496038
+            ],
+            [
+              10.3484527,
+              47.0496231
+            ],
+            [
+              10.3483576,
+              47.0497437
+            ],
+            [
+              10.3480544,
+              47.0496331
+            ]
+          ]
+        ]
+      },
+      "id": "way/211850896"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/246554647",
+        "addr:city": "Kappl",
+        "addr:country": "AT",
+        "addr:housenumber": "423",
+        "addr:postcode": "6555",
+        "addr:street": "Wiese",
+        "building": "yes",
+        "internet_access": "wlan",
+        "name": "Garni Montana",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.3574187,
+              47.0546411
+            ],
+            [
+              10.3574481,
+              47.0546078
+            ],
+            [
+              10.3574943,
+              47.0545555
+            ],
+            [
+              10.3575117,
+              47.0545626
+            ],
+            [
+              10.357678,
+              47.0546309
+            ],
+            [
+              10.3576023,
+              47.0547164
+            ],
+            [
+              10.3574187,
+              47.0546411
+            ]
+          ]
+        ]
+      },
+      "id": "way/246554647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/246635035",
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "11",
+        "addr:postcode": "6561",
+        "addr:street": "Eggerweg",
+        "building": "yes",
+        "check_date": "2024-12-15",
+        "name": "Jägerhof",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.2921303,
+              47.0116633
+            ],
+            [
+              10.2923797,
+              47.0115224
+            ],
+            [
+              10.2925869,
+              47.0116929
+            ],
+            [
+              10.2925439,
+              47.0117701
+            ],
+            [
+              10.2924161,
+              47.0118423
+            ],
+            [
+              10.2923031,
+              47.0117493
+            ],
+            [
+              10.2922626,
+              47.0117722
+            ],
+            [
+              10.2921303,
+              47.0116633
+            ]
+          ]
+        ]
+      },
+      "id": "way/246635035"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/246635052",
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "70",
+        "addr:postcode": "6561",
+        "addr:street": "Dorfstraße",
+        "building": "yes",
+        "check_date": "2024-12-15",
+        "name": "Hotel Mondin",
+        "operator": "Familie Wolf",
+        "phone": "+43 5444 5385",
+        "smoking": "outside",
+        "tourism": "hotel",
+        "website": "https://www.mondin-ischgl.at/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.2893835,
+              47.0102031
+            ],
+            [
+              10.2893169,
+              47.0101411
+            ],
+            [
+              10.2892359,
+              47.0101893
+            ],
+            [
+              10.2891336,
+              47.0100983
+            ],
+            [
+              10.2892272,
+              47.0099977
+            ],
+            [
+              10.2895629,
+              47.0098393
+            ],
+            [
+              10.2896681,
+              47.0099324
+            ],
+            [
+              10.2897269,
+              47.0099015
+            ],
+            [
+              10.2898069,
+              47.0099724
+            ],
+            [
+              10.2893835,
+              47.0102031
+            ]
+          ]
+        ]
+      },
+      "id": "way/246635052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/246635061",
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "1",
+        "addr:postcode": "6561",
+        "addr:street": "Bachweg",
+        "building": "yes",
+        "check_date": "2024-12-18",
+        "name": "Mutta",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.2896832,
+              47.0129918
+            ],
+            [
+              10.2895496,
+              47.0128764
+            ],
+            [
+              10.2896672,
+              47.0128131
+            ],
+            [
+              10.2896602,
+              47.012807
+            ],
+            [
+              10.2897931,
+              47.0127354
+            ],
+            [
+              10.2899411,
+              47.0128633
+            ],
+            [
+              10.2898047,
+              47.0129367
+            ],
+            [
+              10.289744,
+              47.0129694
+            ],
+            [
+              10.2897366,
+              47.012963
+            ],
+            [
+              10.2896832,
+              47.0129918
+            ]
+          ]
+        ]
+      },
+      "id": "way/246635061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/548859759",
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "4",
+        "addr:postcode": "6562",
+        "addr:street": "Wiesenweg",
+        "at_bev:addr_date": "2017-10-01",
+        "building": "yes",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.242327,
+              46.9884806
+            ],
+            [
+              10.2422439,
+              46.9884282
+            ],
+            [
+              10.2423647,
+              46.9883391
+            ],
+            [
+              10.2424477,
+              46.9883915
+            ],
+            [
+              10.242327,
+              46.9884806
+            ]
+          ]
+        ]
+      },
+      "id": "way/548859759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/549191288",
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "2",
+        "addr:postcode": "6562",
+        "addr:street": "Mathoner Straße",
+        "at_bev:addr_date": "2017-10-01",
+        "building": "yes",
+        "check_date": "2025-12-18",
+        "name": "Garni Schadhof",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.2493623,
+              46.9906095
+            ],
+            [
+              10.2494801,
+              46.9904889
+            ],
+            [
+              10.2496466,
+              46.9905645
+            ],
+            [
+              10.2495288,
+              46.9906852
+            ],
+            [
+              10.2493623,
+              46.9906095
+            ]
+          ]
+        ]
+      },
+      "id": "way/549191288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/966319341",
+        "addr:city": "Mathon",
+        "addr:housenumber": "11",
+        "addr:postcode": "6562",
+        "addr:street": "Mathoner Straße",
+        "building": "yes",
+        "check_date": "2024-12-20",
+        "name": "Haus Thomas",
+        "operator": "Othmar und Agnes Sonderegger",
+        "source": "local knowledge",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.2456125,
+              46.9891204
+            ],
+            [
+              10.2457195,
+              46.9889811
+            ],
+            [
+              10.2458658,
+              46.9890334
+            ],
+            [
+              10.2459087,
+              46.9890718
+            ],
+            [
+              10.2458158,
+              46.989193
+            ],
+            [
+              10.2456125,
+              46.9891204
+            ]
+          ]
+        ]
+      },
+      "id": "way/966319341"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/74864849",
+        "bicycle": "no",
+        "bridge": "yes",
+        "bridge:structure": "simple-suspension",
+        "foot": "yes",
+        "highway": "path",
+        "layer": "1",
+        "name": "Hängebrücke Bärenfalle",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.2998384,
+            47.0045279
+          ],
+          [
+            10.298444,
+            47.0048785
+          ]
+        ]
+      },
+      "id": "way/74864849"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/320494980",
+        "name": "Hotel Garni Andreas",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2916407,
+          47.0125446
+        ]
+      },
+      "id": "node/320494980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/321616958",
+        "name": "Tannenhof",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3229007,
+          47.0330659
+        ]
+      },
+      "id": "node/321616958"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/322900357",
+        "check_date": "2024-12-18",
+        "name": "Germania",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2891843,
+          47.0121091
+        ]
+      },
+      "id": "node/322900357"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/428167851",
+        "amenity": "restaurant",
+        "check_date": "2024-12-19",
+        "name": "Berghotel Bodenalpe",
+        "phone": "+43 5444 5285",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2850877,
+          46.9673764
+        ]
+      },
+      "id": "node/428167851"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/508401361",
+        "check_date": "2024-12-20",
+        "name": "Pension Zangerl",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2842568,
+          47.0076205
+        ]
+      },
+      "id": "node/508401361"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/508409038",
+        "check_date": "2024-12-18",
+        "name": "Apart Vereina",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2895505,
+          47.0126625
+        ]
+      },
+      "id": "node/508409038"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/508410653",
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "57",
+        "addr:postcode": "6561",
+        "addr:street": "Dorfstraße",
+        "check_date": "2024-12-18",
+        "internet_access": "wlan",
+        "name": "Hotel Sonne",
+        "operator": "Zangerl Eugen Hotelbetriebs GmbH",
+        "stars": "4S",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2909293,
+          47.0118763
+        ]
+      },
+      "id": "node/508410653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/611254739",
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "16",
+        "addr:postcode": "6561",
+        "addr:street": "Dorfstraße",
+        "name": "Piz Buin",
+        "tourism": "hotel",
+        "wikidata": "Q112015504"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2954044,
+          47.013667
+        ]
+      },
+      "id": "node/611254739"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/884252724",
+        "addr:city": "Ischgl",
+        "addr:housenumber": "8",
+        "addr:postcode": "6561",
+        "addr:street": "Kirchenweg",
+        "check_date": "2024-12-15",
+        "email": "hotel@stnikolaus.at",
+        "name": "Hotel Garni St. Nikolaus",
+        "phone": "+43 5444 52 47",
+        "tourism": "hotel",
+        "website": "https://stnikolaus.at/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2913973,
+          47.0121585
+        ]
+      },
+      "id": "node/884252724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/884252734",
+        "amenity": "restaurant",
+        "check_date:opening_hours": "2024-12-15",
+        "name": "Hotel Garni Almfried",
+        "opening_hours:signed": "no",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2916085,
+          47.012141
+        ]
+      },
+      "id": "node/884252734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/919587339",
+        "name": "Seiblishof",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2850056,
+          47.0077244
+        ]
+      },
+      "id": "node/919587339"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1105445452",
+        "name": "Hotel Garni Pfeifer",
+        "tourism": "hotel",
+        "website": "http://www.hotel-pfeifer.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2925784,
+          47.0129278
+        ]
+      },
+      "id": "node/1105445452"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1105445469",
+        "name": "Madlein",
+        "stars": "4",
+        "tourism": "hotel",
+        "website": "https://www.madlein.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.293264,
+          47.013757
+        ]
+      },
+      "id": "node/1105445469"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1105445493",
+        "name": "Hotel Garni Austria",
+        "tourism": "hotel",
+        "website": "http://www.austria.ischgl.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2933867,
+          47.0132574
+        ]
+      },
+      "id": "node/1105445493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1668627827",
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "11",
+        "addr:postcode": "6561",
+        "addr:street": "Ebeneweg",
+        "designation": "Apart Ebene familienfreundliches Apartmenthaus für Jung und Alt in Apart Ebene, A 6561 Ischgl, Ebeneweg 11",
+        "name": "Apart Ebene",
+        "source": "survey",
+        "tourism": "guest_house",
+        "website": "http://ebene.at"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3225117,
+          47.0346326
+        ]
+      },
+      "id": "node/1668627827"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1838724237",
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "1",
+        "addr:postcode": "6561",
+        "addr:street": "Brunnenweg",
+        "contact:email": "eveline-ischgl@aon.at",
+        "contact:fax": "+43 5444 5310 5",
+        "contact:phone": "+43 5444 5310",
+        "contact:website": "http://www.garni-eveline.at/",
+        "name": "Garni Eveline",
+        "smoking": "no",
+        "tourism": "guest_house",
+        "website": "https://www.eveline-ischgl.at/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2923708,
+          47.0125512
+        ]
+      },
+      "id": "node/1838724237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1838724437",
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "12",
+        "addr:postcode": "6561",
+        "addr:street": "Kirchenweg",
+        "check_date": "2024-12-15",
+        "name": "Gletscherblick B&B",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2908628,
+          47.0111424
+        ]
+      },
+      "id": "node/1838724437"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1838724890",
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "3",
+        "addr:postcode": "6561",
+        "addr:street": "Bachweg",
+        "name": "Alpenflora",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2899686,
+          47.0126044
+        ]
+      },
+      "id": "node/1838724890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1838724911",
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "3",
+        "addr:postcode": "6561",
+        "addr:street": "Brunnenweg",
+        "check_date": "2024-12-15",
+        "name": "Alplig",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2924207,
+          47.0126335
+        ]
+      },
+      "id": "node/1838724911"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1838725067",
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "30",
+        "addr:postcode": "6561",
+        "addr:street": "Dorfstraße",
+        "check_date": "2024-12-15",
+        "name": "Chesa Monte",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2907588,
+          47.0124822
+        ]
+      },
+      "id": "node/1838725067"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1838725640",
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "8",
+        "addr:postcode": "6561",
+        "addr:street": "Grist",
+        "email": "info@vista-allegra.at",
+        "name": "Hotel Vista Allegra KG",
+        "phone": "+43 5444 5256",
+        "tourism": "hotel",
+        "website": "https://vista-allegra.at/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2938592,
+          47.0142488
+        ]
+      },
+      "id": "node/1838725640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2072610521",
+        "addr:city": "Kappl",
+        "addr:country": "AT",
+        "addr:housenumber": "328",
+        "addr:postcode": "6555",
+        "addr:street": "Sinsen",
+        "name": "Haus Helga",
+        "tourism": "guest_house",
+        "website": "https://www.haushelga.at/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3504224,
+          47.0512407
+        ]
+      },
+      "id": "node/2072610521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2143041211",
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "7",
+        "addr:postcode": "6561",
+        "addr:street": "Prennerweg",
+        "check_date": "2025-12-17",
+        "name": "Olympia",
+        "operator": "Wolf Hannes",
+        "stars": "4",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2960535,
+          47.01447
+        ]
+      },
+      "id": "node/2143041211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2169675137",
+        "name": "Zhero",
+        "tourism": "hotel",
+        "website": "http://www.zherohotelgroup.com/de/zhero_ischgl_kappl_austria",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3574331,
+          47.0524132
+        ]
+      },
+      "id": "node/2169675137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2234565918",
+        "addr:city": "Ischgl",
+        "addr:housenumber": "4",
+        "addr:postcode": "6561",
+        "addr:street": "Fimbabahnweg",
+        "check_date": "2025-12-17",
+        "name": "Hotel Elizabeth",
+        "tourism": "hotel",
+        "website": "https://www.elizabeth.at/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2937577,
+          47.0131973
+        ]
+      },
+      "id": "node/2234565918"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2269889406",
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "4",
+        "addr:postcode": "6561",
+        "addr:street": "Äußerer Kapellenweg",
+        "building": "yes",
+        "check_date": "2025-12-14",
+        "email": "corinna.ischgl@aon.at",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "name": "Corinna",
+        "phone": "+43 5444 20011",
+        "smoking": "no",
+        "tourism": "hotel",
+        "website": "http://www.corinna.ischgl.com/index.html",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2862631,
+          47.0073366
+        ]
+      },
+      "id": "node/2269889406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2968327530",
+        "check_date": "2024-12-15",
+        "name": "Gramaser",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.285397,
+          47.0081632
+        ]
+      },
+      "id": "node/2968327530"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3783315368",
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "17",
+        "addr:postcode": "6561",
+        "addr:street": "Dorfstraße",
+        "check_date": "2025-12-17",
+        "name": "Hotel Garni Vogt",
+        "stars": "4",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2968686,
+          47.0144529
+        ]
+      },
+      "id": "node/3783315368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3874298925",
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "39",
+        "addr:postcode": "6561",
+        "addr:street": "Dorfstraße",
+        "contact:email": "hotel@solaria.at",
+        "contact:phone": "+43 5444 5205",
+        "contact:website": "http://www.solaria.at",
+        "name": "Solaria",
+        "operator": "Familie Kathrein",
+        "source": "website",
+        "stars": "4",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.293412,
+          47.0144628
+        ]
+      },
+      "id": "node/3874298925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4507296555",
+        "name": "Trisanna",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2906215,
+          47.0126659
+        ]
+      },
+      "id": "node/4507296555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4507296559",
+        "check_date": "2024-12-15",
+        "name": "Central",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2905731,
+          47.0118647
+        ]
+      },
+      "id": "node/4507296559"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4507296565",
+        "check_date": "2024-12-15",
+        "name": "Alphotel Salner",
+        "stars": "4",
+        "tourism": "hotel",
+        "website": "https://www.salner.at/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2905442,
+          47.0115661
+        ]
+      },
+      "id": "node/4507296565"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4507296566",
+        "check_date": "2024-12-18",
+        "name": "Stefanie",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2903808,
+          47.0123704
+        ]
+      },
+      "id": "node/4507296566"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4507296570",
+        "name": "Helvetia",
+        "stars": "3",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2893863,
+          47.0115568
+        ]
+      },
+      "id": "node/4507296570"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4507296571",
+        "name": "Arosa",
+        "stars": "4",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2894652,
+          47.0112768
+        ]
+      },
+      "id": "node/4507296571"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4507296588",
+        "check_date": "2024-12-15",
+        "name": "Hotel Charly",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2911413,
+          47.0111981
+        ]
+      },
+      "id": "node/4507296588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4692262968",
+        "contact:phone": "+43 5444 5417",
+        "contact:website": "http://www.ischgl.com/de/more/information/ischgl-a-z/seilbahnmuseum_az76588",
+        "name": "Seilbahnmuseum",
+        "opening_hours": "We 16:00-19:00",
+        "tourism": "museum",
+        "wikidata": "Q61762411"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2908576,
+          47.0114206
+        ]
+      },
+      "id": "node/4692262968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4757383629",
+        "check_date": "2025-12-17",
+        "name": "Nevada",
+        "stars": "4",
+        "tourism": "hotel",
+        "website": "https://www.nevada.at/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2949394,
+          47.0145849
+        ]
+      },
+      "id": "node/4757383629"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5252049651",
+        "check_date": "2024-12-15",
+        "name": "Hotel Seespitz",
+        "stars": "4",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2873247,
+          47.0086955
+        ]
+      },
+      "id": "node/5252049651"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5382558822",
+        "name": "Hotel Garni Villa Mark",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2905461,
+          47.0094917
+        ]
+      },
+      "id": "node/5382558822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6796792276",
+        "check_date": "2024-12-18",
+        "name": "Hotel Mirabell",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2866715,
+          47.0120872
+        ]
+      },
+      "id": "node/6796792276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6796839631",
+        "check_date": "2025-12-18",
+        "name": "Versaler Hof",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3025209,
+          47.0206394
+        ]
+      },
+      "id": "node/6796839631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6796839632",
+        "name": "Zalwonder",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2864797,
+          47.0119878
+        ]
+      },
+      "id": "node/6796839632"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6796855621",
+        "name": "Hotel Ischgl",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2974551,
+          47.0165537
+        ]
+      },
+      "id": "node/6796855621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6796875493",
+        "check_date": "2025-12-18",
+        "name": "Hotel Belvedere",
+        "tourism": "hotel",
+        "website": "https://www.belvedere-ischgl.at/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2924499,
+          47.0151611
+        ]
+      },
+      "id": "node/6796875493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7022739198",
+        "addr:city": "Ischgl",
+        "addr:housenumber": "60",
+        "addr:postcode": "6561",
+        "addr:street": "Dorfstraße",
+        "check_date": "2024-12-15",
+        "name": "Alt Paznaun",
+        "tourism": "guest_house",
+        "website": "https://www.alt-paznaun.at/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2904279,
+          47.0111386
+        ]
+      },
+      "id": "node/7022739198"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8856300920",
+        "name": "Ischgl Skyfly",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3023417,
+          46.9964275
+        ]
+      },
+      "id": "node/8856300920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8936268920",
+        "level": "1",
+        "name": "Paznauner Bauernmuseum",
+        "source": "LT",
+        "tourism": "museum",
+        "wikidata": "Q93839489"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2456419,
+          46.9890001
+        ]
+      },
+      "id": "node/8936268920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8940024569",
+        "addr:city": "Mathon",
+        "addr:housenumber": "11",
+        "addr:postcode": "6562",
+        "addr:street": "Mathoner Straße",
+        "check_date": "2024-12-20",
+        "guest_house": "bed_and_breakfast",
+        "internet_access": "wlan",
+        "name": "Haus Thomas",
+        "operator": "Othmar und Agnes Sonderegger",
+        "tourism": "guest_house",
+        "website": "https://www.haus-thomas.at"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2457666,
+          46.9890471
+        ]
+      },
+      "id": "node/8940024569"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9367414915",
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "4",
+        "addr:postcode": "6561",
+        "addr:street": "Sankt Antoniusweg",
+        "check_date": "2025-12-18",
+        "name": "Fatlar",
+        "phone": "+43 54445429",
+        "tourism": "hotel",
+        "website": "https://www.fatlar.at/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2938454,
+          47.0157947
+        ]
+      },
+      "id": "node/9367414915"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9444703816",
+        "name": "Hotel Eldorado",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2920692,
+          47.0138706
+        ]
+      },
+      "id": "node/9444703816"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9506977629",
+        "addr:city": "Ischgl",
+        "addr:housenumber": "28",
+        "addr:postcode": "6562",
+        "addr:street": "Mathoner Straße",
+        "check_date": "2025-12-18",
+        "email": "office@residenz-gramaser.at",
+        "guest_house": "apartment",
+        "name": "Residenz Gramaser",
+        "phone": "+43 5444 51095",
+        "tourism": "guest_house",
+        "website": "https://residenz-gramaser.at/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2457029,
+          46.9892916
+        ]
+      },
+      "id": "node/9506977629"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10240283774",
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "33",
+        "addr:postcode": "6561",
+        "addr:street": "Waldhofweg",
+        "bar": "yes",
+        "building:levels": "3",
+        "check_date": "2022-12-05",
+        "email": "info@ischgl-lodge.at",
+        "fax": "+4372027072150",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "The Ischgl Lodge",
+        "operator": "Walter Walser",
+        "payment:cash": "yes",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "+43 664 4112381",
+        "reservation": "recommended",
+        "smoking": "outside",
+        "source": "survey",
+        "stars": "4",
+        "tourism": "hotel",
+        "website": "https://the-ischgl-lodge.at",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3165576,
+          47.0281187
+        ]
+      },
+      "id": "node/10240283774"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10780322336",
+        "check_date": "2025-12-18",
+        "name": "Glöckner",
+        "tourism": "hotel",
+        "website": "https://www.gloeckner-ischgl.at/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2428315,
+          46.9875031
+        ]
+      },
+      "id": "node/10780322336"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10780324249",
+        "check_date": "2025-12-18",
+        "name": "Föhre",
+        "tourism": "hotel",
+        "website": "https://foehre.at/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2429086,
+          46.9882727
+        ]
+      },
+      "id": "node/10780324249"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10826712043",
+        "name": "Chasa Monthani",
+        "phone": "+43 6603 621083",
+        "tourism": "guest_house",
+        "website": "https://www.monthani.at/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2405429,
+          46.9888918
+        ]
+      },
+      "id": "node/10826712043"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12005621299",
+        "name": "Haus Wintertraum",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2977528,
+          47.0160733
+        ]
+      },
+      "id": "node/12005621299"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12185789473",
+        "addr:city": "Ischgl",
+        "addr:housenumber": "3",
+        "addr:postcode": "6561",
+        "addr:street": "Oberer Kirchenweg",
+        "email": "info@hotel-brigitte.com",
+        "name": "Brigitte",
+        "phone": "+43 5444 5646",
+        "stars": "4S",
+        "tourism": "hotel",
+        "website": "https://www.hotel-brigitte-ischgl.at/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2918084,
+          47.0101489
+        ]
+      },
+      "id": "node/12185789473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12389782995",
+        "name": "Hotel Kristall",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2831227,
+          47.00726
+        ]
+      },
+      "id": "node/12389782995"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12389782996",
+        "name": "Hotel Verwall",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2827351,
+          47.0070872
+        ]
+      },
+      "id": "node/12389782996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12389782999",
+        "name": "Hotel Casa Sulai",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2863641,
+          47.0078078
+        ]
+      },
+      "id": "node/12389782999"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12431420725",
+        "name": "Hotel Apart collina",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2818616,
+          47.0079633
+        ]
+      },
+      "id": "node/12431420725"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12468849992",
+        "name": "Hotel Antony",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2925587,
+          47.0160934
+        ]
+      },
+      "id": "node/12468849992"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12497570780",
+        "name": "Hotel Persura",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2894044,
+          47.0090798
+        ]
+      },
+      "id": "node/12497570780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12578345558",
+        "name": "Hotel Garni Tyola",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2938314,
+          47.0150035
+        ]
+      },
+      "id": "node/12578345558"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12630832826",
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "22",
+        "addr:postcode": "6561",
+        "addr:street": "Dorfstraße",
+        "name": "Hotel Alpina",
+        "phone": "+43 5444 20148",
+        "source": "website",
+        "tourism": "hotel",
+        "website": "https://www.alpina-ischgl.at/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.294209,
+          47.014472
+        ]
+      },
+      "id": "node/12630832826"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12728438899",
+        "name": "Haus Enzian",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.290079,
+          47.0113943
+        ]
+      },
+      "id": "node/12728438899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12731524572",
+        "addr:city": "Ischgl",
+        "addr:housenumber": "109",
+        "addr:postcode": "6561",
+        "addr:street": "Dorfstraße",
+        "email": "hotel@tanzer-ischgl.at",
+        "name": "Hotel Garni Tanzer",
+        "phone": "+43 5444 5253",
+        "stars": "3",
+        "tourism": "hotel",
+        "website": "https://tanzer-ischgl.at/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.283895,
+          47.0074623
+        ]
+      },
+      "id": "node/12731524572"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13517049481",
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "19",
+        "addr:postcode": "6561",
+        "addr:street": "Kirchenweg",
+        "name": "Goldener Adler",
+        "phone": "+4354445217",
+        "tourism": "hotel",
+        "website": "https://www.goldener-adler.at/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2910457,
+          47.0109735
+        ]
+      },
+      "id": "node/13517049481"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13545149709",
+        "name": "Alpenhotel Erika",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.28658,
+          47.0075279
+        ]
+      },
+      "id": "node/13545149709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13614433195",
+        "addr:city": "Ischgl",
+        "addr:country": "AT",
+        "addr:housenumber": "68",
+        "addr:postcode": "6561",
+        "addr:street": "Dorfstraße",
+        "name": "Christine",
+        "phone": "+43 5444 5346",
+        "tourism": "hotel",
+        "website": "https://www.hotel-christine.at/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2901983,
+          47.0105
+        ]
+      },
+      "id": "node/13614433195"
+    }
+  ]
+}
